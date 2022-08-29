@@ -1,0 +1,1073 @@
+4DLV-Analysis3 3.2.1.494368
+
+Study UID,1.2.840.113663.1500.1.319451367.1.1.20140404.115659.765
+Study date and time,2014-04-04,00:00:00
+
+
+Patient Information
+==========================================================
+PatientID,393485
+Name,PIG 393485,PIG 393485,
+Date of Birth,
+Sex,
+
+
+Timing Information
+==========================================================
+Clip Duration,538.278,ms
+Average RR Duration,618.557,ms
+Enddiastolic frame time,53.8,ms
+Endsystolic  frame time,322.95,ms
+Reference time,53.8,ms
+PreA time,430.65,ms
+Trigger time,0,ms
+
+
+
+Results
+==========================================================
+Global LV
+----------------------------------------------------------
+EDV,61.87,ml
+EDVi,--.--,
+ESV,31.88,ml
+ESVi,--.--,
+SV,29.99,ml
+ED,0.05,s
+ES,0.32,s
+EF,48.48,%
+Mass,95.80,g
+SDI,7.12,%
+SDII,18.17,%
+GLS,-13.53,%
+GCS,-21.69,%
+Twist,16.15,°
+Torsion,2.46,°/cm
+Length (ED),65.57,mm
+
+
+
+Results
+==========================================================
+Segmental Volume
+Volume
+T2P
+Minimum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],279.92,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],290.69,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],301.46,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],215.35,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],274.53,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],371.46,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],285.31,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],279.92,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],349.93,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],263.77,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],328.38,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],371.46,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],279.92,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],285.31,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],279.92,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],366.08,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Segmental Volume
+Volume
+Peak
+Minimum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],1.94,ml
+Ase15Model16SegmentZoning Segment  2 [ant/sept],1.08,ml
+Ase15Model16SegmentZoning Segment  3 [inf/sept],1.27,ml
+Ase15Model16SegmentZoning Segment  4 [     inf],1.24,ml
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],1.60,ml
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],2.15,ml
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],1.29,ml
+Ase15Model16SegmentZoning Segment  8 [ant/sept],0.63,ml
+Ase15Model16SegmentZoning Segment  9 [inf/sept],0.97,ml
+Ase15Model16SegmentZoning Segment 10 [     inf],1.27,ml
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],1.43,ml
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],1.79,ml
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],1.24,ml
+Ase15Model16SegmentZoning Segment 14 [    sept],0.94,ml
+Ase15Model16SegmentZoning Segment 15 [     inf],1.84,ml
+Ase15Model16SegmentZoning Segment 16 [     lat],1.54,ml
+----------------------------------------------------------
+
+Results
+==========================================================
+Segmental Volume
+Volume
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],1.95,ml
+Ase15Model16SegmentZoning Segment  2 [ant/sept],1.09,ml
+Ase15Model16SegmentZoning Segment  3 [inf/sept],1.28,ml
+Ase15Model16SegmentZoning Segment  4 [     inf],1.30,ml
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],1.61,ml
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],2.22,ml
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],1.30,ml
+Ase15Model16SegmentZoning Segment  8 [ant/sept],0.64,ml
+Ase15Model16SegmentZoning Segment  9 [inf/sept],1.00,ml
+Ase15Model16SegmentZoning Segment 10 [     inf],1.28,ml
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],1.47,ml
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],2.08,ml
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],1.24,ml
+Ase15Model16SegmentZoning Segment 14 [    sept],0.95,ml
+Ase15Model16SegmentZoning Segment 15 [     inf],1.84,ml
+Ase15Model16SegmentZoning Segment 16 [     lat],1.69,ml
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+3D
+T2P
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],279.92,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],366.08,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],306.84,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],231.49,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],258.39,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],269.15,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],285.31,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],279.92,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],349.93,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],269.15,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],306.84,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],366.08,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],59.23,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],5.39,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],258.39,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],344.54,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+3D
+Peak
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],5.82,mm
+Ase15Model16SegmentZoning Segment  2 [ant/sept],4.73,mm
+Ase15Model16SegmentZoning Segment  3 [inf/sept],3.10,mm
+Ase15Model16SegmentZoning Segment  4 [     inf],5.42,mm
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],7.13,mm
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],7.37,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],5.20,mm
+Ase15Model16SegmentZoning Segment  8 [ant/sept],4.44,mm
+Ase15Model16SegmentZoning Segment  9 [inf/sept],3.80,mm
+Ase15Model16SegmentZoning Segment 10 [     inf],4.74,mm
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],6.41,mm
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],5.92,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],0.18,mm
+Ase15Model16SegmentZoning Segment 14 [    sept],0.01,mm
+Ase15Model16SegmentZoning Segment 15 [     inf],0.23,mm
+Ase15Model16SegmentZoning Segment 16 [     lat],1.46,mm
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+3D
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],5.79,mm
+Ase15Model16SegmentZoning Segment  2 [ant/sept],4.37,mm
+Ase15Model16SegmentZoning Segment  3 [inf/sept],3.02,mm
+Ase15Model16SegmentZoning Segment  4 [     inf],5.22,mm
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],7.10,mm
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],7.37,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],5.15,mm
+Ase15Model16SegmentZoning Segment  8 [ant/sept],4.41,mm
+Ase15Model16SegmentZoning Segment  9 [inf/sept],3.54,mm
+Ase15Model16SegmentZoning Segment 10 [     inf],4.74,mm
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],6.24,mm
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],5.20,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],-0.78,mm
+Ase15Model16SegmentZoning Segment 14 [    sept],-3.44,mm
+Ase15Model16SegmentZoning Segment 15 [     inf],0.23,mm
+Ase15Model16SegmentZoning Segment 16 [     lat],1.31,mm
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Circumferential
+T2P
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],366.08,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],333.77,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],425.27,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],328.38,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],425.27,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],371.46,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],263.77,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],425.27,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],366.08,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],382.23,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],387.61,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],263.77,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],274.53,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],269.15,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],274.53,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],279.92,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Circumferential
+Peak
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],-1.79,mm
+Ase15Model16SegmentZoning Segment  2 [ant/sept],-1.82,mm
+Ase15Model16SegmentZoning Segment  3 [inf/sept],-1.04,mm
+Ase15Model16SegmentZoning Segment  4 [     inf],-2.05,mm
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],-2.81,mm
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],-1.63,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],1.54,mm
+Ase15Model16SegmentZoning Segment  8 [ant/sept],-0.31,mm
+Ase15Model16SegmentZoning Segment  9 [inf/sept],-0.63,mm
+Ase15Model16SegmentZoning Segment 10 [     inf],-0.63,mm
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],-1.13,mm
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],1.08,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],1.00,mm
+Ase15Model16SegmentZoning Segment 14 [    sept],0.40,mm
+Ase15Model16SegmentZoning Segment 15 [     inf],0.77,mm
+Ase15Model16SegmentZoning Segment 16 [     lat],1.26,mm
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Circumferential
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],-1.31,mm
+Ase15Model16SegmentZoning Segment  2 [ant/sept],-1.53,mm
+Ase15Model16SegmentZoning Segment  3 [inf/sept],-0.55,mm
+Ase15Model16SegmentZoning Segment  4 [     inf],-1.92,mm
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],-2.41,mm
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],-1.13,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],1.53,mm
+Ase15Model16SegmentZoning Segment  8 [ant/sept],0.08,mm
+Ase15Model16SegmentZoning Segment  9 [inf/sept],-0.31,mm
+Ase15Model16SegmentZoning Segment 10 [     inf],-0.27,mm
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],-0.72,mm
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],1.08,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],1.00,mm
+Ase15Model16SegmentZoning Segment 14 [    sept],0.40,mm
+Ase15Model16SegmentZoning Segment 15 [     inf],0.77,mm
+Ase15Model16SegmentZoning Segment 16 [     lat],1.25,mm
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Longitudinal
+T2P
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],253.01,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],382.23,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],382.23,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],236.87,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],247.63,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],247.63,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],226.11,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],360.69,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],376.85,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],231.49,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],226.11,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],247.63,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],48.47,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],10.77,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],226.11,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],220.73,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Longitudinal
+Peak
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],3.21,mm
+Ase15Model16SegmentZoning Segment  2 [ant/sept],4.22,mm
+Ase15Model16SegmentZoning Segment  3 [inf/sept],4.17,mm
+Ase15Model16SegmentZoning Segment  4 [     inf],3.62,mm
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],4.42,mm
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],3.94,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],1.17,mm
+Ase15Model16SegmentZoning Segment  8 [ant/sept],0.60,mm
+Ase15Model16SegmentZoning Segment  9 [inf/sept],0.97,mm
+Ase15Model16SegmentZoning Segment 10 [     inf],1.20,mm
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],2.00,mm
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],2.42,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],0.15,mm
+Ase15Model16SegmentZoning Segment 14 [    sept],0.02,mm
+Ase15Model16SegmentZoning Segment 15 [     inf],0.54,mm
+Ase15Model16SegmentZoning Segment 16 [     lat],0.72,mm
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Longitudinal
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],3.19,mm
+Ase15Model16SegmentZoning Segment  2 [ant/sept],3.31,mm
+Ase15Model16SegmentZoning Segment  3 [inf/sept],2.92,mm
+Ase15Model16SegmentZoning Segment  4 [     inf],3.50,mm
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],4.30,mm
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],3.85,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],1.11,mm
+Ase15Model16SegmentZoning Segment  8 [ant/sept],0.24,mm
+Ase15Model16SegmentZoning Segment  9 [inf/sept],0.30,mm
+Ase15Model16SegmentZoning Segment 10 [     inf],1.14,mm
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],1.81,mm
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],2.36,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],-0.65,mm
+Ase15Model16SegmentZoning Segment 14 [    sept],-1.28,mm
+Ase15Model16SegmentZoning Segment 15 [     inf],0.50,mm
+Ase15Model16SegmentZoning Segment 16 [     lat],0.63,mm
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Radial
+T2P
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],279.92,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],269.15,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],220.73,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],199.19,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],263.77,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],371.46,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],290.69,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],279.92,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],312.23,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],269.15,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],317.62,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],371.46,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],376.85,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],279.92,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],290.69,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],376.85,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Radial
+Peak
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],4.68,mm
+Ase15Model16SegmentZoning Segment  2 [ant/sept],3.02,mm
+Ase15Model16SegmentZoning Segment  3 [inf/sept],3.62,mm
+Ase15Model16SegmentZoning Segment  4 [     inf],3.67,mm
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],4.78,mm
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],6.17,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],4.83,mm
+Ase15Model16SegmentZoning Segment  8 [ant/sept],4.63,mm
+Ase15Model16SegmentZoning Segment  9 [inf/sept],4.10,mm
+Ase15Model16SegmentZoning Segment 10 [     inf],4.51,mm
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],5.96,mm
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],5.54,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],3.53,mm
+Ase15Model16SegmentZoning Segment 14 [    sept],3.53,mm
+Ase15Model16SegmentZoning Segment 15 [     inf],2.21,mm
+Ase15Model16SegmentZoning Segment 16 [     lat],3.14,mm
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Radial
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],4.66,mm
+Ase15Model16SegmentZoning Segment  2 [ant/sept],3.02,mm
+Ase15Model16SegmentZoning Segment  3 [inf/sept],3.49,mm
+Ase15Model16SegmentZoning Segment  4 [     inf],3.18,mm
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],4.78,mm
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],6.11,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],4.77,mm
+Ase15Model16SegmentZoning Segment  8 [ant/sept],4.60,mm
+Ase15Model16SegmentZoning Segment  9 [inf/sept],4.01,mm
+Ase15Model16SegmentZoning Segment 10 [     inf],4.51,mm
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],5.72,mm
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],4.38,mm
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],3.42,mm
+Ase15Model16SegmentZoning Segment 14 [    sept],3.52,mm
+Ase15Model16SegmentZoning Segment 15 [     inf],2.19,mm
+Ase15Model16SegmentZoning Segment 16 [     lat],2.42,mm
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Rotational
+T2P
+Peak
+ThreeSegmentZoning Segment  1 [  apical],279.92,ms
+ThreeSegmentZoning Segment  3 [   basal],328.38,ms
+ThreeSegmentZoning Segment  0 [   twist],306.84,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Rotational
+Peak
+Peak
+ThreeSegmentZoning Segment  1 [  apical],6.45,°
+ThreeSegmentZoning Segment  3 [   basal],-10.12,°
+ThreeSegmentZoning Segment  0 [   twist],16.15,°
+----------------------------------------------------------
+
+Results
+==========================================================
+Displacement
+Rotational
+ES
+ThreeSegmentZoning Segment  1 [  apical],6.39,°
+ThreeSegmentZoning Segment  3 [   basal],-8.91,°
+ThreeSegmentZoning Segment  0 [   twist],15.31,°
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Principal tangential
+T2P
+Minimum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],279.92,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],349.93,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],290.69,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],236.87,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],209.96,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],279.92,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],392.99,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],290.69,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],290.69,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],349.93,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],263.77,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],317.62,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],376.85,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],279.92,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],279.92,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],269.15,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],349.93,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Principal tangential
+Peak
+Minimum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],-25.24,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],-21.49,%
+Ase15Model16SegmentZoning Segment  2 [ant/sept],-24.13,%
+Ase15Model16SegmentZoning Segment  3 [inf/sept],-24.53,%
+Ase15Model16SegmentZoning Segment  4 [     inf],-25.11,%
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],-23.37,%
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],-24.69,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],-25.66,%
+Ase15Model16SegmentZoning Segment  8 [ant/sept],-33.96,%
+Ase15Model16SegmentZoning Segment  9 [inf/sept],-32.67,%
+Ase15Model16SegmentZoning Segment 10 [     inf],-26.08,%
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],-28.68,%
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],-28.45,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],-26.05,%
+Ase15Model16SegmentZoning Segment 14 [    sept],-28.00,%
+Ase15Model16SegmentZoning Segment 15 [     inf],-20.51,%
+Ase15Model16SegmentZoning Segment 16 [     lat],-22.78,%
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Principal tangential
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],-25.13,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],-20.98,%
+Ase15Model16SegmentZoning Segment  2 [ant/sept],-23.81,%
+Ase15Model16SegmentZoning Segment  3 [inf/sept],-24.32,%
+Ase15Model16SegmentZoning Segment  4 [     inf],-22.36,%
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],-23.28,%
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],-22.95,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],-25.32,%
+Ase15Model16SegmentZoning Segment  8 [ant/sept],-33.62,%
+Ase15Model16SegmentZoning Segment  9 [inf/sept],-31.56,%
+Ase15Model16SegmentZoning Segment 10 [     inf],-26.06,%
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],-27.93,%
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],-23.83,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],-25.95,%
+Ase15Model16SegmentZoning Segment 14 [    sept],-27.93,%
+Ase15Model16SegmentZoning Segment 15 [     inf],-20.51,%
+Ase15Model16SegmentZoning Segment 16 [     lat],-21.67,%
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Circumferential
+T2P
+Minimum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],279.92,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],279.92,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],269.15,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],220.73,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],204.58,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],274.53,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],279.92,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],290.69,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],285.31,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],360.69,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],253.01,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],306.84,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],371.46,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],279.92,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],296.07,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],269.15,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],344.54,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Circumferential
+Peak
+Minimum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],-22.07,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],-18.77,%
+Ase15Model16SegmentZoning Segment  2 [ant/sept],-21.25,%
+Ase15Model16SegmentZoning Segment  3 [inf/sept],-15.22,%
+Ase15Model16SegmentZoning Segment  4 [     inf],-23.86,%
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],-20.42,%
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],-20.52,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],-25.37,%
+Ase15Model16SegmentZoning Segment  8 [ant/sept],-32.46,%
+Ase15Model16SegmentZoning Segment  9 [inf/sept],-24.54,%
+Ase15Model16SegmentZoning Segment 10 [     inf],-23.66,%
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],-27.04,%
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],-27.15,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],-25.71,%
+Ase15Model16SegmentZoning Segment 14 [    sept],-22.07,%
+Ase15Model16SegmentZoning Segment 15 [     inf],-17.47,%
+Ase15Model16SegmentZoning Segment 16 [     lat],-21.95,%
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Circumferential
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],-22.02,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],-18.68,%
+Ase15Model16SegmentZoning Segment  2 [ant/sept],-21.25,%
+Ase15Model16SegmentZoning Segment  3 [inf/sept],-14.82,%
+Ase15Model16SegmentZoning Segment  4 [     inf],-20.43,%
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],-20.41,%
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],-20.37,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],-25.03,%
+Ase15Model16SegmentZoning Segment  8 [ant/sept],-32.23,%
+Ase15Model16SegmentZoning Segment  9 [inf/sept],-21.24,%
+Ase15Model16SegmentZoning Segment 10 [     inf],-23.43,%
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],-26.52,%
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],-22.47,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],-25.61,%
+Ase15Model16SegmentZoning Segment 14 [    sept],-21.74,%
+Ase15Model16SegmentZoning Segment 15 [     inf],-17.47,%
+Ase15Model16SegmentZoning Segment 16 [     lat],-20.60,%
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Longitudinal
+T2P
+Minimum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],269.15,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],387.61,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],300.00,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],300.00,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],247.63,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],263.77,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],387.61,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],398.37,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],279.92,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],260.00,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],258.39,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],263.77,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],382.23,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],269.15,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],290.69,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],387.61,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],398.37,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Longitudinal
+Peak
+Minimum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],-13.09,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],-12.25,%
+Ase15Model16SegmentZoning Segment  2 [ant/sept],-10.00,%
+Ase15Model16SegmentZoning Segment  3 [inf/sept],-10.00,%
+Ase15Model16SegmentZoning Segment  4 [     inf],-10.35,%
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],-14.22,%
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],-16.26,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],-12.85,%
+Ase15Model16SegmentZoning Segment  8 [ant/sept],-12.02,%
+Ase15Model16SegmentZoning Segment  9 [inf/sept],-10.00,%
+Ase15Model16SegmentZoning Segment 10 [     inf],-12.08,%
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],-15.63,%
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],-17.14,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],-14.52,%
+Ase15Model16SegmentZoning Segment 14 [    sept],-12.87,%
+Ase15Model16SegmentZoning Segment 15 [     inf],-16.35,%
+Ase15Model16SegmentZoning Segment 16 [     lat],-17.39,%
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Longitudinal
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],-13.09,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],-11.80,%
+Ase15Model16SegmentZoning Segment  2 [ant/sept],-8.02,%
+Ase15Model16SegmentZoning Segment  3 [inf/sept],-10.72,%
+Ase15Model16SegmentZoning Segment  4 [     inf],-10.19,%
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],-14.20,%
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],-14.78,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],-12.75,%
+Ase15Model16SegmentZoning Segment  8 [ant/sept],-11.96,%
+Ase15Model16SegmentZoning Segment  9 [inf/sept],-13.06,%
+Ase15Model16SegmentZoning Segment 10 [     inf],-12.02,%
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],-15.62,%
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],-15.89,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],-14.52,%
+Ase15Model16SegmentZoning Segment 14 [    sept],-12.77,%
+Ase15Model16SegmentZoning Segment 15 [     inf],-15.23,%
+Ase15Model16SegmentZoning Segment 16 [     lat],-15.99,%
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Radial
+T2P
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],274.53,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],274.53,ms
+Ase15Model16SegmentZoning Segment  2 [ant/sept],274.53,ms
+Ase15Model16SegmentZoning Segment  3 [inf/sept],312.23,ms
+Ase15Model16SegmentZoning Segment  4 [     inf],215.35,ms
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],269.15,ms
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],376.85,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],279.92,ms
+Ase15Model16SegmentZoning Segment  8 [ant/sept],279.92,ms
+Ase15Model16SegmentZoning Segment  9 [inf/sept],360.69,ms
+Ase15Model16SegmentZoning Segment 10 [     inf],253.01,ms
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],279.92,ms
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],371.46,ms
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],274.53,ms
+Ase15Model16SegmentZoning Segment 14 [    sept],296.07,ms
+Ase15Model16SegmentZoning Segment 15 [     inf],269.15,ms
+Ase15Model16SegmentZoning Segment 16 [     lat],371.46,ms
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Radial
+Peak
+Maximum
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],29.44,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],25.57,%
+Ase15Model16SegmentZoning Segment  2 [ant/sept],24.29,%
+Ase15Model16SegmentZoning Segment  3 [inf/sept],22.18,%
+Ase15Model16SegmentZoning Segment  4 [     inf],28.06,%
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],29.11,%
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],30.29,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],31.63,%
+Ase15Model16SegmentZoning Segment  8 [ant/sept],36.78,%
+Ase15Model16SegmentZoning Segment  9 [inf/sept],32.50,%
+Ase15Model16SegmentZoning Segment 10 [     inf],29.79,%
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],35.39,%
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],37.02,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],33.62,%
+Ase15Model16SegmentZoning Segment 14 [    sept],29.24,%
+Ase15Model16SegmentZoning Segment 15 [     inf],27.69,%
+Ase15Model16SegmentZoning Segment 16 [     lat],32.55,%
+----------------------------------------------------------
+
+Results
+==========================================================
+Strain
+Radial
+ES
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  0 [ average],29.40,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  1 [     ant],25.56,%
+Ase15Model16SegmentZoning Segment  2 [ant/sept],24.22,%
+Ase15Model16SegmentZoning Segment  3 [inf/sept],21.50,%
+Ase15Model16SegmentZoning Segment  4 [     inf],25.51,%
+Ase15Model16SegmentZoning Segment  5 [ inf/lat],29.11,%
+Ase15Model16SegmentZoning Segment  6 [ ant/lat],29.60,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment  7 [     ant],31.50,%
+Ase15Model16SegmentZoning Segment  8 [ant/sept],36.55,%
+Ase15Model16SegmentZoning Segment  9 [inf/sept],28.74,%
+Ase15Model16SegmentZoning Segment 10 [     inf],29.57,%
+Ase15Model16SegmentZoning Segment 11 [ inf/lat],35.27,%
+Ase15Model16SegmentZoning Segment 12 [ ant/lat],32.28,%
+----------------------------------------------------------
+Ase15Model16SegmentZoning Segment 13 [     ant],33.56,%
+Ase15Model16SegmentZoning Segment 14 [    sept],28.88,%
+Ase15Model16SegmentZoning Segment 15 [     inf],27.69,%
+Ase15Model16SegmentZoning Segment 16 [     lat],30.87,%
+----------------------------------------------------------
+
+Curves
+==========================================================
+Global Volume
+Volume
+Minimum
+Global
+Unit [ml]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment Global, 55.30, 56.19, 57.10, 58.00, 58.86, 59.67, 60.38, 60.99, 61.45, 61.76, 61.87, 61.78, 61.49, 61.02, 60.41, 59.68, 58.86, 57.98, 57.06, 56.13, 55.22, 54.33, 53.43, 52.54, 51.65, 50.76, 49.88, 49.01, 48.15, 47.29, 46.45, 45.63, 44.84, 44.07, 43.32, 42.60, 41.89, 41.21, 40.55, 39.91, 39.28, 38.68, 38.10, 37.55, 37.02, 36.51, 36.03, 35.57, 35.13, 34.72, 34.33, 33.96, 33.61, 33.29, 32.99, 32.72, 32.48, 32.27, 32.10, 31.97, 31.88, 31.84, 31.84, 31.88, 31.95, 32.04, 32.15, 32.26, 32.38, 32.48, 32.58, 32.64, 32.69, 32.73, 32.77, 32.82, 32.89, 33.00, 33.15, 33.34, 33.61, 33.93, 34.31, 34.74, 35.21, 35.71, 36.23, 36.78, 37.33, 37.89, 38.44,
+
+Curves
+==========================================================
+Segmental Volume
+Volume
+Minimum
+Ase15Model16SegmentZoning
+Unit [ml]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1,  4.06,  4.08,  4.09,  4.10,  4.11,  4.12,  4.13,  4.13,  4.12,  4.11,  4.08,  4.05,  4.00,  3.95,  3.89,  3.83,  3.76,  3.70,  3.63,  3.57,  3.51,  3.45,  3.40,  3.35,  3.30,  3.25,  3.20,  3.16,  3.11,  3.07,  3.02,  2.98,  2.93,  2.89,  2.84,  2.80,  2.75,  2.71,  2.66,  2.62,  2.58,  2.53,  2.49,  2.45,  2.41,  2.37,  2.33,  2.29,  2.25,  2.22,  2.18,  2.15,  2.12,  2.09,  2.06,  2.03,  2.01,  1.99,  1.97,  1.96,  1.95,  1.94,  1.94,  1.94,  1.94,  1.95,  1.95,  1.96,  1.97,  1.98,  1.98,  1.99,  1.99,  1.99,  1.99,  1.99,  2.00,  2.01,  2.02,  2.05,  2.08,  2.12,  2.17,  2.23,  2.29,  2.35,  2.42,  2.49,  2.57,  2.64,  2.72,
+Ase15Model16SegmentZoning Segment  2,  2.01,  2.01,  2.02,  2.03,  2.03,  2.04,  2.04,  2.05,  2.05,  2.05,  2.05,  2.05,  2.04,  2.03,  2.02,  2.01,  2.00,  1.98,  1.97,  1.95,  1.93,  1.91,  1.89,  1.87,  1.84,  1.82,  1.79,  1.76,  1.74,  1.71,  1.69,  1.66,  1.64,  1.62,  1.60,  1.58,  1.55,  1.53,  1.51,  1.49,  1.47,  1.44,  1.42,  1.40,  1.37,  1.35,  1.33,  1.30,  1.28,  1.26,  1.24,  1.22,  1.20,  1.18,  1.17,  1.15,  1.14,  1.12,  1.11,  1.10,  1.09,  1.09,  1.09,  1.08,  1.08,  1.08,  1.09,  1.09,  1.09,  1.10,  1.10,  1.10,  1.11,  1.11,  1.11,  1.12,  1.12,  1.13,  1.13,  1.14,  1.15,  1.16,  1.17,  1.18,  1.20,  1.21,  1.22,  1.24,  1.25,  1.27,  1.28,
+Ase15Model16SegmentZoning Segment  3,  2.21,  2.23,  2.24,  2.26,  2.27,  2.28,  2.29,  2.30,  2.30,  2.30,  2.29,  2.27,  2.25,  2.22,  2.19,  2.15,  2.11,  2.08,  2.04,  2.00,  1.96,  1.93,  1.90,  1.87,  1.84,  1.82,  1.79,  1.77,  1.74,  1.71,  1.68,  1.65,  1.62,  1.59,  1.56,  1.53,  1.50,  1.47,  1.45,  1.42,  1.40,  1.38,  1.36,  1.35,  1.34,  1.33,  1.32,  1.31,  1.30,  1.30,  1.29,  1.29,  1.29,  1.28,  1.28,  1.28,  1.28,  1.28,  1.28,  1.28,  1.28,  1.28,  1.28,  1.28,  1.28,  1.27,  1.27,  1.28,  1.28,  1.28,  1.29,  1.30,  1.32,  1.34,  1.36,  1.38,  1.40,  1.43,  1.45,  1.48,  1.51,  1.54,  1.57,  1.60,  1.64,  1.67,  1.71,  1.74,  1.78,  1.82,  1.85,
+Ase15Model16SegmentZoning Segment  4,  2.49,  2.50,  2.50,  2.51,  2.51,  2.51,  2.51,  2.50,  2.49,  2.48,  2.46,  2.43,  2.39,  2.35,  2.30,  2.25,  2.20,  2.15,  2.09,  2.04,  1.99,  1.94,  1.90,  1.85,  1.81,  1.77,  1.73,  1.69,  1.66,  1.62,  1.58,  1.55,  1.52,  1.49,  1.46,  1.43,  1.41,  1.38,  1.36,  1.34,  1.32,  1.31,  1.29,  1.28,  1.27,  1.26,  1.25,  1.25,  1.24,  1.24,  1.24,  1.24,  1.24,  1.24,  1.25,  1.26,  1.26,  1.27,  1.28,  1.29,  1.30,  1.31,  1.32,  1.33,  1.35,  1.36,  1.37,  1.38,  1.39,  1.40,  1.41,  1.42,  1.43,  1.43,  1.44,  1.45,  1.45,  1.46,  1.47,  1.49,  1.50,  1.52,  1.54,  1.57,  1.59,  1.62,  1.65,  1.68,  1.71,  1.74,  1.77,
+Ase15Model16SegmentZoning Segment  5,  2.87,  2.95,  3.03,  3.11,  3.18,  3.25,  3.32,  3.37,  3.42,  3.45,  3.47,  3.47,  3.46,  3.43,  3.40,  3.35,  3.30,  3.24,  3.18,  3.11,  3.05,  2.99,  2.92,  2.85,  2.78,  2.71,  2.65,  2.58,  2.52,  2.45,  2.39,  2.34,  2.28,  2.23,  2.18,  2.14,  2.10,  2.06,  2.02,  1.99,  1.95,  1.92,  1.89,  1.87,  1.85,  1.82,  1.80,  1.79,  1.77,  1.75,  1.73,  1.72,  1.70,  1.68,  1.67,  1.65,  1.64,  1.63,  1.62,  1.61,  1.61,  1.60,  1.61,  1.61,  1.61,  1.62,  1.62,  1.63,  1.64,  1.64,  1.65,  1.65,  1.65,  1.65,  1.65,  1.65,  1.65,  1.65,  1.65,  1.66,  1.66,  1.66,  1.67,  1.67,  1.68,  1.68,  1.69,  1.69,  1.70,  1.71,  1.71,
+Ase15Model16SegmentZoning Segment  6,  3.62,  3.77,  3.91,  4.05,  4.19,  4.32,  4.44,  4.54,  4.64,  4.71,  4.75,  4.78,  4.78,  4.76,  4.72,  4.67,  4.60,  4.53,  4.46,  4.38,  4.31,  4.23,  4.16,  4.09,  4.02,  3.95,  3.88,  3.80,  3.73,  3.66,  3.59,  3.51,  3.44,  3.37,  3.30,  3.24,  3.17,  3.11,  3.05,  2.99,  2.93,  2.88,  2.83,  2.78,  2.73,  2.69,  2.65,  2.61,  2.57,  2.54,  2.50,  2.46,  2.43,  2.39,  2.36,  2.33,  2.30,  2.28,  2.26,  2.24,  2.22,  2.22,  2.21,  2.22,  2.22,  2.23,  2.23,  2.24,  2.24,  2.25,  2.25,  2.24,  2.23,  2.22,  2.21,  2.19,  2.18,  2.17,  2.16,  2.15,  2.15,  2.16,  2.17,  2.18,  2.20,  2.22,  2.24,  2.26,  2.28,  2.30,  2.33,
+Ase15Model16SegmentZoning Segment  7,  3.00,  2.99,  2.98,  2.98,  2.97,  2.96,  2.95,  2.94,  2.92,  2.90,  2.87,  2.83,  2.79,  2.75,  2.70,  2.65,  2.60,  2.55,  2.50,  2.45,  2.41,  2.37,  2.33,  2.30,  2.27,  2.24,  2.21,  2.19,  2.16,  2.14,  2.11,  2.08,  2.05,  2.02,  1.98,  1.95,  1.92,  1.89,  1.86,  1.82,  1.79,  1.76,  1.73,  1.70,  1.66,  1.63,  1.60,  1.57,  1.54,  1.51,  1.49,  1.46,  1.44,  1.41,  1.39,  1.37,  1.35,  1.34,  1.32,  1.31,  1.30,  1.29,  1.29,  1.29,  1.29,  1.29,  1.30,  1.31,  1.31,  1.32,  1.33,  1.34,  1.35,  1.36,  1.37,  1.38,  1.40,  1.41,  1.43,  1.46,  1.49,  1.52,  1.56,  1.60,  1.64,  1.69,  1.73,  1.78,  1.83,  1.88,  1.93,
+Ase15Model16SegmentZoning Segment  8,  1.50,  1.52,  1.53,  1.55,  1.56,  1.58,  1.59,  1.60,  1.60,  1.61,  1.61,  1.60,  1.60,  1.59,  1.57,  1.56,  1.54,  1.52,  1.50,  1.48,  1.45,  1.43,  1.41,  1.39,  1.36,  1.34,  1.31,  1.29,  1.26,  1.24,  1.21,  1.19,  1.16,  1.13,  1.11,  1.08,  1.06,  1.03,  1.01,  0.98,  0.96,  0.94,  0.92,  0.90,  0.88,  0.86,  0.84,  0.82,  0.80,  0.78,  0.77,  0.75,  0.73,  0.72,  0.70,  0.69,  0.68,  0.66,  0.65,  0.65,  0.64,  0.64,  0.63,  0.63,  0.64,  0.64,  0.64,  0.65,  0.65,  0.66,  0.66,  0.66,  0.67,  0.67,  0.67,  0.68,  0.68,  0.68,  0.69,  0.69,  0.70,  0.71,  0.72,  0.73,  0.74,  0.76,  0.77,  0.78,  0.80,  0.81,  0.82,
+Ase15Model16SegmentZoning Segment  9,  1.99,  2.01,  2.03,  2.05,  2.07,  2.09,  2.10,  2.11,  2.12,  2.12,  2.12,  2.11,  2.09,  2.07,  2.05,  2.02,  1.99,  1.96,  1.93,  1.89,  1.86,  1.83,  1.81,  1.78,  1.75,  1.73,  1.70,  1.67,  1.64,  1.62,  1.58,  1.55,  1.51,  1.48,  1.44,  1.41,  1.37,  1.33,  1.30,  1.27,  1.24,  1.22,  1.20,  1.18,  1.16,  1.14,  1.13,  1.12,  1.11,  1.09,  1.08,  1.07,  1.06,  1.05,  1.04,  1.03,  1.03,  1.02,  1.01,  1.01,  1.00,  0.99,  0.99,  0.99,  0.99,  0.98,  0.98,  0.98,  0.98,  0.98,  0.98,  0.97,  0.97,  0.97,  0.97,  0.97,  0.97,  0.97,  0.98,  1.00,  1.02,  1.04,  1.07,  1.10,  1.14,  1.18,  1.22,  1.26,  1.31,  1.35,  1.40,
+Ase15Model16SegmentZoning Segment 10,  2.66,  2.68,  2.70,  2.73,  2.75,  2.77,  2.78,  2.79,  2.80,  2.80,  2.79,  2.77,  2.74,  2.71,  2.67,  2.62,  2.57,  2.52,  2.47,  2.42,  2.37,  2.32,  2.27,  2.22,  2.17,  2.13,  2.08,  2.03,  1.99,  1.94,  1.90,  1.86,  1.81,  1.77,  1.73,  1.69,  1.66,  1.62,  1.59,  1.56,  1.53,  1.50,  1.47,  1.45,  1.43,  1.41,  1.39,  1.37,  1.36,  1.34,  1.33,  1.32,  1.31,  1.30,  1.29,  1.29,  1.28,  1.28,  1.27,  1.27,  1.28,  1.28,  1.29,  1.29,  1.30,  1.31,  1.32,  1.33,  1.34,  1.35,  1.35,  1.36,  1.36,  1.36,  1.36,  1.36,  1.36,  1.36,  1.37,  1.39,  1.41,  1.43,  1.46,  1.50,  1.54,  1.59,  1.63,  1.68,  1.73,  1.78,  1.83,
+Ase15Model16SegmentZoning Segment 11,  2.79,  2.89,  2.98,  3.08,  3.17,  3.26,  3.34,  3.41,  3.47,  3.51,  3.54,  3.56,  3.56,  3.54,  3.52,  3.48,  3.43,  3.38,  3.32,  3.26,  3.20,  3.13,  3.06,  2.99,  2.92,  2.84,  2.77,  2.69,  2.62,  2.55,  2.49,  2.42,  2.37,  2.31,  2.26,  2.21,  2.16,  2.12,  2.08,  2.04,  2.00,  1.96,  1.92,  1.89,  1.85,  1.82,  1.79,  1.76,  1.73,  1.71,  1.68,  1.65,  1.63,  1.60,  1.58,  1.56,  1.54,  1.52,  1.50,  1.48,  1.47,  1.46,  1.45,  1.45,  1.44,  1.44,  1.44,  1.43,  1.43,  1.43,  1.43,  1.43,  1.43,  1.43,  1.43,  1.44,  1.44,  1.44,  1.45,  1.45,  1.46,  1.47,  1.48,  1.49,  1.50,  1.51,  1.52,  1.54,  1.55,  1.56,  1.58,
+Ase15Model16SegmentZoning Segment 12,  3.30,  3.43,  3.56,  3.69,  3.81,  3.93,  4.04,  4.14,  4.22,  4.29,  4.34,  4.37,  4.38,  4.38,  4.36,  4.32,  4.28,  4.23,  4.17,  4.11,  4.05,  3.99,  3.92,  3.85,  3.78,  3.71,  3.64,  3.57,  3.49,  3.42,  3.36,  3.29,  3.23,  3.17,  3.11,  3.05,  3.00,  2.95,  2.90,  2.84,  2.79,  2.74,  2.69,  2.64,  2.59,  2.55,  2.50,  2.46,  2.42,  2.38,  2.34,  2.31,  2.27,  2.24,  2.21,  2.19,  2.16,  2.14,  2.12,  2.10,  2.08,  2.07,  2.06,  2.05,  2.04,  2.03,  2.02,  2.01,  2.00,  1.99,  1.97,  1.95,  1.93,  1.90,  1.87,  1.85,  1.83,  1.81,  1.80,  1.79,  1.80,  1.82,  1.84,  1.88,  1.92,  1.96,  2.01,  2.06,  2.12,  2.17,  2.22,
+Ase15Model16SegmentZoning Segment 13,  2.33,  2.37,  2.41,  2.45,  2.49,  2.52,  2.55,  2.58,  2.60,  2.61,  2.61,  2.60,  2.59,  2.56,  2.53,  2.49,  2.45,  2.41,  2.37,  2.33,  2.29,  2.25,  2.21,  2.18,  2.15,  2.11,  2.08,  2.05,  2.02,  1.99,  1.95,  1.92,  1.89,  1.86,  1.83,  1.80,  1.77,  1.74,  1.71,  1.68,  1.65,  1.63,  1.60,  1.57,  1.54,  1.51,  1.49,  1.46,  1.44,  1.42,  1.39,  1.37,  1.35,  1.33,  1.31,  1.30,  1.28,  1.27,  1.26,  1.25,  1.24,  1.24,  1.24,  1.24,  1.24,  1.24,  1.25,  1.25,  1.25,  1.26,  1.26,  1.26,  1.26,  1.25,  1.25,  1.25,  1.25,  1.25,  1.25,  1.26,  1.26,  1.28,  1.29,  1.31,  1.33,  1.35,  1.37,  1.39,  1.42,  1.44,  1.46,
+Ase15Model16SegmentZoning Segment 14,  1.75,  1.78,  1.82,  1.86,  1.89,  1.93,  1.96,  1.99,  2.01,  2.02,  2.03,  2.03,  2.03,  2.02,  2.00,  1.98,  1.95,  1.92,  1.90,  1.87,  1.84,  1.81,  1.78,  1.75,  1.72,  1.70,  1.67,  1.64,  1.61,  1.58,  1.55,  1.52,  1.48,  1.45,  1.42,  1.39,  1.36,  1.33,  1.30,  1.27,  1.25,  1.22,  1.20,  1.18,  1.16,  1.14,  1.12,  1.11,  1.09,  1.08,  1.06,  1.05,  1.03,  1.02,  1.00,  0.99,  0.98,  0.97,  0.96,  0.95,  0.95,  0.94,  0.94,  0.94,  0.94,  0.94,  0.95,  0.95,  0.95,  0.96,  0.97,  0.97,  0.98,  0.99,  1.00,  1.01,  1.02,  1.03,  1.04,  1.05,  1.06,  1.07,  1.08,  1.09,  1.09,  1.10,  1.11,  1.12,  1.12,  1.13,  1.14,
+Ase15Model16SegmentZoning Segment 15,  2.76,  2.80,  2.84,  2.89,  2.93,  2.97,  3.00,  3.03,  3.05,  3.07,  3.08,  3.07,  3.06,  3.04,  3.02,  2.99,  2.95,  2.92,  2.88,  2.84,  2.80,  2.77,  2.73,  2.70,  2.66,  2.63,  2.59,  2.56,  2.52,  2.49,  2.45,  2.42,  2.38,  2.35,  2.31,  2.28,  2.25,  2.22,  2.19,  2.16,  2.13,  2.11,  2.09,  2.07,  2.05,  2.03,  2.01,  2.00,  1.98,  1.97,  1.95,  1.94,  1.92,  1.91,  1.90,  1.88,  1.87,  1.86,  1.85,  1.85,  1.84,  1.84,  1.84,  1.84,  1.84,  1.85,  1.85,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.86,  1.87,  1.88,  1.89,  1.90,  1.91,  1.92,  1.93,  1.95,  1.96,  1.97,
+Ase15Model16SegmentZoning Segment 16,  2.45,  2.52,  2.60,  2.67,  2.74,  2.81,  2.87,  2.92,  2.97,  3.01,  3.04,  3.06,  3.06,  3.06,  3.05,  3.03,  3.00,  2.97,  2.94,  2.90,  2.86,  2.82,  2.78,  2.73,  2.68,  2.63,  2.58,  2.53,  2.48,  2.43,  2.39,  2.35,  2.31,  2.27,  2.24,  2.21,  2.17,  2.15,  2.12,  2.09,  2.06,  2.03,  2.01,  1.98,  1.95,  1.93,  1.90,  1.88,  1.86,  1.84,  1.82,  1.80,  1.79,  1.77,  1.76,  1.74,  1.73,  1.72,  1.71,  1.70,  1.69,  1.68,  1.67,  1.66,  1.65,  1.64,  1.64,  1.63,  1.62,  1.61,  1.60,  1.60,  1.59,  1.57,  1.57,  1.56,  1.55,  1.55,  1.54,  1.55,  1.55,  1.57,  1.58,  1.60,  1.62,  1.65,  1.68,  1.70,  1.73,  1.76,  1.79,
+
+Curves
+==========================================================
+Displacement
+3D
+Maximum
+Ase15Model16SegmentZoning
+Unit [mm]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1,  0.53,  0.45,  0.36,  0.27,  0.19,  0.12,  0.06,  0.01, -0.02, -0.02, -0.00,  0.05,  0.13,  0.23,  0.35,  0.49,  0.64,  0.79,  0.95,  1.10,  1.25,  1.39,  1.53,  1.66,  1.79,  1.92,  2.05,  2.18,  2.30,  2.43,  2.56,  2.68,  2.81,  2.94,  3.06,  3.18,  3.31,  3.43,  3.55,  3.68,  3.80,  3.93,  4.06,  4.18,  4.31,  4.43,  4.55,  4.67,  4.79,  4.90,  5.01,  5.12,  5.22,  5.32,  5.41,  5.50,  5.58,  5.65,  5.71,  5.76,  5.79,  5.81,  5.82,  5.81,  5.79,  5.77,  5.75,  5.72,  5.69,  5.67,  5.66,  5.66,  5.66,  5.67,  5.69,  5.69,  5.69,  5.68,  5.65,  5.61,  5.54,  5.44,  5.32,  5.19,  5.04,  4.88,  4.70,  4.53,  4.34,  4.16,  3.98,
+Ase15Model16SegmentZoning Segment  2,  1.02,  0.89,  0.76,  0.63,  0.51,  0.39,  0.29,  0.19,  0.11,  0.04, -0.00, -0.02, -0.03, -0.01,  0.02,  0.07,  0.13,  0.20,  0.27,  0.36,  0.45,  0.54,  0.64,  0.74,  0.85,  0.97,  1.08,  1.20,  1.31,  1.43,  1.54,  1.65,  1.75,  1.85,  1.95,  2.05,  2.15,  2.25,  2.35,  2.45,  2.56,  2.67,  2.78,  2.90,  3.02,  3.13,  3.24,  3.36,  3.46,  3.57,  3.67,  3.76,  3.85,  3.93,  4.01,  4.09,  4.15,  4.22,  4.27,  4.33,  4.37,  4.41,  4.44,  4.46,  4.48,  4.49,  4.50,  4.51,  4.52,  4.54,  4.55,  4.57,  4.60,  4.63,  4.66,  4.68,  4.71,  4.72,  4.73,  4.73,  4.71,  4.69,  4.65,  4.60,  4.54,  4.48,  4.41,  4.34,  4.26,  4.19,  4.12,
+Ase15Model16SegmentZoning Segment  3,  0.09,  0.07,  0.04,  0.02, -0.01, -0.02, -0.04, -0.04, -0.04, -0.03, -0.00,  0.04,  0.09,  0.15,  0.22,  0.30,  0.39,  0.48,  0.57,  0.66,  0.75,  0.84,  0.92,  1.01,  1.10,  1.19,  1.28,  1.37,  1.46,  1.55,  1.65,  1.75,  1.84,  1.94,  2.04,  2.14,  2.23,  2.32,  2.41,  2.49,  2.57,  2.64,  2.70,  2.76,  2.82,  2.86,  2.91,  2.94,  2.98,  3.00,  3.02,  3.04,  3.04,  3.04,  3.04,  3.04,  3.03,  3.02,  3.02,  3.01,  3.02,  3.03,  3.04,  3.05,  3.07,  3.09,  3.10,  3.10,  3.10,  3.09,  3.06,  3.02,  2.97,  2.91,  2.84,  2.76,  2.67,  2.57,  2.46,  2.35,  2.23,  2.10,  1.96,  1.82,  1.67,  1.51,  1.35,  1.19,  1.03,  0.87,  0.70,
+Ase15Model16SegmentZoning Segment  4,  0.15,  0.10,  0.06,  0.01, -0.03, -0.06, -0.08, -0.09, -0.08, -0.05, -0.00,  0.08,  0.18,  0.30,  0.44,  0.60,  0.77,  0.94,  1.12,  1.30,  1.48,  1.66,  1.83,  2.01,  2.19,  2.36,  2.53,  2.71,  2.88,  3.05,  3.21,  3.37,  3.53,  3.69,  3.84,  3.98,  4.12,  4.25,  4.38,  4.50,  4.62,  4.73,  4.84,  4.93,  5.02,  5.11,  5.18,  5.25,  5.30,  5.35,  5.38,  5.40,  5.42,  5.42,  5.41,  5.40,  5.37,  5.34,  5.31,  5.27,  5.22,  5.17,  5.12,  5.06,  4.99,  4.93,  4.86,  4.80,  4.75,  4.70,  4.66,  4.63,  4.61,  4.59,  4.58,  4.57,  4.56,  4.54,  4.50,  4.45,  4.39,  4.30,  4.19,  4.07,  3.94,  3.80,  3.65,  3.50,  3.34,  3.18,  3.03,
+Ase15Model16SegmentZoning Segment  5,  1.92,  1.67,  1.42,  1.17,  0.93,  0.70,  0.49,  0.31,  0.17,  0.06, -0.00, -0.01,  0.02,  0.10,  0.22,  0.36,  0.53,  0.72,  0.92,  1.13,  1.34,  1.56,  1.78,  2.01,  2.24,  2.47,  2.71,  2.94,  3.18,  3.41,  3.64,  3.86,  4.07,  4.28,  4.48,  4.67,  4.86,  5.04,  5.21,  5.38,  5.55,  5.70,  5.85,  5.99,  6.13,  6.25,  6.37,  6.48,  6.58,  6.67,  6.76,  6.83,  6.90,  6.97,  7.02,  7.06,  7.10,  7.12,  7.13,  7.12,  7.10,  7.07,  7.02,  6.96,  6.89,  6.81,  6.73,  6.66,  6.58,  6.52,  6.47,  6.43,  6.41,  6.39,  6.38,  6.38,  6.38,  6.38,  6.38,  6.37,  6.35,  6.33,  6.31,  6.27,  6.24,  6.20,  6.16,  6.12,  6.08,  6.04,  6.00,
+Ase15Model16SegmentZoning Segment  6,  2.73,  2.39,  2.03,  1.69,  1.35,  1.03,  0.74,  0.48,  0.27,  0.10, -0.00, -0.04, -0.01,  0.06,  0.19,  0.35,  0.53,  0.74,  0.96,  1.17,  1.38,  1.59,  1.79,  1.99,  2.19,  2.39,  2.58,  2.78,  2.98,  3.18,  3.38,  3.58,  3.78,  3.98,  4.17,  4.36,  4.55,  4.73,  4.91,  5.08,  5.25,  5.41,  5.56,  5.71,  5.85,  5.99,  6.12,  6.25,  6.37,  6.49,  6.60,  6.71,  6.82,  6.93,  7.03,  7.12,  7.20,  7.27,  7.32,  7.35,  7.37,  7.36,  7.33,  7.29,  7.23,  7.17,  7.10,  7.04,  6.98,  6.93,  6.90,  6.88,  6.89,  6.90,  6.92,  6.94,  6.97,  7.00,  7.02,  7.03,  7.03,  7.02,  6.99,  6.96,  6.93,  6.89,  6.84,  6.79,  6.74,  6.69,  6.65,
+Ase15Model16SegmentZoning Segment  7, -0.59, -0.54, -0.50, -0.46, -0.41, -0.36, -0.30, -0.24, -0.17, -0.09, -0.00,  0.11,  0.23,  0.36,  0.49,  0.63,  0.78,  0.92,  1.05,  1.18,  1.30,  1.40,  1.49,  1.58,  1.66,  1.73,  1.80,  1.88,  1.95,  2.03,  2.11,  2.20,  2.29,  2.39,  2.49,  2.60,  2.70,  2.81,  2.92,  3.04,  3.15,  3.27,  3.39,  3.51,  3.63,  3.75,  3.87,  3.99,  4.10,  4.22,  4.33,  4.44,  4.54,  4.64,  4.74,  4.83,  4.91,  4.99,  5.05,  5.11,  5.15,  5.18,  5.19,  5.20,  5.19,  5.18,  5.16,  5.13,  5.10,  5.06,  5.02,  4.99,  4.95,  4.91,  4.87,  4.82,  4.76,  4.69,  4.60,  4.50,  4.39,  4.26,  4.11,  3.95,  3.77,  3.59,  3.40,  3.21,  3.01,  2.81,  2.61,
+Ase15Model16SegmentZoning Segment  8,  0.05,  0.04,  0.02,  0.01, -0.01, -0.02, -0.02, -0.03, -0.02, -0.02, -0.00,  0.02,  0.05,  0.09,  0.14,  0.19,  0.25,  0.31,  0.38,  0.45,  0.53,  0.61,  0.70,  0.79,  0.89,  0.99,  1.10,  1.20,  1.31,  1.42,  1.53,  1.64,  1.75,  1.86,  1.98,  2.09,  2.20,  2.31,  2.42,  2.52,  2.63,  2.73,  2.83,  2.93,  3.02,  3.12,  3.21,  3.30,  3.39,  3.49,  3.58,  3.68,  3.78,  3.88,  3.98,  4.08,  4.17,  4.25,  4.32,  4.37,  4.41,  4.44,  4.44,  4.44,  4.42,  4.40,  4.36,  4.33,  4.29,  4.26,  4.23,  4.20,  4.17,  4.15,  4.13,  4.10,  4.08,  4.05,  4.02,  3.98,  3.94,  3.89,  3.83,  3.78,  3.71,  3.65,  3.58,  3.51,  3.44,  3.37,  3.30,
+Ase15Model16SegmentZoning Segment  9,  0.28,  0.24,  0.19,  0.14,  0.10,  0.06,  0.03,  0.00, -0.01, -0.01, -0.00,  0.03,  0.07,  0.13,  0.20,  0.27,  0.35,  0.44,  0.52,  0.61,  0.68,  0.76,  0.83,  0.90,  0.97,  1.03,  1.10,  1.18,  1.26,  1.34,  1.44,  1.54,  1.65,  1.76,  1.88,  2.00,  2.12,  2.24,  2.35,  2.46,  2.55,  2.64,  2.72,  2.80,  2.87,  2.93,  2.99,  3.04,  3.10,  3.15,  3.19,  3.24,  3.28,  3.32,  3.36,  3.40,  3.43,  3.46,  3.49,  3.52,  3.54,  3.57,  3.59,  3.61,  3.63,  3.64,  3.66,  3.67,  3.69,  3.70,  3.72,  3.74,  3.76,  3.78,  3.79,  3.80,  3.80,  3.79,  3.76,  3.71,  3.63,  3.53,  3.41,  3.27,  3.11,  2.94,  2.76,  2.57,  2.37,  2.18,  1.99,
+Ase15Model16SegmentZoning Segment 10,  0.17,  0.13,  0.09,  0.05,  0.01, -0.02, -0.04, -0.05, -0.05, -0.03, -0.00,  0.05,  0.13,  0.22,  0.32,  0.44,  0.56,  0.69,  0.82,  0.96,  1.09,  1.23,  1.36,  1.49,  1.62,  1.76,  1.89,  2.02,  2.16,  2.29,  2.43,  2.56,  2.70,  2.83,  2.96,  3.09,  3.22,  3.34,  3.46,  3.57,  3.68,  3.78,  3.88,  3.96,  4.05,  4.12,  4.19,  4.26,  4.32,  4.38,  4.44,  4.49,  4.54,  4.59,  4.63,  4.66,  4.69,  4.71,  4.73,  4.74,  4.74,  4.73,  4.71,  4.68,  4.65,  4.61,  4.57,  4.53,  4.50,  4.46,  4.44,  4.42,  4.41,  4.40,  4.39,  4.38,  4.36,  4.33,  4.29,  4.22,  4.13,  4.02,  3.89,  3.74,  3.57,  3.40,  3.21,  3.02,  2.82,  2.62,  2.43,
+Ase15Model16SegmentZoning Segment 11,  1.63,  1.43,  1.22,  1.01,  0.81,  0.62,  0.45,  0.29,  0.16,  0.07, -0.00, -0.03, -0.02,  0.01,  0.08,  0.17,  0.28,  0.41,  0.55,  0.70,  0.86,  1.03,  1.21,  1.40,  1.60,  1.80,  2.00,  2.20,  2.40,  2.59,  2.78,  2.96,  3.12,  3.28,  3.43,  3.58,  3.72,  3.86,  3.99,  4.12,  4.25,  4.38,  4.51,  4.63,  4.74,  4.86,  4.97,  5.08,  5.19,  5.29,  5.39,  5.50,  5.60,  5.70,  5.79,  5.88,  5.97,  6.05,  6.12,  6.18,  6.24,  6.29,  6.33,  6.36,  6.38,  6.40,  6.41,  6.41,  6.41,  6.40,  6.39,  6.37,  6.35,  6.33,  6.30,  6.27,  6.23,  6.19,  6.15,  6.10,  6.05,  6.00,  5.94,  5.89,  5.83,  5.77,  5.71,  5.65,  5.59,  5.52,  5.46,
+Ase15Model16SegmentZoning Segment 12,  1.95,  1.71,  1.47,  1.23,  0.99,  0.77,  0.57,  0.38,  0.22,  0.09, -0.00, -0.06, -0.08, -0.07, -0.03,  0.03,  0.12,  0.22,  0.33,  0.46,  0.58,  0.72,  0.86,  1.01,  1.17,  1.33,  1.49,  1.65,  1.81,  1.97,  2.12,  2.27,  2.41,  2.54,  2.66,  2.78,  2.90,  3.02,  3.14,  3.26,  3.38,  3.51,  3.64,  3.76,  3.89,  4.01,  4.13,  4.25,  4.36,  4.47,  4.56,  4.65,  4.74,  4.81,  4.88,  4.95,  5.01,  5.06,  5.12,  5.16,  5.20,  5.24,  5.27,  5.29,  5.31,  5.33,  5.35,  5.38,  5.40,  5.44,  5.48,  5.53,  5.60,  5.67,  5.74,  5.80,  5.86,  5.90,  5.92,  5.91,  5.88,  5.81,  5.72,  5.60,  5.46,  5.30,  5.14,  4.96,  4.78,  4.59,  4.41,
+Ase15Model16SegmentZoning Segment 13, -0.33, -0.29, -0.26, -0.22, -0.19, -0.16, -0.12, -0.09, -0.06, -0.03,  0.00,  0.03,  0.05,  0.08,  0.10,  0.12,  0.14,  0.15,  0.17,  0.17,  0.18,  0.18,  0.18,  0.18,  0.17,  0.16,  0.15,  0.14,  0.12,  0.10,  0.08,  0.06,  0.04,  0.01, -0.01, -0.04, -0.07, -0.10, -0.14, -0.18, -0.22, -0.26, -0.30, -0.35, -0.40, -0.45, -0.50, -0.54, -0.58, -0.62, -0.66, -0.69, -0.71, -0.73, -0.75, -0.76, -0.77, -0.78, -0.78, -0.78, -0.78, -0.77, -0.76, -0.74, -0.73, -0.71, -0.69, -0.68, -0.67, -0.67, -0.68, -0.70, -0.72, -0.76, -0.79, -0.83, -0.86, -0.89, -0.91, -0.92, -0.91, -0.88, -0.85, -0.80, -0.74, -0.67, -0.60, -0.53, -0.45, -0.37, -0.29,
+Ase15Model16SegmentZoning Segment 14, -0.55, -0.47, -0.40, -0.33, -0.26, -0.20, -0.14, -0.09, -0.05, -0.02,  0.00,  0.01, -0.00, -0.02, -0.05, -0.09, -0.14, -0.19, -0.25, -0.32, -0.38, -0.45, -0.53, -0.60, -0.68, -0.77, -0.85, -0.95, -1.04, -1.14, -1.25, -1.36, -1.47, -1.59, -1.71, -1.83, -1.94, -2.06, -2.16, -2.27, -2.36, -2.44, -2.52, -2.59, -2.65, -2.71, -2.76, -2.81, -2.86, -2.91, -2.97, -3.03, -3.09, -3.15, -3.21, -3.26, -3.32, -3.36, -3.40, -3.43, -3.44, -3.44, -3.44, -3.42, -3.40, -3.37, -3.33, -3.29, -3.24, -3.20, -3.15, -3.10, -3.05, -3.00, -2.95, -2.89, -2.85, -2.80, -2.76, -2.73, -2.70, -2.68, -2.67, -2.67, -2.67, -2.67, -2.68, -2.69, -2.70, -2.71, -2.72,
+Ase15Model16SegmentZoning Segment 15, -0.34, -0.30, -0.26, -0.22, -0.19, -0.15, -0.12, -0.08, -0.05, -0.03,  0.00,  0.02,  0.04,  0.06,  0.08,  0.09,  0.10,  0.11,  0.12,  0.12,  0.13,  0.13,  0.12,  0.12,  0.12,  0.11,  0.11,  0.10,  0.10,  0.10,  0.10,  0.11,  0.12,  0.13,  0.14,  0.16,  0.17,  0.18,  0.20,  0.21,  0.22,  0.22,  0.22,  0.23,  0.23,  0.22,  0.22,  0.22,  0.22,  0.22,  0.22,  0.22,  0.22,  0.22,  0.23,  0.23,  0.23,  0.23,  0.23,  0.23,  0.23,  0.23,  0.22,  0.22,  0.21,  0.20,  0.19,  0.18,  0.17,  0.16,  0.15,  0.14,  0.13,  0.12,  0.11,  0.10,  0.08,  0.06,  0.03, -0.01, -0.06, -0.12, -0.19, -0.26, -0.35, -0.43, -0.53, -0.62, -0.72, -0.82, -0.92,
+Ase15Model16SegmentZoning Segment 16,  0.39,  0.34,  0.29,  0.24,  0.19,  0.15,  0.11,  0.07,  0.04,  0.02, -0.00, -0.01, -0.01, -0.00,  0.01,  0.03,  0.06,  0.08,  0.11,  0.15,  0.18,  0.22,  0.26,  0.30,  0.35,  0.39,  0.44,  0.48,  0.53,  0.57,  0.61,  0.65,  0.69,  0.73,  0.76,  0.79,  0.83,  0.86,  0.89,  0.92,  0.95,  0.97,  1.00,  1.03,  1.05,  1.08,  1.10,  1.12,  1.14,  1.16,  1.18,  1.20,  1.21,  1.23,  1.24,  1.25,  1.26,  1.27,  1.28,  1.30,  1.31,  1.32,  1.34,  1.35,  1.36,  1.38,  1.39,  1.40,  1.41,  1.42,  1.43,  1.44,  1.45,  1.45,  1.46,  1.45,  1.45,  1.43,  1.41,  1.37,  1.33,  1.27,  1.20,  1.13,  1.04,  0.95,  0.85,  0.75,  0.65,  0.55,  0.45,
+
+Curves
+==========================================================
+Displacement
+Circumferential
+Maximum
+Ase15Model16SegmentZoning
+Unit [mm]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1,  0.84,  0.74,  0.64,  0.53,  0.43,  0.34,  0.25,  0.17,  0.10,  0.04, -0.00, -0.02, -0.03, -0.02, -0.00,  0.02,  0.05,  0.08,  0.11,  0.13,  0.14,  0.15,  0.14,  0.13,  0.12,  0.10,  0.07,  0.05,  0.01, -0.02, -0.06, -0.10, -0.14, -0.19, -0.23, -0.28, -0.34, -0.39, -0.43, -0.48, -0.53, -0.57, -0.61, -0.64, -0.68, -0.71, -0.74, -0.78, -0.81, -0.85, -0.88, -0.92, -0.96, -1.01, -1.05, -1.10, -1.14, -1.18, -1.23, -1.27, -1.31, -1.35, -1.39, -1.43, -1.46, -1.50, -1.53, -1.56, -1.59, -1.62, -1.65, -1.67, -1.70, -1.72, -1.74, -1.76, -1.77, -1.79, -1.79, -1.80, -1.80, -1.79, -1.78, -1.77, -1.76, -1.74, -1.72, -1.70, -1.67, -1.65, -1.63,
+Ase15Model16SegmentZoning Segment  2,  0.36,  0.32,  0.27,  0.23,  0.18,  0.14,  0.10,  0.07,  0.04,  0.02, -0.00, -0.01, -0.01, -0.00,  0.00,  0.02,  0.03,  0.04,  0.05,  0.05,  0.05,  0.05,  0.03,  0.02, -0.00, -0.03, -0.06, -0.09, -0.12, -0.16, -0.20, -0.25, -0.29, -0.35, -0.40, -0.46, -0.51, -0.57, -0.62, -0.67, -0.72, -0.77, -0.81, -0.85, -0.89, -0.92, -0.96, -1.00, -1.03, -1.07, -1.11, -1.15, -1.19, -1.24, -1.28, -1.32, -1.37, -1.41, -1.45, -1.49, -1.53, -1.57, -1.60, -1.63, -1.67, -1.70, -1.72, -1.75, -1.77, -1.79, -1.80, -1.81, -1.82, -1.82, -1.82, -1.82, -1.81, -1.80, -1.80, -1.79, -1.78, -1.77, -1.75, -1.74, -1.73, -1.72, -1.71, -1.69, -1.68, -1.66, -1.65,
+Ase15Model16SegmentZoning Segment  3,  0.76,  0.67,  0.57,  0.48,  0.38,  0.30,  0.22,  0.14,  0.08,  0.03, -0.00, -0.02, -0.01, -0.00,  0.02,  0.06,  0.09,  0.13,  0.17,  0.20,  0.22,  0.23,  0.24,  0.24,  0.23,  0.22,  0.21,  0.20,  0.19,  0.17,  0.16,  0.14,  0.13,  0.11,  0.09,  0.07,  0.06,  0.04,  0.02, -0.00, -0.02, -0.04, -0.06, -0.08, -0.10, -0.12, -0.14, -0.16, -0.19, -0.21, -0.24, -0.26, -0.29, -0.33, -0.36, -0.39, -0.42, -0.46, -0.49, -0.52, -0.55, -0.57, -0.60, -0.62, -0.65, -0.67, -0.69, -0.71, -0.73, -0.75, -0.77, -0.79, -0.80, -0.82, -0.84, -0.85, -0.87, -0.88, -0.90, -0.91, -0.93, -0.94, -0.95, -0.97, -0.98, -0.99, -1.00, -1.02, -1.03, -1.04, -1.05,
+Ase15Model16SegmentZoning Segment  4, -0.05, -0.04, -0.02, -0.01, -0.00,  0.00,  0.01,  0.01,  0.01,  0.01,  0.00, -0.01, -0.03, -0.06, -0.08, -0.12, -0.15, -0.19, -0.23, -0.27, -0.32, -0.37, -0.42, -0.47, -0.53, -0.59, -0.65, -0.71, -0.77, -0.83, -0.89, -0.95, -1.01, -1.07, -1.13, -1.18, -1.24, -1.30, -1.35, -1.40, -1.44, -1.48, -1.52, -1.56, -1.59, -1.62, -1.65, -1.68, -1.70, -1.73, -1.75, -1.77, -1.79, -1.81, -1.83, -1.84, -1.86, -1.87, -1.89, -1.90, -1.92, -1.93, -1.95, -1.97, -1.98, -2.00, -2.01, -2.02, -2.04, -2.04, -2.05, -2.05, -2.05, -2.05, -2.05, -2.04, -2.04, -2.03, -2.02, -2.02, -2.01, -2.01, -2.01, -2.00, -2.00, -2.00, -2.00, -1.99, -1.99, -1.99, -1.99,
+Ase15Model16SegmentZoning Segment  5, -0.24, -0.21, -0.18, -0.15, -0.12, -0.09, -0.07, -0.04, -0.02, -0.01,  0.00,  0.00,  0.01,  0.00, -0.01, -0.02, -0.04, -0.07, -0.10, -0.14, -0.18, -0.23, -0.29, -0.35, -0.42, -0.49, -0.57, -0.65, -0.72, -0.80, -0.88, -0.96, -1.04, -1.12, -1.20, -1.28, -1.36, -1.43, -1.50, -1.57, -1.63, -1.69, -1.75, -1.80, -1.85, -1.89, -1.93, -1.97, -2.01, -2.05, -2.09, -2.12, -2.16, -2.19, -2.22, -2.26, -2.29, -2.32, -2.35, -2.38, -2.41, -2.45, -2.48, -2.52, -2.55, -2.59, -2.62, -2.65, -2.68, -2.70, -2.72, -2.74, -2.75, -2.76, -2.77, -2.77, -2.77, -2.78, -2.78, -2.78, -2.78, -2.79, -2.79, -2.79, -2.80, -2.80, -2.80, -2.81, -2.81, -2.81, -2.82,
+Ase15Model16SegmentZoning Segment  6,  0.67,  0.59,  0.51,  0.42,  0.34,  0.27,  0.20,  0.13,  0.08,  0.03, -0.00, -0.02, -0.02, -0.02, -0.00,  0.02,  0.04,  0.06,  0.08,  0.10,  0.11,  0.11,  0.10,  0.09,  0.08,  0.06,  0.04,  0.01, -0.02, -0.05, -0.08, -0.12, -0.16, -0.20, -0.24, -0.28, -0.32, -0.37, -0.41, -0.45, -0.49, -0.52, -0.56, -0.59, -0.62, -0.65, -0.68, -0.71, -0.74, -0.77, -0.80, -0.83, -0.86, -0.89, -0.92, -0.96, -0.99, -1.02, -1.06, -1.09, -1.13, -1.17, -1.21, -1.25, -1.29, -1.33, -1.37, -1.40, -1.44, -1.47, -1.50, -1.53, -1.55, -1.57, -1.59, -1.60, -1.61, -1.62, -1.63, -1.63, -1.63, -1.63, -1.63, -1.62, -1.61, -1.61, -1.59, -1.58, -1.57, -1.56, -1.55,
+Ase15Model16SegmentZoning Segment  7,  0.40,  0.34,  0.28,  0.22,  0.16,  0.11,  0.07,  0.03,  0.01, -0.00, -0.00,  0.02,  0.06,  0.11,  0.18,  0.25,  0.32,  0.39,  0.47,  0.53,  0.59,  0.64,  0.68,  0.71,  0.74,  0.76,  0.78,  0.80,  0.82,  0.84,  0.85,  0.87,  0.89,  0.91,  0.93,  0.95,  0.97,  0.99,  1.02,  1.04,  1.07,  1.09,  1.12,  1.15,  1.18,  1.21,  1.25,  1.28,  1.31,  1.34,  1.37,  1.40,  1.42,  1.45,  1.47,  1.49,  1.51,  1.52,  1.53,  1.54,  1.53,  1.53,  1.51,  1.49,  1.47,  1.44,  1.41,  1.38,  1.35,  1.31,  1.28,  1.24,  1.20,  1.16,  1.13,  1.09,  1.05,  1.01,  0.97,  0.93,  0.89,  0.85,  0.81,  0.78,  0.74,  0.70,  0.67,  0.63,  0.59,  0.56,  0.52,
+Ase15Model16SegmentZoning Segment  8, -0.09, -0.08, -0.08, -0.07, -0.07, -0.06, -0.05, -0.04, -0.03, -0.02, -0.00,  0.02,  0.04,  0.07,  0.10,  0.12,  0.15,  0.18,  0.20,  0.22,  0.24,  0.26,  0.27,  0.28,  0.29,  0.30,  0.30,  0.30,  0.30,  0.30,  0.30,  0.30,  0.30,  0.29,  0.29,  0.28,  0.28,  0.27,  0.26,  0.26,  0.25,  0.24,  0.24,  0.23,  0.23,  0.22,  0.22,  0.21,  0.21,  0.20,  0.19,  0.19,  0.18,  0.17,  0.15,  0.14,  0.13,  0.12,  0.11,  0.09,  0.08,  0.07,  0.05,  0.04,  0.03,  0.01, -0.00, -0.02, -0.03, -0.05, -0.06, -0.07, -0.08, -0.09, -0.11, -0.12, -0.13, -0.14, -0.15, -0.16, -0.18, -0.19, -0.20, -0.22, -0.23, -0.25, -0.26, -0.28, -0.29, -0.31, -0.32,
+Ase15Model16SegmentZoning Segment  9,  0.42,  0.37,  0.32,  0.26,  0.21,  0.17,  0.12,  0.08,  0.05,  0.02, -0.00, -0.01, -0.01, -0.01,  0.00,  0.02,  0.04,  0.05,  0.07,  0.08,  0.09,  0.10,  0.10,  0.09,  0.09,  0.08,  0.07,  0.06,  0.05,  0.04,  0.02,  0.01, -0.01, -0.03, -0.05, -0.07, -0.09, -0.11, -0.13, -0.14, -0.16, -0.17, -0.19, -0.20, -0.21, -0.22, -0.23, -0.23, -0.24, -0.25, -0.25, -0.26, -0.26, -0.27, -0.27, -0.28, -0.28, -0.29, -0.29, -0.30, -0.31, -0.32, -0.33, -0.35, -0.36, -0.38, -0.40, -0.41, -0.43, -0.45, -0.47, -0.49, -0.52, -0.54, -0.56, -0.58, -0.60, -0.62, -0.63, -0.63, -0.63, -0.62, -0.60, -0.58, -0.56, -0.53, -0.50, -0.46, -0.43, -0.39, -0.36,
+Ase15Model16SegmentZoning Segment 10, -0.42, -0.37, -0.32, -0.27, -0.23, -0.18, -0.14, -0.10, -0.06, -0.03,  0.00,  0.02,  0.04,  0.06,  0.07,  0.08,  0.09,  0.09,  0.09,  0.08,  0.08,  0.07,  0.06,  0.05,  0.03,  0.01, -0.00, -0.02, -0.04, -0.06, -0.08, -0.10, -0.13, -0.15, -0.17, -0.19, -0.21, -0.22, -0.24, -0.26, -0.27, -0.28, -0.29, -0.30, -0.30, -0.31, -0.31, -0.31, -0.31, -0.31, -0.31, -0.30, -0.30, -0.30, -0.29, -0.28, -0.28, -0.28, -0.27, -0.27, -0.27, -0.28, -0.29, -0.29, -0.30, -0.32, -0.33, -0.35, -0.36, -0.38, -0.40, -0.43, -0.45, -0.48, -0.50, -0.53, -0.56, -0.58, -0.60, -0.61, -0.63, -0.63, -0.63, -0.63, -0.63, -0.62, -0.61, -0.60, -0.58, -0.57, -0.56,
+Ase15Model16SegmentZoning Segment 11, -0.45, -0.40, -0.35, -0.30, -0.25, -0.20, -0.16, -0.11, -0.07, -0.03,  0.00,  0.03,  0.06,  0.08,  0.10,  0.12,  0.13,  0.14,  0.14,  0.14,  0.14,  0.13,  0.12,  0.10,  0.09,  0.07,  0.04,  0.02, -0.01, -0.04, -0.07, -0.09, -0.12, -0.15, -0.18, -0.21, -0.24, -0.26, -0.29, -0.32, -0.34, -0.37, -0.39, -0.41, -0.43, -0.45, -0.47, -0.49, -0.50, -0.52, -0.54, -0.56, -0.57, -0.59, -0.61, -0.62, -0.64, -0.66, -0.68, -0.70, -0.72, -0.74, -0.77, -0.79, -0.82, -0.85, -0.87, -0.90, -0.93, -0.95, -0.97, -1.00, -1.02, -1.04, -1.05, -1.07, -1.08, -1.10, -1.11, -1.12, -1.13, -1.13, -1.13, -1.13, -1.13, -1.13, -1.12, -1.12, -1.12, -1.11, -1.11,
+Ase15Model16SegmentZoning Segment 12,  0.73,  0.63,  0.54,  0.45,  0.36,  0.27,  0.19,  0.13,  0.07,  0.03, -0.00, -0.01,  0.00,  0.03,  0.06,  0.11,  0.16,  0.21,  0.27,  0.32,  0.36,  0.40,  0.44,  0.47,  0.50,  0.53,  0.55,  0.57,  0.60,  0.62,  0.63,  0.65,  0.67,  0.68,  0.69,  0.70,  0.71,  0.72,  0.74,  0.75,  0.76,  0.78,  0.80,  0.82,  0.84,  0.86,  0.88,  0.90,  0.92,  0.94,  0.96,  0.98,  1.00,  1.01,  1.03,  1.05,  1.06,  1.07,  1.08,  1.08,  1.08,  1.07,  1.06,  1.05,  1.03,  1.01,  0.99,  0.97,  0.95,  0.94,  0.92,  0.90,  0.89,  0.88,  0.87,  0.86,  0.85,  0.83,  0.82,  0.80,  0.77,  0.74,  0.71,  0.68,  0.64,  0.60,  0.56,  0.52,  0.48,  0.44,  0.40,
+Ase15Model16SegmentZoning Segment 13,  0.04,  0.03,  0.02,  0.01, -0.00, -0.01, -0.02, -0.02, -0.02, -0.01, -0.00,  0.02,  0.04,  0.07,  0.10,  0.14,  0.18,  0.21,  0.25,  0.28,  0.31,  0.34,  0.37,  0.39,  0.41,  0.43,  0.45,  0.46,  0.48,  0.50,  0.51,  0.53,  0.55,  0.56,  0.58,  0.59,  0.61,  0.62,  0.64,  0.66,  0.67,  0.69,  0.71,  0.72,  0.74,  0.76,  0.77,  0.79,  0.81,  0.83,  0.85,  0.87,  0.89,  0.90,  0.92,  0.94,  0.96,  0.97,  0.98,  0.99,  1.00,  1.00,  1.00,  0.99,  0.98,  0.97,  0.96,  0.94,  0.93,  0.91,  0.89,  0.87,  0.84,  0.82,  0.79,  0.77,  0.74,  0.71,  0.69,  0.66,  0.64,  0.62,  0.60,  0.59,  0.57,  0.56,  0.55,  0.53,  0.52,  0.51,  0.49,
+Ase15Model16SegmentZoning Segment 14,  0.10,  0.08,  0.07,  0.05,  0.04,  0.02,  0.01,  0.01, -0.00, -0.00, -0.00,  0.01,  0.02,  0.03,  0.05,  0.07,  0.09,  0.11,  0.13,  0.15,  0.17,  0.18,  0.20,  0.21,  0.22,  0.23,  0.23,  0.24,  0.24,  0.25,  0.25,  0.25,  0.26,  0.26,  0.26,  0.26,  0.26,  0.26,  0.26,  0.27,  0.27,  0.27,  0.28,  0.28,  0.29,  0.30,  0.30,  0.31,  0.32,  0.33,  0.34,  0.35,  0.35,  0.36,  0.37,  0.38,  0.39,  0.39,  0.40,  0.40,  0.40,  0.40,  0.40,  0.39,  0.38,  0.38,  0.37,  0.36,  0.35,  0.34,  0.33,  0.31,  0.30,  0.29,  0.28,  0.27,  0.25,  0.24,  0.23,  0.22,  0.21,  0.20,  0.19,  0.18,  0.18,  0.17,  0.16,  0.16,  0.15,  0.14,  0.14,
+Ase15Model16SegmentZoning Segment 15, -0.08, -0.08, -0.07, -0.06, -0.06, -0.05, -0.04, -0.03, -0.02, -0.01, -0.00,  0.02,  0.03,  0.05,  0.07,  0.09,  0.11,  0.14,  0.16,  0.18,  0.20,  0.21,  0.23,  0.24,  0.26,  0.27,  0.29,  0.30,  0.31,  0.32,  0.34,  0.35,  0.36,  0.38,  0.39,  0.40,  0.42,  0.43,  0.44,  0.46,  0.47,  0.48,  0.50,  0.51,  0.53,  0.55,  0.56,  0.58,  0.59,  0.61,  0.63,  0.64,  0.66,  0.68,  0.70,  0.71,  0.73,  0.74,  0.75,  0.76,  0.77,  0.77,  0.77,  0.77,  0.76,  0.75,  0.74,  0.73,  0.72,  0.70,  0.68,  0.66,  0.64,  0.61,  0.59,  0.56,  0.54,  0.52,  0.49,  0.48,  0.46,  0.45,  0.44,  0.44,  0.44,  0.44,  0.44,  0.45,  0.45,  0.45,  0.46,
+Ase15Model16SegmentZoning Segment 16,  0.18,  0.16,  0.13,  0.10,  0.08,  0.05,  0.03,  0.01,  0.00, -0.00, -0.00,  0.01,  0.03,  0.05,  0.08,  0.11,  0.15,  0.19,  0.23,  0.27,  0.30,  0.34,  0.37,  0.40,  0.43,  0.46,  0.49,  0.52,  0.55,  0.58,  0.61,  0.63,  0.66,  0.68,  0.70,  0.73,  0.75,  0.77,  0.79,  0.82,  0.84,  0.86,  0.89,  0.91,  0.93,  0.96,  0.98,  1.00,  1.03,  1.05,  1.07,  1.09,  1.12,  1.14,  1.16,  1.18,  1.20,  1.21,  1.23,  1.24,  1.25,  1.25,  1.26,  1.26,  1.25,  1.25,  1.24,  1.23,  1.22,  1.20,  1.19,  1.17,  1.15,  1.14,  1.11,  1.09,  1.07,  1.05,  1.02,  1.00,  0.97,  0.95,  0.92,  0.90,  0.87,  0.85,  0.82,  0.80,  0.77,  0.74,  0.72,
+
+Curves
+==========================================================
+Displacement
+Longitudinal
+Maximum
+Ase15Model16SegmentZoning
+Unit [mm]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1,  1.97,  1.72,  1.47,  1.23,  0.99,  0.76,  0.55,  0.37,  0.21,  0.09, -0.00, -0.04, -0.05, -0.01,  0.05,  0.14,  0.24,  0.36,  0.48,  0.61,  0.73,  0.85,  0.97,  1.10,  1.21,  1.33,  1.45,  1.56,  1.66,  1.76,  1.86,  1.94,  2.02,  2.09,  2.15,  2.21,  2.26,  2.31,  2.36,  2.42,  2.48,  2.54,  2.60,  2.66,  2.73,  2.79,  2.85,  2.91,  2.96,  3.01,  3.06,  3.09,  3.13,  3.15,  3.18,  3.19,  3.21,  3.21,  3.21,  3.21,  3.19,  3.17,  3.14,  3.11,  3.07,  3.03,  2.99,  2.95,  2.92,  2.89,  2.87,  2.85,  2.85,  2.85,  2.86,  2.87,  2.88,  2.90,  2.92,  2.94,  2.96,  2.98,  3.00,  3.02,  3.04,  3.06,  3.08,  3.10,  3.13,  3.15,  3.17,
+Ase15Model16SegmentZoning Segment  2,  1.91,  1.68,  1.44,  1.21,  0.99,  0.77,  0.57,  0.39,  0.23,  0.10, -0.00, -0.06, -0.10, -0.10, -0.08, -0.03,  0.03,  0.10,  0.18,  0.27,  0.36,  0.45,  0.54,  0.64,  0.74,  0.84,  0.94,  1.04,  1.14,  1.23,  1.33,  1.41,  1.50,  1.58,  1.65,  1.72,  1.80,  1.87,  1.94,  2.01,  2.09,  2.17,  2.26,  2.34,  2.43,  2.51,  2.59,  2.67,  2.75,  2.82,  2.89,  2.95,  3.00,  3.05,  3.10,  3.14,  3.18,  3.21,  3.25,  3.28,  3.31,  3.34,  3.36,  3.39,  3.41,  3.43,  3.46,  3.49,  3.52,  3.56,  3.61,  3.66,  3.73,  3.80,  3.87,  3.95,  4.02,  4.08,  4.14,  4.18,  4.20,  4.22,  4.21,  4.20,  4.17,  4.14,  4.10,  4.06,  4.01,  3.97,  3.93,
+Ase15Model16SegmentZoning Segment  3,  1.80,  1.59,  1.37,  1.16,  0.95,  0.75,  0.56,  0.39,  0.24,  0.11, -0.00, -0.08, -0.13, -0.15, -0.16, -0.14, -0.11, -0.07, -0.01,  0.05,  0.11,  0.18,  0.25,  0.33,  0.42,  0.51,  0.60,  0.70,  0.80,  0.90,  1.00,  1.10,  1.20,  1.30,  1.40,  1.50,  1.59,  1.69,  1.78,  1.88,  1.97,  2.06,  2.15,  2.23,  2.31,  2.39,  2.47,  2.53,  2.60,  2.65,  2.70,  2.74,  2.77,  2.80,  2.82,  2.83,  2.85,  2.86,  2.88,  2.90,  2.92,  2.95,  2.98,  3.01,  3.05,  3.09,  3.14,  3.19,  3.24,  3.31,  3.38,  3.46,  3.55,  3.65,  3.74,  3.84,  3.93,  4.01,  4.08,  4.13,  4.16,  4.17,  4.16,  4.14,  4.09,  4.04,  3.98,  3.92,  3.85,  3.77,  3.71,
+Ase15Model16SegmentZoning Segment  4,  0.98,  0.86,  0.73,  0.61,  0.49,  0.38,  0.27,  0.18,  0.10,  0.04, -0.00, -0.02, -0.02,  0.00,  0.04,  0.09,  0.15,  0.22,  0.30,  0.39,  0.48,  0.57,  0.67,  0.77,  0.88,  0.99,  1.10,  1.22,  1.33,  1.45,  1.57,  1.68,  1.80,  1.91,  2.02,  2.13,  2.24,  2.34,  2.45,  2.56,  2.66,  2.77,  2.87,  2.98,  3.08,  3.17,  3.26,  3.35,  3.42,  3.48,  3.53,  3.57,  3.60,  3.61,  3.62,  3.62,  3.61,  3.59,  3.56,  3.53,  3.50,  3.46,  3.41,  3.35,  3.29,  3.24,  3.18,  3.13,  3.09,  3.07,  3.05,  3.05,  3.07,  3.10,  3.14,  3.18,  3.22,  3.25,  3.28,  3.29,  3.28,  3.26,  3.22,  3.17,  3.10,  3.03,  2.95,  2.87,  2.79,  2.70,  2.62,
+Ase15Model16SegmentZoning Segment  5,  1.45,  1.27,  1.08,  0.89,  0.71,  0.55,  0.39,  0.25,  0.14,  0.05, -0.00, -0.02, -0.00,  0.04,  0.11,  0.20,  0.30,  0.42,  0.54,  0.67,  0.79,  0.91,  1.03,  1.15,  1.27,  1.40,  1.52,  1.64,  1.77,  1.90,  2.03,  2.16,  2.28,  2.41,  2.53,  2.66,  2.78,  2.90,  3.02,  3.14,  3.26,  3.38,  3.49,  3.61,  3.71,  3.82,  3.92,  4.01,  4.09,  4.17,  4.23,  4.28,  4.33,  4.37,  4.39,  4.41,  4.42,  4.41,  4.39,  4.35,  4.30,  4.24,  4.15,  4.06,  3.95,  3.84,  3.73,  3.63,  3.54,  3.46,  3.41,  3.38,  3.36,  3.36,  3.38,  3.40,  3.43,  3.45,  3.47,  3.48,  3.47,  3.45,  3.42,  3.38,  3.33,  3.28,  3.22,  3.16,  3.10,  3.03,  2.97,
+Ase15Model16SegmentZoning Segment  6,  1.66,  1.44,  1.23,  1.01,  0.80,  0.61,  0.43,  0.28,  0.15,  0.06, -0.00, -0.01,  0.02,  0.08,  0.17,  0.28,  0.42,  0.56,  0.71,  0.86,  1.00,  1.14,  1.27,  1.40,  1.53,  1.66,  1.78,  1.90,  2.02,  2.13,  2.24,  2.35,  2.44,  2.53,  2.62,  2.70,  2.77,  2.85,  2.93,  3.00,  3.08,  3.16,  3.24,  3.32,  3.40,  3.48,  3.55,  3.62,  3.68,  3.74,  3.79,  3.83,  3.87,  3.90,  3.92,  3.94,  3.94,  3.94,  3.92,  3.89,  3.85,  3.78,  3.71,  3.62,  3.52,  3.42,  3.32,  3.23,  3.14,  3.06,  3.00,  2.96,  2.93,  2.91,  2.91,  2.91,  2.92,  2.93,  2.95,  2.95,  2.96,  2.96,  2.95,  2.95,  2.94,  2.93,  2.92,  2.91,  2.90,  2.89,  2.88,
+Ase15Model16SegmentZoning Segment  7,  0.38,  0.33,  0.27,  0.22,  0.17,  0.12,  0.08,  0.05,  0.02,  0.01, -0.00,  0.01,  0.03,  0.06,  0.09,  0.14,  0.19,  0.24,  0.29,  0.35,  0.40,  0.45,  0.50,  0.55,  0.60,  0.64,  0.69,  0.73,  0.77,  0.81,  0.84,  0.87,  0.89,  0.91,  0.92,  0.94,  0.95,  0.96,  0.97,  0.98,  1.00,  1.01,  1.03,  1.05,  1.07,  1.09,  1.11,  1.13,  1.14,  1.16,  1.16,  1.17,  1.17,  1.17,  1.17,  1.16,  1.16,  1.15,  1.14,  1.12,  1.11,  1.10,  1.08,  1.06,  1.04,  1.02,  1.00,  0.98,  0.96,  0.94,  0.92,  0.90,  0.88,  0.86,  0.84,  0.82,  0.80,  0.77,  0.75,  0.73,  0.70,  0.68,  0.65,  0.62,  0.59,  0.56,  0.53,  0.50,  0.47,  0.44,  0.41,
+Ase15Model16SegmentZoning Segment  8,  0.29,  0.26,  0.22,  0.18,  0.14,  0.11,  0.08,  0.05,  0.03,  0.01, -0.00, -0.00,  0.00,  0.01,  0.03,  0.05,  0.07,  0.09,  0.11,  0.13,  0.15,  0.16,  0.17,  0.18,  0.19,  0.20,  0.20,  0.21,  0.21,  0.21,  0.20,  0.20,  0.19,  0.19,  0.18,  0.17,  0.16,  0.15,  0.14,  0.14,  0.14,  0.15,  0.15,  0.17,  0.18,  0.19,  0.21,  0.22,  0.23,  0.24,  0.25,  0.25,  0.25,  0.25,  0.24,  0.24,  0.23,  0.23,  0.23,  0.23,  0.24,  0.25,  0.27,  0.29,  0.31,  0.34,  0.36,  0.39,  0.41,  0.44,  0.46,  0.49,  0.52,  0.54,  0.56,  0.58,  0.60,  0.60,  0.60,  0.59,  0.56,  0.53,  0.48,  0.42,  0.35,  0.28,  0.20,  0.12,  0.03, -0.05, -0.14,
+Ase15Model16SegmentZoning Segment  9,  0.41,  0.37,  0.32,  0.27,  0.23,  0.19,  0.14,  0.10,  0.07,  0.03, -0.00, -0.03, -0.05, -0.08, -0.10, -0.11, -0.13, -0.14, -0.15, -0.15, -0.15, -0.15, -0.14, -0.13, -0.12, -0.11, -0.09, -0.08, -0.06, -0.05, -0.03, -0.02, -0.00,  0.01,  0.02,  0.04,  0.05,  0.06,  0.08,  0.10,  0.12,  0.14,  0.17,  0.20,  0.23,  0.25,  0.28,  0.31,  0.33,  0.34,  0.35,  0.36,  0.36,  0.35,  0.34,  0.33,  0.32,  0.31,  0.30,  0.30,  0.30,  0.31,  0.33,  0.34,  0.36,  0.38,  0.41,  0.44,  0.48,  0.51,  0.56,  0.60,  0.66,  0.71,  0.77,  0.83,  0.88,  0.92,  0.95,  0.97,  0.97,  0.95,  0.92,  0.88,  0.83,  0.76,  0.69,  0.62,  0.54,  0.47,  0.39,
+Ase15Model16SegmentZoning Segment 10,  0.07,  0.06,  0.05,  0.04,  0.03,  0.03,  0.02,  0.01,  0.01,  0.00, -0.00, -0.00,  0.00,  0.00,  0.01,  0.01,  0.02,  0.04,  0.05,  0.07,  0.09,  0.12,  0.15,  0.18,  0.21,  0.25,  0.29,  0.33,  0.37,  0.41,  0.45,  0.49,  0.52,  0.56,  0.60,  0.63,  0.67,  0.71,  0.74,  0.78,  0.82,  0.86,  0.90,  0.94,  0.99,  1.03,  1.06,  1.10,  1.13,  1.16,  1.18,  1.19,  1.20,  1.20,  1.20,  1.20,  1.19,  1.18,  1.17,  1.16,  1.14,  1.12,  1.11,  1.08,  1.06,  1.04,  1.02,  1.00,  0.99,  0.98,  0.97,  0.96,  0.97,  0.97,  0.98,  0.99,  0.99,  0.99,  0.98,  0.97,  0.95,  0.91,  0.87,  0.82,  0.76,  0.70,  0.63,  0.56,  0.49,  0.42,  0.35,
+Ase15Model16SegmentZoning Segment 11,  0.73,  0.63,  0.54,  0.44,  0.35,  0.26,  0.18,  0.12,  0.06,  0.02, -0.00, -0.00,  0.02,  0.05,  0.10,  0.16,  0.22,  0.29,  0.37,  0.44,  0.50,  0.57,  0.63,  0.68,  0.74,  0.79,  0.84,  0.90,  0.95,  1.01,  1.06,  1.12,  1.18,  1.23,  1.29,  1.35,  1.40,  1.46,  1.51,  1.57,  1.62,  1.67,  1.71,  1.76,  1.81,  1.85,  1.88,  1.92,  1.94,  1.97,  1.98,  1.99,  2.00,  2.00,  1.99,  1.98,  1.96,  1.93,  1.90,  1.86,  1.81,  1.76,  1.69,  1.62,  1.55,  1.47,  1.39,  1.32,  1.25,  1.19,  1.14,  1.10,  1.07,  1.04,  1.02,  1.01,  1.00,  0.98,  0.96,  0.94,  0.91,  0.87,  0.82,  0.77,  0.71,  0.65,  0.59,  0.52,  0.46,  0.39,  0.33,
+Ase15Model16SegmentZoning Segment 12,  0.89,  0.77,  0.65,  0.54,  0.42,  0.32,  0.22,  0.14,  0.07,  0.02, -0.00,  0.00,  0.03,  0.07,  0.14,  0.22,  0.30,  0.40,  0.49,  0.59,  0.68,  0.76,  0.85,  0.93,  1.01,  1.08,  1.16,  1.23,  1.30,  1.37,  1.43,  1.50,  1.55,  1.61,  1.66,  1.70,  1.75,  1.79,  1.84,  1.88,  1.93,  1.97,  2.02,  2.07,  2.11,  2.16,  2.20,  2.24,  2.27,  2.31,  2.33,  2.36,  2.38,  2.40,  2.41,  2.42,  2.42,  2.42,  2.41,  2.39,  2.36,  2.32,  2.27,  2.22,  2.16,  2.09,  2.03,  1.96,  1.89,  1.83,  1.78,  1.73,  1.69,  1.65,  1.61,  1.58,  1.55,  1.53,  1.51,  1.49,  1.47,  1.45,  1.43,  1.42,  1.41,  1.40,  1.39,  1.38,  1.37,  1.36,  1.36,
+Ase15Model16SegmentZoning Segment 13, -0.62, -0.55, -0.48, -0.41, -0.34, -0.27, -0.21, -0.15, -0.09, -0.04,  0.00,  0.04,  0.07,  0.09,  0.11,  0.13,  0.14,  0.14,  0.15,  0.15,  0.15,  0.15,  0.14,  0.14,  0.13,  0.12,  0.11,  0.09,  0.08,  0.06,  0.04,  0.01, -0.01, -0.04, -0.07, -0.10, -0.13, -0.16, -0.19, -0.21, -0.24, -0.26, -0.28, -0.29, -0.31, -0.32, -0.34, -0.35, -0.37, -0.39, -0.41, -0.43, -0.46, -0.48, -0.51, -0.54, -0.57, -0.59, -0.62, -0.64, -0.65, -0.67, -0.67, -0.67, -0.68, -0.68, -0.68, -0.68, -0.69, -0.71, -0.73, -0.76, -0.79, -0.84, -0.88, -0.93, -0.99, -1.04, -1.10, -1.16, -1.22, -1.28, -1.34, -1.41, -1.47, -1.54, -1.60, -1.67, -1.73, -1.80, -1.87,
+Ase15Model16SegmentZoning Segment 14, -0.44, -0.38, -0.33, -0.28, -0.23, -0.18, -0.13, -0.09, -0.05, -0.02,  0.00,  0.01,  0.02,  0.02,  0.01,  0.00, -0.01, -0.03, -0.06, -0.08, -0.11, -0.13, -0.16, -0.19, -0.23, -0.26, -0.29, -0.33, -0.37, -0.41, -0.44, -0.48, -0.52, -0.56, -0.61, -0.65, -0.68, -0.72, -0.76, -0.79, -0.82, -0.84, -0.87, -0.89, -0.90, -0.92, -0.93, -0.95, -0.97, -0.99, -1.01, -1.04, -1.07, -1.10, -1.14, -1.17, -1.20, -1.23, -1.25, -1.27, -1.28, -1.28, -1.27, -1.25, -1.23, -1.21, -1.19, -1.16, -1.13, -1.11, -1.08, -1.06, -1.04, -1.02, -1.00, -0.99, -0.98, -0.98, -0.99, -1.01, -1.04, -1.08, -1.13, -1.20, -1.27, -1.35, -1.43, -1.52, -1.61, -1.70, -1.78,
+Ase15Model16SegmentZoning Segment 15, -0.55, -0.49, -0.42, -0.36, -0.30, -0.24, -0.18, -0.13, -0.08, -0.04,  0.00,  0.03,  0.05,  0.07,  0.08,  0.08,  0.09,  0.09,  0.10,  0.10,  0.11,  0.12,  0.13,  0.14,  0.15,  0.17,  0.18,  0.20,  0.21,  0.23,  0.24,  0.26,  0.27,  0.29,  0.31,  0.32,  0.34,  0.36,  0.38,  0.39,  0.41,  0.42,  0.44,  0.46,  0.47,  0.49,  0.50,  0.51,  0.52,  0.53,  0.54,  0.54,  0.54,  0.54,  0.54,  0.54,  0.53,  0.52,  0.52,  0.51,  0.50,  0.49,  0.48,  0.48,  0.47,  0.45,  0.44,  0.43,  0.42,  0.41,  0.39,  0.38,  0.37,  0.36,  0.35,  0.33,  0.31,  0.28,  0.25,  0.21,  0.16,  0.10,  0.03, -0.05, -0.14, -0.23, -0.32, -0.42, -0.52, -0.61, -0.71,
+Ase15Model16SegmentZoning Segment 16, -0.13, -0.12, -0.11, -0.10, -0.09, -0.07, -0.06, -0.05, -0.03, -0.02, -0.00,  0.02,  0.04,  0.07,  0.09,  0.12,  0.14,  0.17,  0.20,  0.22,  0.25,  0.28,  0.30,  0.33,  0.35,  0.38,  0.40,  0.42,  0.44,  0.46,  0.48,  0.50,  0.51,  0.53,  0.54,  0.55,  0.56,  0.57,  0.58,  0.59,  0.61,  0.62,  0.63,  0.65,  0.66,  0.67,  0.69,  0.70,  0.71,  0.71,  0.72,  0.72,  0.72,  0.71,  0.71,  0.70,  0.69,  0.68,  0.66,  0.65,  0.63,  0.61,  0.58,  0.55,  0.53,  0.50,  0.47,  0.43,  0.40,  0.37,  0.33,  0.30,  0.26,  0.23,  0.20,  0.16,  0.12,  0.08,  0.04, -0.00, -0.05, -0.10, -0.15, -0.21, -0.26, -0.32, -0.38, -0.44, -0.50, -0.56, -0.62,
+
+Curves
+==========================================================
+Displacement
+Radial
+Maximum
+Ase15Model16SegmentZoning
+Unit [mm]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1, -0.21, -0.20, -0.20, -0.20, -0.19, -0.18, -0.16, -0.14, -0.11, -0.06, -0.00,  0.08,  0.17,  0.27,  0.38,  0.50,  0.63,  0.75,  0.88,  0.99,  1.10,  1.21,  1.30,  1.39,  1.48,  1.57,  1.65,  1.73,  1.81,  1.90,  1.99,  2.08,  2.18,  2.27,  2.37,  2.47,  2.57,  2.67,  2.77,  2.87,  2.97,  3.07,  3.17,  3.28,  3.38,  3.48,  3.58,  3.68,  3.77,  3.87,  3.96,  4.05,  4.14,  4.23,  4.31,  4.39,  4.46,  4.53,  4.58,  4.63,  4.66,  4.68,  4.68,  4.68,  4.66,  4.64,  4.62,  4.59,  4.57,  4.55,  4.54,  4.53,  4.54,  4.55,  4.55,  4.55,  4.54,  4.52,  4.48,  4.41,  4.31,  4.19,  4.03,  3.86,  3.67,  3.46,  3.24,  3.01,  2.77,  2.54,  2.31,
+Ase15Model16SegmentZoning Segment  2, -1.23, -1.09, -0.95, -0.81, -0.68, -0.55, -0.42, -0.30, -0.19, -0.09,  0.00,  0.08,  0.14,  0.19,  0.24,  0.28,  0.31,  0.35,  0.38,  0.42,  0.46,  0.50,  0.55,  0.60,  0.66,  0.72,  0.77,  0.83,  0.88,  0.93,  0.98,  1.02,  1.06,  1.10,  1.14,  1.18,  1.22,  1.27,  1.32,  1.38,  1.45,  1.52,  1.61,  1.70,  1.80,  1.90,  2.00,  2.11,  2.21,  2.31,  2.41,  2.50,  2.59,  2.68,  2.76,  2.83,  2.89,  2.95,  2.99,  3.01,  3.02,  3.02,  2.99,  2.95,  2.90,  2.84,  2.76,  2.68,  2.60,  2.51,  2.42,  2.33,  2.24,  2.14,  2.04,  1.95,  1.85,  1.75,  1.65,  1.55,  1.46,  1.36,  1.27,  1.19,  1.10,  1.01,  0.93,  0.84,  0.76,  0.67,  0.59,
+Ase15Model16SegmentZoning Segment  3,  0.04,  0.02, -0.01, -0.04, -0.06, -0.08, -0.09, -0.09, -0.08, -0.05, -0.00,  0.07,  0.15,  0.26,  0.37,  0.50,  0.63,  0.76,  0.90,  1.03,  1.15,  1.26,  1.37,  1.47,  1.57,  1.66,  1.76,  1.85,  1.95,  2.05,  2.16,  2.27,  2.38,  2.49,  2.61,  2.72,  2.83,  2.94,  3.04,  3.13,  3.21,  3.29,  3.35,  3.41,  3.46,  3.50,  3.53,  3.56,  3.58,  3.60,  3.61,  3.62,  3.61,  3.60,  3.59,  3.57,  3.55,  3.53,  3.51,  3.50,  3.49,  3.49,  3.50,  3.52,  3.53,  3.54,  3.54,  3.53,  3.50,  3.46,  3.39,  3.29,  3.17,  3.04,  2.89,  2.72,  2.55,  2.37,  2.19,  2.00,  1.83,  1.66,  1.49,  1.32,  1.15,  0.98,  0.82,  0.65,  0.49,  0.32,  0.15,
+Ase15Model16SegmentZoning Segment  4, -0.89, -0.82, -0.74, -0.66, -0.58, -0.50, -0.41, -0.32, -0.22, -0.12, -0.00,  0.13,  0.27,  0.41,  0.56,  0.72,  0.88,  1.04,  1.20,  1.36,  1.51,  1.66,  1.81,  1.95,  2.09,  2.22,  2.35,  2.47,  2.59,  2.70,  2.81,  2.90,  3.00,  3.08,  3.16,  3.23,  3.30,  3.36,  3.42,  3.47,  3.51,  3.55,  3.59,  3.62,  3.64,  3.66,  3.67,  3.67,  3.67,  3.66,  3.64,  3.62,  3.59,  3.55,  3.50,  3.45,  3.40,  3.34,  3.29,  3.23,  3.18,  3.13,  3.08,  3.03,  2.98,  2.93,  2.88,  2.83,  2.78,  2.73,  2.68,  2.62,  2.57,  2.51,  2.45,  2.39,  2.33,  2.26,  2.19,  2.11,  2.03,  1.93,  1.84,  1.73,  1.62,  1.51,  1.40,  1.28,  1.16,  1.04,  0.92,
+Ase15Model16SegmentZoning Segment  5,  1.18,  1.02,  0.86,  0.70,  0.55,  0.41,  0.28,  0.17,  0.09,  0.03, -0.00,  0.01,  0.05,  0.12,  0.21,  0.32,  0.46,  0.60,  0.76,  0.93,  1.10,  1.27,  1.45,  1.64,  1.83,  2.02,  2.20,  2.39,  2.57,  2.75,  2.92,  3.08,  3.22,  3.37,  3.50,  3.62,  3.74,  3.84,  3.94,  4.04,  4.12,  4.20,  4.27,  4.34,  4.39,  4.44,  4.49,  4.53,  4.57,  4.60,  4.63,  4.66,  4.69,  4.71,  4.73,  4.75,  4.76,  4.77,  4.78,  4.78,  4.78,  4.77,  4.76,  4.74,  4.73,  4.70,  4.68,  4.65,  4.62,  4.58,  4.55,  4.50,  4.45,  4.40,  4.35,  4.30,  4.25,  4.21,  4.17,  4.14,  4.12,  4.11,  4.11,  4.12,  4.14,  4.16,  4.18,  4.21,  4.24,  4.27,  4.30,
+Ase15Model16SegmentZoning Segment  6,  2.52,  2.20,  1.88,  1.57,  1.26,  0.97,  0.70,  0.46,  0.26,  0.11, -0.00, -0.05, -0.04,  0.01,  0.10,  0.22,  0.37,  0.53,  0.70,  0.87,  1.04,  1.19,  1.35,  1.50,  1.65,  1.80,  1.96,  2.11,  2.27,  2.43,  2.59,  2.76,  2.93,  3.10,  3.27,  3.43,  3.60,  3.76,  3.91,  4.06,  4.20,  4.33,  4.46,  4.58,  4.69,  4.80,  4.90,  5.00,  5.10,  5.20,  5.29,  5.39,  5.49,  5.59,  5.69,  5.78,  5.87,  5.95,  6.01,  6.07,  6.11,  6.13,  6.14,  6.14,  6.13,  6.11,  6.09,  6.07,  6.05,  6.04,  6.03,  6.04,  6.05,  6.07,  6.09,  6.11,  6.13,  6.15,  6.17,  6.17,  6.17,  6.16,  6.14,  6.11,  6.08,  6.05,  6.01,  5.96,  5.92,  5.88,  5.84,
+Ase15Model16SegmentZoning Segment  7, -0.56, -0.52, -0.47, -0.43, -0.38, -0.34, -0.28, -0.22, -0.16, -0.08, -0.00,  0.10,  0.20,  0.32,  0.44,  0.57,  0.69,  0.82,  0.94,  1.05,  1.15,  1.24,  1.33,  1.40,  1.47,  1.53,  1.60,  1.66,  1.73,  1.80,  1.88,  1.96,  2.05,  2.15,  2.24,  2.34,  2.45,  2.55,  2.66,  2.77,  2.88,  2.99,  3.10,  3.22,  3.33,  3.44,  3.56,  3.67,  3.78,  3.88,  3.99,  4.09,  4.19,  4.28,  4.37,  4.46,  4.54,  4.61,  4.67,  4.72,  4.77,  4.80,  4.82,  4.83,  4.83,  4.83,  4.81,  4.80,  4.77,  4.75,  4.72,  4.69,  4.66,  4.63,  4.60,  4.55,  4.50,  4.44,  4.37,  4.28,  4.18,  4.06,  3.93,  3.79,  3.64,  3.48,  3.31,  3.14,  2.97,  2.79,  2.62,
+Ase15Model16SegmentZoning Segment  8, -0.03, -0.04, -0.05, -0.05, -0.05, -0.06, -0.06, -0.05, -0.04, -0.02, -0.00,  0.03,  0.07,  0.11,  0.16,  0.22,  0.28,  0.34,  0.41,  0.49,  0.56,  0.64,  0.72,  0.80,  0.89,  0.98,  1.07,  1.17,  1.27,  1.38,  1.49,  1.61,  1.74,  1.87,  2.00,  2.14,  2.27,  2.41,  2.54,  2.66,  2.78,  2.90,  3.00,  3.11,  3.20,  3.30,  3.39,  3.48,  3.57,  3.66,  3.76,  3.86,  3.96,  4.06,  4.16,  4.26,  4.35,  4.43,  4.50,  4.56,  4.60,  4.62,  4.63,  4.62,  4.61,  4.58,  4.54,  4.51,  4.46,  4.42,  4.39,  4.35,  4.32,  4.29,  4.25,  4.22,  4.18,  4.15,  4.11,  4.06,  4.01,  3.96,  3.90,  3.84,  3.77,  3.70,  3.64,  3.57,  3.50,  3.43,  3.36,
+Ase15Model16SegmentZoning Segment  9,  0.39,  0.33,  0.27,  0.21,  0.15,  0.10,  0.05,  0.02, -0.01, -0.01, -0.00,  0.03,  0.08,  0.15,  0.23,  0.32,  0.42,  0.52,  0.63,  0.73,  0.82,  0.91,  0.99,  1.07,  1.14,  1.22,  1.30,  1.38,  1.47,  1.56,  1.67,  1.78,  1.90,  2.03,  2.16,  2.30,  2.43,  2.56,  2.68,  2.80,  2.91,  3.01,  3.10,  3.18,  3.25,  3.32,  3.39,  3.45,  3.50,  3.56,  3.61,  3.66,  3.71,  3.76,  3.80,  3.85,  3.88,  3.92,  3.95,  3.98,  4.01,  4.03,  4.05,  4.07,  4.08,  4.09,  4.10,  4.10,  4.10,  4.10,  4.10,  4.09,  4.09,  4.08,  4.07,  4.05,  4.02,  3.98,  3.93,  3.86,  3.77,  3.66,  3.53,  3.39,  3.23,  3.06,  2.89,  2.71,  2.52,  2.33,  2.15,
+Ase15Model16SegmentZoning Segment 10,  0.29,  0.23,  0.18,  0.12,  0.07,  0.03, -0.01, -0.03, -0.04, -0.03, -0.00,  0.05,  0.12,  0.21,  0.32,  0.44,  0.56,  0.69,  0.83,  0.97,  1.10,  1.23,  1.35,  1.48,  1.60,  1.73,  1.85,  1.97,  2.10,  2.22,  2.35,  2.48,  2.60,  2.73,  2.86,  2.98,  3.10,  3.21,  3.32,  3.43,  3.53,  3.62,  3.71,  3.79,  3.86,  3.93,  4.00,  4.06,  4.12,  4.17,  4.22,  4.27,  4.32,  4.36,  4.40,  4.43,  4.46,  4.48,  4.50,  4.51,  4.51,  4.50,  4.48,  4.46,  4.43,  4.40,  4.36,  4.33,  4.29,  4.26,  4.24,  4.22,  4.21,  4.21,  4.20,  4.19,  4.18,  4.15,  4.11,  4.05,  3.98,  3.88,  3.76,  3.63,  3.48,  3.33,  3.16,  2.99,  2.82,  2.65,  2.47,
+Ase15Model16SegmentZoning Segment 11,  1.24,  1.08,  0.92,  0.76,  0.61,  0.47,  0.34,  0.22,  0.12,  0.05, -0.00, -0.02, -0.02,  0.01,  0.06,  0.14,  0.23,  0.33,  0.45,  0.58,  0.72,  0.88,  1.04,  1.22,  1.40,  1.59,  1.78,  1.97,  2.16,  2.34,  2.51,  2.67,  2.82,  2.97,  3.11,  3.24,  3.36,  3.48,  3.60,  3.72,  3.83,  3.95,  4.06,  4.17,  4.27,  4.38,  4.48,  4.58,  4.68,  4.77,  4.87,  4.97,  5.07,  5.16,  5.26,  5.35,  5.43,  5.52,  5.59,  5.66,  5.72,  5.78,  5.82,  5.86,  5.90,  5.92,  5.94,  5.95,  5.96,  5.96,  5.96,  5.95,  5.93,  5.90,  5.87,  5.84,  5.80,  5.76,  5.72,  5.68,  5.63,  5.59,  5.54,  5.50,  5.45,  5.40,  5.35,  5.30,  5.25,  5.20,  5.15,
+Ase15Model16SegmentZoning Segment 12,  1.65,  1.45,  1.25,  1.05,  0.86,  0.68,  0.51,  0.35,  0.21,  0.09, -0.00, -0.07, -0.10, -0.12, -0.11, -0.09, -0.05,  0.01,  0.08,  0.16,  0.25,  0.36,  0.47,  0.59,  0.72,  0.86,  1.00,  1.14,  1.28,  1.42,  1.55,  1.68,  1.80,  1.92,  2.03,  2.14,  2.25,  2.36,  2.47,  2.57,  2.68,  2.80,  2.91,  3.02,  3.14,  3.25,  3.36,  3.46,  3.56,  3.66,  3.74,  3.83,  3.90,  3.97,  4.04,  4.10,  4.16,  4.22,  4.27,  4.33,  4.38,  4.44,  4.49,  4.54,  4.58,  4.63,  4.68,  4.74,  4.80,  4.86,  4.93,  5.01,  5.10,  5.19,  5.28,  5.37,  5.44,  5.50,  5.53,  5.54,  5.51,  5.45,  5.35,  5.23,  5.09,  4.93,  4.76,  4.58,  4.39,  4.20,  4.01,
+Ase15Model16SegmentZoning Segment 13,  0.57,  0.49,  0.41,  0.33,  0.26,  0.19,  0.13,  0.08,  0.04,  0.01, -0.00,  0.01,  0.04,  0.08,  0.13,  0.20,  0.27,  0.35,  0.43,  0.51,  0.59,  0.66,  0.74,  0.82,  0.89,  0.97,  1.04,  1.12,  1.20,  1.28,  1.36,  1.45,  1.53,  1.61,  1.70,  1.78,  1.86,  1.95,  2.03,  2.11,  2.19,  2.27,  2.35,  2.43,  2.51,  2.58,  2.65,  2.72,  2.79,  2.86,  2.93,  2.99,  3.06,  3.12,  3.18,  3.23,  3.28,  3.33,  3.36,  3.40,  3.42,  3.43,  3.44,  3.44,  3.43,  3.42,  3.41,  3.40,  3.39,  3.38,  3.38,  3.39,  3.41,  3.42,  3.45,  3.47,  3.49,  3.51,  3.52,  3.53,  3.53,  3.52,  3.51,  3.49,  3.46,  3.43,  3.40,  3.37,  3.33,  3.30,  3.27,
+Ase15Model16SegmentZoning Segment 14,  0.72,  0.62,  0.53,  0.44,  0.35,  0.26,  0.18,  0.12,  0.06,  0.02, -0.00, -0.00,  0.01,  0.04,  0.08,  0.13,  0.20,  0.27,  0.35,  0.43,  0.51,  0.59,  0.68,  0.77,  0.86,  0.96,  1.05,  1.15,  1.25,  1.35,  1.46,  1.56,  1.67,  1.77,  1.88,  1.98,  2.08,  2.18,  2.27,  2.36,  2.45,  2.53,  2.60,  2.67,  2.74,  2.80,  2.86,  2.91,  2.97,  3.02,  3.08,  3.14,  3.19,  3.25,  3.30,  3.35,  3.40,  3.44,  3.48,  3.50,  3.52,  3.53,  3.53,  3.52,  3.51,  3.49,  3.46,  3.43,  3.40,  3.35,  3.31,  3.26,  3.20,  3.14,  3.08,  3.02,  2.96,  2.91,  2.86,  2.83,  2.81,  2.79,  2.80,  2.81,  2.83,  2.85,  2.88,  2.92,  2.95,  2.99,  3.02,
+Ase15Model16SegmentZoning Segment 15,  1.04,  0.91,  0.77,  0.64,  0.52,  0.40,  0.28,  0.19,  0.11,  0.04, -0.00, -0.02, -0.01,  0.01,  0.06,  0.11,  0.18,  0.25,  0.32,  0.39,  0.46,  0.53,  0.59,  0.65,  0.71,  0.77,  0.83,  0.89,  0.95,  1.01,  1.07,  1.13,  1.19,  1.25,  1.30,  1.36,  1.41,  1.46,  1.51,  1.56,  1.61,  1.65,  1.69,  1.72,  1.76,  1.79,  1.82,  1.85,  1.88,  1.91,  1.94,  1.97,  2.00,  2.03,  2.06,  2.08,  2.11,  2.14,  2.16,  2.17,  2.19,  2.20,  2.20,  2.21,  2.21,  2.21,  2.20,  2.20,  2.21,  2.21,  2.22,  2.23,  2.24,  2.26,  2.28,  2.31,  2.33,  2.36,  2.40,  2.43,  2.48,  2.52,  2.57,  2.62,  2.67,  2.73,  2.79,  2.85,  2.91,  2.97,  3.03,
+Ase15Model16SegmentZoning Segment 16,  1.01,  0.89,  0.76,  0.64,  0.52,  0.41,  0.31,  0.21,  0.13,  0.06, -0.00, -0.04, -0.06, -0.07, -0.06, -0.04, -0.01,  0.02,  0.07,  0.12,  0.18,  0.25,  0.32,  0.40,  0.48,  0.57,  0.66,  0.75,  0.83,  0.92,  1.00,  1.08,  1.15,  1.22,  1.28,  1.34,  1.40,  1.46,  1.51,  1.57,  1.62,  1.67,  1.72,  1.77,  1.81,  1.85,  1.90,  1.94,  1.98,  2.02,  2.06,  2.09,  2.13,  2.17,  2.20,  2.24,  2.28,  2.31,  2.35,  2.39,  2.42,  2.46,  2.50,  2.54,  2.58,  2.62,  2.66,  2.71,  2.75,  2.79,  2.83,  2.87,  2.91,  2.96,  3.00,  3.04,  3.07,  3.10,  3.12,  3.14,  3.14,  3.14,  3.13,  3.11,  3.09,  3.06,  3.03,  2.99,  2.96,  2.92,  2.89,
+
+Curves
+==========================================================
+Displacement
+Rotational
+Peak
+ThreeSegmentZoning
+Unit [°]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.96, 75.34, 80.72, 86.11, 91.50, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.11,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,253.00,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.96,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+ThreeSegmentZoning Segment Apical, -0.69, -0.64, -0.58, -0.53, -0.47, -0.41, -0.35, -0.28, -0.19, -0.10, -0.00,  0.12,  0.25,  0.39,  0.54,  0.70,  0.86,  1.02,  1.17,  1.32,  1.47,  1.60,  1.73,  1.86,  1.98,  2.10,  2.21,  2.32,  2.43,  2.55,  2.66,  2.77,  2.89,  3.00,  3.12,  3.23,  3.35,  3.46,  3.58,  3.70,  3.82,  3.94,  4.07,  4.19,  4.31,  4.44,  4.57,  4.70,  4.83,  4.97,  5.11,  5.26,  5.41,  5.57,  5.72,  5.87,  6.01,  6.13,  6.24,  6.33,  6.39,  6.43,  6.45,  6.45,  6.42,  6.38,  6.32,  6.24,  6.13,  6.02,  5.88,  5.72,  5.54,  5.35,  5.14,  4.93,  4.72,  4.51,  4.31,  4.12,  3.95,  3.80,  3.67,  3.55,  3.45,  3.35,  3.27,  3.18,  3.10,  3.02,  2.94,
+ThreeSegmentZoning Segment Basal,  1.19,  1.05,  0.91,  0.78,  0.64,  0.51,  0.38,  0.27,  0.16,  0.07, -0.00, -0.05, -0.09, -0.11, -0.12, -0.13, -0.14, -0.16, -0.19, -0.23, -0.30, -0.39, -0.49, -0.62, -0.76, -0.91, -1.08, -1.27, -1.46, -1.67, -1.88, -2.11, -2.35, -2.60, -2.86, -3.12, -3.39, -3.65, -3.92, -4.18, -4.43, -4.68, -4.92, -5.15, -5.37, -5.60, -5.82, -6.04, -6.26, -6.48, -6.71, -6.94, -7.17, -7.41, -7.64, -7.87, -8.10, -8.31, -8.53, -8.73, -8.91, -9.09, -9.26, -9.42, -9.57, -9.70, -9.82, -9.92,-10.00,-10.06,-10.10,-10.12,-10.12,-10.09,-10.06,-10.00, -9.94, -9.87, -9.80, -9.73, -9.65, -9.58, -9.52, -9.45, -9.38, -9.32, -9.25, -9.18, -9.12, -9.05, -8.98,
+ThreeSegmentZoning Segment Twist, -1.88, -1.69, -1.50, -1.30, -1.11, -0.92, -0.73, -0.54, -0.36, -0.18,  0.00,  0.17,  0.34,  0.50,  0.66,  0.83,  1.00,  1.17,  1.36,  1.56,  1.77,  1.99,  2.23,  2.48,  2.74,  3.01,  3.29,  3.59,  3.90,  4.21,  4.54,  4.88,  5.24,  5.60,  5.97,  6.35,  6.73,  7.11,  7.50,  7.88,  8.25,  8.62,  8.98,  9.33,  9.68, 10.03, 10.38, 10.73, 11.09, 11.45, 11.82, 12.20, 12.59, 12.98, 13.36, 13.74, 14.10, 14.45, 14.77, 15.06, 15.31, 15.53, 15.71, 15.87, 15.99, 16.08, 16.13, 16.15, 16.13, 16.08, 15.98, 15.84, 15.66, 15.44, 15.20, 14.94, 14.66, 14.38, 14.11, 13.84, 13.60, 13.38, 13.18, 13.00, 12.83, 12.67, 12.52, 12.37, 12.22, 12.07, 11.92,
+
+Curves
+==========================================================
+Strain
+Principal tangential
+Minimum
+Ase15Model16SegmentZoning
+Unit [%]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1, -4.02, -3.44, -2.85, -2.26, -1.70, -1.19, -0.74, -0.38, -0.12,  0.01,  0.00, -0.18, -0.52, -0.99, -1.56, -2.21, -2.91, -3.64, -4.37, -5.06, -5.71, -6.29, -6.83, -7.34, -7.82, -8.27, -8.71, -9.14, -9.57,-10.00,-10.43,-10.88,-11.31,-11.74,-12.17,-12.60,-13.02,-13.44,-13.86,-14.28,-14.70,-15.12,-15.54,-15.95,-16.37,-16.77,-17.17,-17.55,-17.92,-18.28,-18.62,-18.94,-19.24,-19.53,-19.80,-20.05,-20.28,-20.49,-20.68,-20.84,-20.98,-21.09,-21.17,-21.22,-21.24,-21.26,-21.26,-21.25,-21.25,-21.25,-21.27,-21.30,-21.36,-21.41,-21.46,-21.49,-21.47,-21.40,-21.27,-21.05,-20.74,-20.32,-19.82,-19.24,-18.60,-17.91,-17.17,-16.41,-15.63,-14.85,-14.07,
+Ase15Model16SegmentZoning Segment  2, -8.68, -7.63, -6.57, -5.52, -4.50, -3.52, -2.61, -1.79, -1.06, -0.46,  0.00,  0.31,  0.47,  0.49,  0.41,  0.22, -0.05, -0.38, -0.77, -1.19, -1.64, -2.11, -2.62, -3.15, -3.72, -4.29, -4.88, -5.46, -6.04, -6.61, -7.15, -7.66, -8.13, -8.58, -9.01, -9.45, -9.89,-10.36,-10.85,-11.39,-11.99,-12.64,-13.35,-14.08,-14.85,-15.63,-16.41,-17.18,-17.93,-18.64,-19.32,-19.95,-20.55,-21.12,-21.64,-22.13,-22.57,-22.96,-23.30,-23.59,-23.81,-23.98,-24.08,-24.12,-24.13,-24.10,-24.05,-23.99,-23.94,-23.89,-23.87,-23.87,-23.89,-23.92,-23.97,-24.04,-24.11,-24.20,-24.29,-24.38,-24.48,-24.58,-24.69,-24.81,-24.93,-25.06,-25.19,-25.33,-25.46,-25.60,-25.74,
+Ase15Model16SegmentZoning Segment  3, -3.23, -2.73, -2.20, -1.69, -1.20, -0.76, -0.38, -0.10,  0.07,  0.11,  0.00, -0.29, -0.74, -1.32, -2.02, -2.81, -3.65, -4.52, -5.39, -6.24, -7.04, -7.78, -8.47, -9.13, -9.77,-10.40,-11.02,-11.65,-12.29,-12.95,-13.65,-14.38,-15.13,-15.90,-16.67,-17.43,-18.18,-18.90,-19.59,-20.24,-20.83,-21.37,-21.86,-22.31,-22.71,-23.07,-23.39,-23.67,-23.90,-24.11,-24.27,-24.40,-24.48,-24.52,-24.53,-24.51,-24.48,-24.44,-24.40,-24.36,-24.32,-24.30,-24.27,-24.24,-24.20,-24.15,-24.09,-24.02,-23.93,-23.83,-23.70,-23.58,-23.46,-23.32,-23.12,-22.84,-22.45,-21.91,-21.21,-20.30,-19.17,-17.79,-16.20,-14.42,-12.48,-10.41, -8.24, -6.01, -3.73, -1.44,  0.84,
+Ase15Model16SegmentZoning Segment  4, -1.10, -0.81, -0.50, -0.19,  0.08,  0.31,  0.47,  0.54,  0.50,  0.32,  0.00, -0.49, -1.15, -1.94, -2.84, -3.83, -4.87, -5.96, -7.06, -8.14, -9.19,-10.21,-11.20,-12.17,-13.11,-14.03,-14.91,-15.76,-16.57,-17.35,-18.08,-18.75,-19.37,-19.94,-20.47,-20.95,-21.40,-21.82,-22.21,-22.59,-22.95,-23.30,-23.65,-23.97,-24.27,-24.54,-24.76,-24.94,-25.06,-25.11,-25.10,-25.01,-24.85,-24.63,-24.37,-24.07,-23.74,-23.39,-23.04,-22.69,-22.36,-22.03,-21.70,-21.38,-21.07,-20.77,-20.50,-20.26,-20.05,-19.89,-19.77,-19.72,-19.73,-19.78,-19.85,-19.91,-19.93,-19.90,-19.79,-19.57,-19.23,-18.75,-18.15,-17.46,-16.67,-15.82,-14.92,-13.98,-13.02,-12.06,-11.11,
+Ase15Model16SegmentZoning Segment  5, -8.29, -7.23, -6.15, -5.09, -4.06, -3.10, -2.21, -1.44, -0.79, -0.31,  0.00,  0.10,  0.02, -0.23, -0.63, -1.14, -1.74, -2.42, -3.15, -3.90, -4.65, -5.40, -6.17, -6.96, -7.75, -8.54, -9.32,-10.09,-10.85,-11.58,-12.29,-12.95,-13.58,-14.18,-14.74,-15.27,-15.77,-16.24,-16.69,-17.12,-17.53,-17.91,-18.26,-18.59,-18.90,-19.19,-19.48,-19.76,-20.03,-20.31,-20.60,-20.91,-21.23,-21.55,-21.87,-22.18,-22.47,-22.74,-22.96,-23.15,-23.28,-23.35,-23.37,-23.35,-23.29,-23.22,-23.14,-23.05,-22.98,-22.93,-22.91,-22.92,-22.97,-23.03,-23.12,-23.22,-23.32,-23.43,-23.53,-23.62,-23.70,-23.77,-23.82,-23.87,-23.91,-23.94,-23.97,-24.00,-24.03,-24.05,-24.08,
+Ase15Model16SegmentZoning Segment  6,-10.44, -9.13, -7.81, -6.50, -5.23, -4.03, -2.92, -1.93, -1.10, -0.45,  0.00,  0.21,  0.20,  0.01, -0.35, -0.84, -1.42, -2.08, -2.76, -3.46, -4.13, -4.77, -5.40, -6.03, -6.65, -7.27, -7.89, -8.51, -9.13, -9.75,-10.37,-10.99,-11.60,-12.20,-12.79,-13.36,-13.92,-14.47,-15.00,-15.51,-16.01,-16.48,-16.93,-17.36,-17.78,-18.17,-18.56,-18.93,-19.30,-19.66,-20.02,-20.39,-20.75,-21.12,-21.47,-21.80,-22.11,-22.38,-22.62,-22.81,-22.95,-23.03,-23.05,-23.03,-22.97,-22.90,-22.83,-22.76,-22.72,-22.71,-22.76,-22.86,-23.01,-23.20,-23.42,-23.65,-23.88,-24.10,-24.30,-24.46,-24.58,-24.65,-24.69,-24.69,-24.67,-24.62,-24.56,-24.49,-24.41,-24.34,-24.27,
+Ase15Model16SegmentZoning Segment  7,  0.70,  0.75,  0.82,  0.89,  0.94,  0.96,  0.92,  0.83,  0.65,  0.38,  0.00, -0.51, -1.15, -1.88, -2.68, -3.53, -4.40, -5.27, -6.11, -6.88, -7.58, -8.19, -8.73, -9.20, -9.63,-10.02,-10.39,-10.74,-11.10,-11.47,-11.87,-12.28,-12.71,-13.14,-13.59,-14.04,-14.50,-14.98,-15.46,-15.95,-16.45,-16.96,-17.49,-18.02,-18.55,-19.08,-19.62,-20.14,-20.66,-21.17,-21.66,-22.14,-22.60,-23.05,-23.47,-23.87,-24.24,-24.57,-24.87,-25.12,-25.32,-25.47,-25.58,-25.64,-25.66,-25.64,-25.58,-25.47,-25.33,-25.16,-24.95,-24.70,-24.42,-24.11,-23.76,-23.40,-23.02,-22.62,-22.21,-21.80,-21.39,-20.98,-20.58,-20.17,-19.77,-19.36,-18.96,-18.55,-18.14,-17.73,-17.31,
+Ase15Model16SegmentZoning Segment  8, -8.67, -7.53, -6.38, -5.23, -4.13, -3.09, -2.16, -1.35, -0.70, -0.24,  0.00, -0.00, -0.24, -0.68, -1.28, -2.01, -2.84, -3.73, -4.64, -5.53, -6.39, -7.19, -7.97, -8.72, -9.47,-10.20,-10.93,-11.66,-12.41,-13.17,-13.95,-14.75,-15.55,-16.35,-17.16,-17.97,-18.77,-19.58,-20.37,-21.17,-21.95,-22.73,-23.49,-24.24,-24.98,-25.71,-26.42,-27.11,-27.78,-28.43,-29.06,-29.67,-30.26,-30.82,-31.35,-31.85,-32.31,-32.72,-33.08,-33.38,-33.62,-33.79,-33.90,-33.96,-33.96,-33.93,-33.85,-33.75,-33.62,-33.47,-33.31,-33.14,-32.95,-32.74,-32.53,-32.32,-32.11,-31.90,-31.71,-31.54,-31.39,-31.26,-31.16,-31.09,-31.02,-30.98,-30.94,-30.91,-30.88,-30.86,-30.83,
+Ase15Model16SegmentZoning Segment  9, -5.64, -4.86, -4.06, -3.27, -2.51, -1.81, -1.19, -0.67, -0.28, -0.05,  0.00, -0.15, -0.50, -1.01, -1.65, -2.40, -3.22, -4.08, -4.96, -5.81, -6.62, -7.38, -8.09, -8.78, -9.45,-10.12,-10.80,-11.50,-12.23,-13.01,-13.85,-14.74,-15.69,-16.66,-17.65,-18.65,-19.64,-20.60,-21.52,-22.39,-23.19,-23.92,-24.59,-25.20,-25.75,-26.27,-26.75,-27.19,-27.62,-28.03,-28.44,-28.84,-29.22,-29.59,-29.93,-30.26,-30.57,-30.86,-31.12,-31.36,-31.56,-31.74,-31.88,-31.98,-32.07,-32.13,-32.18,-32.22,-32.26,-32.30,-32.35,-32.42,-32.51,-32.59,-32.66,-32.67,-32.62,-32.48,-32.22,-31.83,-31.29,-30.58,-29.73,-28.75,-27.66,-26.50,-25.26,-23.98,-22.67,-21.35,-20.04,
+Ase15Model16SegmentZoning Segment 10, -7.28, -6.31, -5.33, -4.36, -3.42, -2.55, -1.76, -1.09, -0.55, -0.18,  0.00, -0.03, -0.26, -0.67, -1.22, -1.89, -2.65, -3.46, -4.31, -5.16, -5.99, -6.79, -7.58, -8.36, -9.13, -9.90,-10.67,-11.43,-12.19,-12.95,-13.71,-14.47,-15.21,-15.94,-16.66,-17.35,-18.03,-18.68,-19.30,-19.90,-20.48,-21.01,-21.52,-22.00,-22.44,-22.86,-23.25,-23.61,-23.95,-24.27,-24.56,-24.84,-25.10,-25.33,-25.54,-25.72,-25.87,-25.98,-26.05,-26.08,-26.06,-25.98,-25.84,-25.66,-25.46,-25.23,-25.00,-24.77,-24.57,-24.40,-24.28,-24.21,-24.20,-24.22,-24.25,-24.28,-24.29,-24.26,-24.16,-23.99,-23.72,-23.36,-22.90,-22.37,-21.79,-21.15,-20.47,-19.77,-19.05,-18.33,-17.62,
+Ase15Model16SegmentZoning Segment 11, -9.34, -8.15, -6.95, -5.76, -4.60, -3.52, -2.52, -1.65, -0.92, -0.36,  0.00,  0.14,  0.06, -0.20, -0.61, -1.15, -1.80, -2.52, -3.29, -4.08, -4.87, -5.66, -6.45, -7.26, -8.08, -8.90, -9.71,-10.52,-11.33,-12.12,-12.89,-13.64,-14.36,-15.06,-15.73,-16.38,-17.01,-17.63,-18.22,-18.80,-19.37,-19.92,-20.45,-20.97,-21.46,-21.94,-22.41,-22.87,-23.32,-23.77,-24.21,-24.65,-25.08,-25.52,-25.93,-26.34,-26.72,-27.07,-27.39,-27.68,-27.93,-28.14,-28.30,-28.43,-28.53,-28.60,-28.64,-28.67,-28.68,-28.68,-28.68,-28.66,-28.64,-28.61,-28.57,-28.52,-28.45,-28.37,-28.26,-28.14,-28.00,-27.83,-27.65,-27.45,-27.23,-27.01,-26.78,-26.54,-26.29,-26.05,-25.80,
+Ase15Model16SegmentZoning Segment 12,-11.38, -9.98, -8.56, -7.16, -5.80, -4.50, -3.30, -2.22, -1.29, -0.54,  0.00,  0.31,  0.41,  0.32,  0.07, -0.32, -0.81, -1.39, -2.01, -2.66, -3.30, -3.94, -4.60, -5.27, -5.95, -6.64, -7.33, -8.02, -8.70, -9.37,-10.04,-10.68,-11.29,-11.88,-12.46,-13.02,-13.57,-14.11,-14.65,-15.19,-15.74,-16.29,-16.85,-17.40,-17.95,-18.49,-19.01,-19.51,-20.00,-20.45,-20.88,-21.27,-21.64,-21.98,-22.30,-22.59,-22.87,-23.13,-23.37,-23.61,-23.83,-24.03,-24.21,-24.38,-24.53,-24.69,-24.85,-25.03,-25.23,-25.45,-25.71,-26.01,-26.37,-26.74,-27.13,-27.49,-27.83,-28.11,-28.33,-28.45,-28.45,-28.35,-28.14,-27.85,-27.48,-27.05,-26.58,-26.08,-25.56,-25.03,-24.52,
+Ase15Model16SegmentZoning Segment 13, -6.25, -5.42, -4.57, -3.73, -2.92, -2.16, -1.48, -0.91, -0.45, -0.14,  0.00, -0.05, -0.28, -0.67, -1.18, -1.79, -2.48, -3.20, -3.95, -4.68, -5.38, -6.04, -6.68, -7.29, -7.90, -8.49, -9.08, -9.66,-10.24,-10.82,-11.41,-12.00,-12.58,-13.15,-13.72,-14.29,-14.85,-15.41,-15.98,-16.54,-17.11,-17.68,-18.25,-18.81,-19.37,-19.93,-20.48,-21.01,-21.53,-22.03,-22.52,-22.99,-23.45,-23.89,-24.30,-24.69,-25.04,-25.34,-25.60,-25.81,-25.95,-26.03,-26.05,-26.01,-25.92,-25.81,-25.67,-25.52,-25.37,-25.23,-25.11,-25.01,-24.94,-24.88,-24.82,-24.76,-24.68,-24.58,-24.45,-24.27,-24.05,-23.78,-23.47,-23.12,-22.74,-22.33,-21.91,-21.47,-21.03,-20.58,-20.14,
+Ase15Model16SegmentZoning Segment 14, -9.11, -7.94, -6.74, -5.56, -4.42, -3.35, -2.37, -1.52, -0.82, -0.31,  0.00,  0.07, -0.09, -0.45, -0.96, -1.60, -2.34, -3.13, -3.96, -4.78, -5.56, -6.31, -7.03, -7.73, -8.43, -9.12, -9.81,-10.51,-11.21,-11.93,-12.67,-13.43,-14.19,-14.94,-15.70,-16.45,-17.19,-17.91,-18.61,-19.29,-19.94,-20.56,-21.15,-21.71,-22.24,-22.75,-23.23,-23.70,-24.15,-24.58,-25.00,-25.41,-25.81,-26.19,-26.55,-26.88,-27.18,-27.44,-27.65,-27.82,-27.93,-27.99,-28.00,-27.96,-27.88,-27.76,-27.61,-27.44,-27.24,-27.02,-26.80,-26.56,-26.30,-26.03,-25.76,-25.48,-25.19,-24.92,-24.64,-24.38,-24.14,-23.91,-23.70,-23.51,-23.32,-23.15,-22.98,-22.82,-22.65,-22.49,-22.33,
+Ase15Model16SegmentZoning Segment 15, -6.89, -6.00, -5.08, -4.18, -3.30, -2.48, -1.74, -1.10, -0.58, -0.20,  0.00,  0.01, -0.15, -0.47, -0.92, -1.47, -2.09, -2.76, -3.45, -4.14, -4.79, -5.40, -6.00, -6.58, -7.15, -7.71, -8.26, -8.81, -9.36, -9.91,-10.46,-11.02,-11.56,-12.10,-12.63,-13.15,-13.65,-14.13,-14.60,-15.05,-15.47,-15.87,-16.24,-16.60,-16.92,-17.24,-17.53,-17.82,-18.09,-18.36,-18.62,-18.88,-19.14,-19.40,-19.64,-19.86,-20.06,-20.23,-20.37,-20.46,-20.51,-20.50,-20.45,-20.35,-20.23,-20.09,-19.94,-19.80,-19.67,-19.57,-19.51,-19.50,-19.52,-19.57,-19.63,-19.71,-19.79,-19.85,-19.90,-19.92,-19.89,-19.83,-19.74,-19.61,-19.47,-19.31,-19.13,-18.95,-18.76,-18.57,-18.38,
+Ase15Model16SegmentZoning Segment 16, -9.35, -8.18, -7.00, -5.83, -4.70, -3.62, -2.63, -1.75, -1.00, -0.41,  0.00,  0.21,  0.22,  0.06, -0.23, -0.65, -1.16, -1.75, -2.38, -3.03, -3.68, -4.34, -5.01, -5.69, -6.39, -7.08, -7.78, -8.47, -9.14, -9.81,-10.45,-11.06,-11.65,-12.20,-12.73,-13.24,-13.73,-14.21,-14.68,-15.15,-15.61,-16.07,-16.53,-16.97,-17.41,-17.83,-18.24,-18.62,-18.99,-19.33,-19.65,-19.94,-20.20,-20.44,-20.66,-20.86,-21.05,-21.22,-21.38,-21.53,-21.67,-21.81,-21.93,-22.05,-22.16,-22.26,-22.35,-22.43,-22.50,-22.57,-22.62,-22.67,-22.71,-22.74,-22.77,-22.78,-22.77,-22.76,-22.72,-22.67,-22.59,-22.50,-22.38,-22.25,-22.10,-21.95,-21.78,-21.61,-21.43,-21.25,-21.07,
+
+Curves
+==========================================================
+Strain
+Circumferential
+Minimum
+Ase15Model16SegmentZoning
+Unit [%]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1,  1.31,  1.25,  1.19,  1.13,  1.06,  0.98,  0.87,  0.72,  0.53,  0.30,  0.00, -0.37, -0.80, -1.28, -1.80, -2.35, -2.91, -3.46, -4.00, -4.51, -4.97, -5.38, -5.76, -6.10, -6.41, -6.71, -7.00, -7.28, -7.57, -7.87, -8.19, -8.53, -8.88, -9.23, -9.60, -9.98,-10.36,-10.75,-11.15,-11.55,-11.96,-12.37,-12.79,-13.22,-13.64,-14.06,-14.48,-14.90,-15.30,-15.69,-16.07,-16.43,-16.78,-17.11,-17.42,-17.71,-17.98,-18.21,-18.41,-18.57,-18.68,-18.75,-18.77,-18.74,-18.68,-18.58,-18.47,-18.33,-18.19,-18.04,-17.90,-17.77,-17.66,-17.55,-17.41,-17.23,-16.99,-16.67,-16.26,-15.74,-15.08,-14.29,-13.39,-12.38,-11.28,-10.11, -8.88, -7.62, -6.33, -5.04, -3.76,
+Ase15Model16SegmentZoning Segment  2,  3.46,  3.11,  2.77,  2.43,  2.08,  1.74,  1.39,  1.04,  0.70,  0.35,  0.00, -0.35, -0.69, -1.03, -1.38, -1.73, -2.09, -2.46, -2.85, -3.26, -3.68, -4.14, -4.62, -5.11, -5.62, -6.13, -6.64, -7.12, -7.59, -8.02, -8.42, -8.76, -9.06, -9.33, -9.57, -9.82,-10.07,-10.33,-10.64,-10.98,-11.39,-11.85,-12.37,-12.92,-13.51,-14.11,-14.73,-15.36,-15.98,-16.59,-17.18,-17.76,-18.34,-18.89,-19.42,-19.90,-20.33,-20.69,-20.97,-21.16,-21.25,-21.21,-21.07,-20.84,-20.52,-20.15,-19.74,-19.30,-18.86,-18.42,-18.01,-17.63,-17.27,-16.93,-16.60,-16.26,-15.93,-15.59,-15.23,-14.86,-14.46,-14.03,-13.59,-13.14,-12.68,-12.20,-11.72,-11.24,-10.75,-10.26, -9.77,
+Ase15Model16SegmentZoning Segment  3,  1.93,  1.80,  1.68,  1.55,  1.41,  1.26,  1.09,  0.88,  0.63,  0.34,  0.00, -0.41, -0.87, -1.38, -1.93, -2.50, -3.09, -3.67, -4.25, -4.80, -5.32, -5.80, -6.25, -6.68, -7.09, -7.48, -7.86, -8.23, -8.61, -8.99, -9.39, -9.79,-10.20,-10.62,-11.03,-11.44,-11.83,-12.22,-12.58,-12.93,-13.25,-13.55,-13.83,-14.08,-14.32,-14.53,-14.71,-14.87,-15.01,-15.11,-15.19,-15.22,-15.22,-15.19,-15.13,-15.06,-14.99,-14.92,-14.86,-14.82,-14.82,-14.85,-14.92,-15.00,-15.09,-15.15,-15.18,-15.17,-15.09,-14.93,-14.67,-14.32,-13.88,-13.36,-12.76,-12.07,-11.31,-10.46, -9.54, -8.53, -7.45, -6.29, -5.05, -3.74, -2.38, -0.96,  0.50,  1.98,  3.49,  5.00,  6.51,
+Ase15Model16SegmentZoning Segment  4,  1.80,  1.74,  1.70,  1.66,  1.59,  1.49,  1.35,  1.14,  0.85,  0.48,  0.00, -0.60, -1.30, -2.10, -2.98, -3.91, -4.89, -5.89, -6.91, -7.91, -8.90, -9.86,-10.82,-11.75,-12.67,-13.57,-14.43,-15.26,-16.06,-16.82,-17.53,-18.19,-18.79,-19.34,-19.85,-20.31,-20.74,-21.13,-21.50,-21.85,-22.18,-22.49,-22.79,-23.06,-23.31,-23.52,-23.68,-23.80,-23.86,-23.85,-23.78,-23.63,-23.41,-23.14,-22.82,-22.46,-22.07,-21.66,-21.25,-20.83,-20.43,-20.03,-19.64,-19.25,-18.87,-18.49,-18.13,-17.78,-17.45,-17.14,-16.86,-16.61,-16.40,-16.20,-16.02,-15.82,-15.60,-15.33,-15.02,-14.63,-14.15,-13.58,-12.94,-12.22,-11.45,-10.64, -9.78, -8.91, -8.02, -7.12, -6.24,
+Ase15Model16SegmentZoning Segment  5, -4.63, -4.02, -3.41, -2.81, -2.22, -1.68, -1.18, -0.76, -0.41, -0.15,  0.00,  0.03, -0.04, -0.22, -0.48, -0.83, -1.25, -1.74, -2.28, -2.88, -3.51, -4.19, -4.92, -5.69, -6.49, -7.30, -8.12, -8.93, -9.71,-10.47,-11.18,-11.84,-12.45,-13.02,-13.55,-14.04,-14.50,-14.93,-15.33,-15.70,-16.06,-16.38,-16.66,-16.92,-17.16,-17.37,-17.58,-17.78,-17.98,-18.18,-18.40,-18.64,-18.89,-19.14,-19.40,-19.64,-19.87,-20.07,-20.23,-20.35,-20.41,-20.42,-20.39,-20.31,-20.19,-20.04,-19.85,-19.65,-19.42,-19.18,-18.92,-18.66,-18.38,-18.08,-17.77,-17.46,-17.14,-16.82,-16.51,-16.19,-15.89,-15.59,-15.30,-15.02,-14.74,-14.47,-14.20,-13.94,-13.67,-13.40,-13.13,
+Ase15Model16SegmentZoning Segment  6, -6.26, -5.48, -4.68, -3.89, -3.13, -2.41, -1.74, -1.15, -0.65, -0.26,  0.00,  0.12,  0.11, -0.02, -0.25, -0.55, -0.93, -1.35, -1.80, -2.26, -2.71, -3.16, -3.61, -4.06, -4.53, -5.00, -5.48, -5.97, -6.47, -6.99, -7.52, -8.06, -8.61, -9.17, -9.73,-10.28,-10.84,-11.38,-11.91,-12.43,-12.94,-13.42,-13.88,-14.32,-14.75,-15.17,-15.57,-15.97,-16.36,-16.75,-17.14,-17.53,-17.93,-18.33,-18.71,-19.08,-19.42,-19.72,-19.99,-20.21,-20.37,-20.47,-20.52,-20.51,-20.47,-20.40,-20.31,-20.22,-20.12,-20.04,-19.98,-19.95,-19.95,-19.95,-19.96,-19.97,-19.97,-19.95,-19.90,-19.81,-19.68,-19.50,-19.29,-19.04,-18.77,-18.48,-18.17,-17.84,-17.51,-17.18,-16.85,
+Ase15Model16SegmentZoning Segment  7,  4.71,  4.29,  3.87,  3.46,  3.04,  2.60,  2.15,  1.67,  1.15,  0.60,  0.00, -0.66, -1.37, -2.12, -2.90, -3.68, -4.47, -5.23, -5.96, -6.64, -7.26, -7.80, -8.29, -8.73, -9.12, -9.49, -9.85,-10.19,-10.54,-10.91,-11.30,-11.72,-12.15,-12.60,-13.06,-13.54,-14.02,-14.52,-15.02,-15.53,-16.05,-16.57,-17.10,-17.63,-18.16,-18.70,-19.23,-19.75,-20.27,-20.78,-21.28,-21.76,-22.23,-22.69,-23.12,-23.53,-23.91,-24.25,-24.56,-24.82,-25.03,-25.19,-25.30,-25.36,-25.37,-25.34,-25.25,-25.12,-24.95,-24.74,-24.49,-24.20,-23.87,-23.51,-23.09,-22.62,-22.09,-21.49,-20.81,-20.05,-19.21,-18.27,-17.25,-16.16,-15.01,-13.81,-12.56,-11.29,-10.01, -8.71, -7.42,
+Ase15Model16SegmentZoning Segment  8, -1.59, -1.30, -1.00, -0.71, -0.43, -0.19, -0.00,  0.13,  0.18,  0.14,  0.00, -0.26, -0.63, -1.09, -1.63, -2.25, -2.92, -3.62, -4.36, -5.10, -5.84, -6.58, -7.32, -8.07, -8.83, -9.59,-10.36,-11.13,-11.91,-12.70,-13.49,-14.28,-15.07,-15.86,-16.64,-17.42,-18.19,-18.96,-19.72,-20.47,-21.22,-21.95,-22.67,-23.37,-24.05,-24.73,-25.38,-26.02,-26.65,-27.26,-27.86,-28.44,-29.01,-29.56,-30.08,-30.57,-31.01,-31.41,-31.75,-32.02,-32.23,-32.37,-32.44,-32.46,-32.41,-32.30,-32.13,-31.90,-31.62,-31.28,-30.89,-30.44,-29.93,-29.37,-28.77,-28.14,-27.49,-26.83,-26.17,-25.51,-24.88,-24.28,-23.69,-23.12,-22.56,-22.01,-21.47,-20.93,-20.39,-19.85,-19.30,
+Ase15Model16SegmentZoning Segment  9, -0.29, -0.16, -0.02,  0.11,  0.23,  0.32,  0.38,  0.39,  0.33,  0.21,  0.00, -0.31, -0.71, -1.19, -1.73, -2.31, -2.91, -3.52, -4.12, -4.68, -5.20, -5.66, -6.07, -6.45, -6.81, -7.15, -7.51, -7.89, -8.30, -8.76, -9.29, -9.88,-10.54,-11.24,-11.96,-12.70,-13.43,-14.14,-14.81,-15.42,-15.97,-16.43,-16.83,-17.17,-17.47,-17.73,-17.96,-18.18,-18.39,-18.60,-18.83,-19.07,-19.32,-19.57,-19.82,-20.07,-20.32,-20.56,-20.80,-21.02,-21.24,-21.44,-21.62,-21.78,-21.93,-22.08,-22.22,-22.38,-22.55,-22.74,-22.95,-23.21,-23.52,-23.84,-24.13,-24.37,-24.52,-24.54,-24.40,-24.06,-23.50,-22.70,-21.68,-20.49,-19.14,-17.66,-16.09,-14.45,-12.76,-11.07, -9.40,
+Ase15Model16SegmentZoning Segment 10, -1.14, -0.90, -0.67, -0.43, -0.22, -0.03,  0.11,  0.20,  0.21,  0.15,  0.00, -0.26, -0.61, -1.05, -1.56, -2.13, -2.75, -3.41, -4.10, -4.79, -5.49, -6.19, -6.89, -7.60, -8.32, -9.04, -9.76,-10.48,-11.21,-11.93,-12.65,-13.36,-14.07,-14.77,-15.45,-16.12,-16.77,-17.39,-17.99,-18.56,-19.10,-19.60,-20.06,-20.49,-20.89,-21.26,-21.60,-21.91,-22.20,-22.46,-22.69,-22.91,-23.11,-23.29,-23.44,-23.55,-23.63,-23.66,-23.64,-23.57,-23.43,-23.23,-22.95,-22.62,-22.25,-21.86,-21.46,-21.08,-20.72,-20.42,-20.17,-20.01,-19.91,-19.87,-19.84,-19.80,-19.72,-19.58,-19.34,-18.98,-18.48,-17.81,-17.02,-16.12,-15.11,-14.04,-12.90,-11.72,-10.52, -9.31, -8.12,
+Ase15Model16SegmentZoning Segment 11, -7.47, -6.53, -5.58, -4.65, -3.74, -2.89, -2.10, -1.40, -0.80, -0.33,  0.00,  0.17,  0.20,  0.09, -0.14, -0.48, -0.92, -1.44, -2.03, -2.68, -3.37, -4.12, -4.92, -5.78, -6.67, -7.59, -8.52, -9.44,-10.35,-11.23,-12.06,-12.85,-13.59,-14.30,-14.96,-15.59,-16.20,-16.79,-17.37,-17.94,-18.50,-19.06,-19.60,-20.13,-20.64,-21.15,-21.63,-22.10,-22.55,-22.99,-23.41,-23.81,-24.20,-24.57,-24.93,-25.26,-25.56,-25.85,-26.10,-26.33,-26.52,-26.68,-26.80,-26.90,-26.96,-27.01,-27.03,-27.04,-27.04,-27.02,-27.01,-26.99,-26.97,-26.94,-26.90,-26.85,-26.77,-26.66,-26.52,-26.34,-26.12,-25.85,-25.54,-25.21,-24.84,-24.45,-24.04,-23.62,-23.19,-22.76,-22.33,
+Ase15Model16SegmentZoning Segment 12, -9.53, -8.37, -7.21, -6.05, -4.93, -3.85, -2.86, -1.95, -1.16, -0.50,  0.00,  0.33,  0.50,  0.53,  0.42,  0.21, -0.11, -0.51, -0.97, -1.49, -2.05, -2.65, -3.30, -4.00, -4.72, -5.47, -6.24, -7.00, -7.76, -8.49, -9.20, -9.86,-10.49,-11.09,-11.66,-12.21,-12.74,-13.27,-13.79,-14.32,-14.86,-15.42,-15.98,-16.53,-17.09,-17.63,-18.15,-18.65,-19.13,-19.57,-19.97,-20.33,-20.66,-20.95,-21.22,-21.46,-21.68,-21.89,-22.09,-22.28,-22.47,-22.65,-22.81,-22.96,-23.11,-23.27,-23.43,-23.61,-23.82,-24.07,-24.35,-24.70,-25.11,-25.54,-25.98,-26.39,-26.73,-27.00,-27.15,-27.15,-26.98,-26.63,-26.12,-25.47,-24.71,-23.85,-22.92,-21.94,-20.94,-19.92,-18.92,
+Ase15Model16SegmentZoning Segment 13, -3.04, -2.59, -2.13, -1.68, -1.25, -0.85, -0.51, -0.24, -0.05,  0.03,  0.00, -0.16, -0.45, -0.85, -1.33, -1.89, -2.50, -3.14, -3.81, -4.47, -5.11, -5.74, -6.36, -6.97, -7.58, -8.18, -8.78, -9.38, -9.98,-10.57,-11.17,-11.77,-12.35,-12.93,-13.50,-14.07,-14.63,-15.19,-15.75,-16.31,-16.88,-17.45,-18.01,-18.58,-19.14,-19.69,-20.23,-20.76,-21.27,-21.77,-22.25,-22.71,-23.16,-23.59,-24.00,-24.37,-24.71,-25.01,-25.27,-25.47,-25.61,-25.69,-25.71,-25.68,-25.60,-25.49,-25.35,-25.20,-25.05,-24.91,-24.79,-24.69,-24.62,-24.55,-24.48,-24.39,-24.28,-24.12,-23.91,-23.63,-23.27,-22.84,-22.33,-21.76,-21.14,-20.48,-19.79,-19.07,-18.34,-17.61,-16.89,
+Ase15Model16SegmentZoning Segment 14, -4.85, -4.20, -3.53, -2.87, -2.24, -1.65, -1.12, -0.67, -0.33, -0.10,  0.00, -0.06, -0.26, -0.59, -1.02, -1.53, -2.11, -2.73, -3.37, -4.01, -4.64, -5.24, -5.83, -6.42, -7.00, -7.58, -8.16, -8.74, -9.32, -9.90,-10.50,-11.09,-11.68,-12.27,-12.85,-13.42,-13.97,-14.51,-15.03,-15.52,-15.98,-16.42,-16.82,-17.20,-17.56,-17.90,-18.22,-18.52,-18.82,-19.12,-19.41,-19.70,-19.99,-20.26,-20.53,-20.78,-21.02,-21.23,-21.43,-21.60,-21.74,-21.85,-21.95,-22.02,-22.07,-22.07,-22.04,-21.96,-21.83,-21.65,-21.40,-21.08,-20.69,-20.25,-19.77,-19.27,-18.76,-18.26,-17.79,-17.36,-16.99,-16.68,-16.42,-16.20,-16.02,-15.87,-15.73,-15.62,-15.51,-15.39,-15.27,
+Ase15Model16SegmentZoning Segment 15, -4.29, -3.71, -3.11, -2.53, -1.96, -1.44, -0.97, -0.57, -0.27, -0.07,  0.00, -0.07, -0.27, -0.58, -0.99, -1.47, -2.00, -2.57, -3.15, -3.73, -4.28, -4.80, -5.31, -5.81, -6.30, -6.78, -7.26, -7.73, -8.21, -8.69, -9.17, -9.66,-10.15,-10.64,-11.11,-11.58,-12.03,-12.47,-12.89,-13.28,-13.65,-13.99,-14.31,-14.60,-14.86,-15.11,-15.34,-15.56,-15.77,-15.97,-16.17,-16.36,-16.56,-16.74,-16.92,-17.07,-17.21,-17.33,-17.41,-17.46,-17.47,-17.45,-17.38,-17.28,-17.16,-17.02,-16.87,-16.72,-16.57,-16.44,-16.32,-16.23,-16.16,-16.11,-16.06,-16.02,-15.97,-15.92,-15.85,-15.77,-15.67,-15.54,-15.40,-15.24,-15.07,-14.89,-14.70,-14.51,-14.31,-14.12,-13.92,
+Ase15Model16SegmentZoning Segment 16, -6.93, -6.06, -5.18, -4.31, -3.46, -2.67, -1.93, -1.28, -0.73, -0.30,  0.00,  0.15,  0.15,  0.03, -0.21, -0.54, -0.95, -1.43, -1.97, -2.54, -3.14, -3.77, -4.43, -5.13, -5.85, -6.57, -7.30, -8.03, -8.73, -9.41,-10.06,-10.66,-11.21,-11.73,-12.22,-12.69,-13.13,-13.56,-13.98,-14.40,-14.82,-15.25,-15.68,-16.10,-16.51,-16.91,-17.30,-17.67,-18.02,-18.34,-18.64,-18.92,-19.17,-19.39,-19.60,-19.79,-19.96,-20.13,-20.29,-20.44,-20.60,-20.76,-20.91,-21.06,-21.20,-21.33,-21.46,-21.57,-21.67,-21.75,-21.82,-21.87,-21.91,-21.94,-21.95,-21.93,-21.89,-21.82,-21.72,-21.58,-21.40,-21.18,-20.92,-20.63,-20.31,-19.96,-19.60,-19.23,-18.84,-18.46,-18.08,
+
+Curves
+==========================================================
+Strain
+Longitudinal
+Minimum
+Ase15Model16SegmentZoning
+Unit [%]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1, -4.51, -3.93, -3.33, -2.75, -2.18, -1.64, -1.16, -0.74, -0.40, -0.14,  0.00,  0.02, -0.07, -0.25, -0.52, -0.85, -1.23, -1.64, -2.07, -2.50, -2.91, -3.31, -3.70, -4.08, -4.46, -4.83, -5.19, -5.54, -5.88, -6.21, -6.53, -6.82, -7.10, -7.36, -7.60, -7.83, -8.05, -8.27, -8.48, -8.70, -8.93, -9.16, -9.40, -9.64, -9.88,-10.11,-10.33,-10.55,-10.75,-10.93,-11.10,-11.24,-11.38,-11.50,-11.60,-11.68,-11.75,-11.79,-11.82,-11.82,-11.80,-11.74,-11.66,-11.56,-11.45,-11.33,-11.22,-11.12,-11.04,-11.00,-11.00,-11.04,-11.13,-11.25,-11.40,-11.55,-11.72,-11.87,-12.01,-12.12,-12.20,-12.24,-12.25,-12.23,-12.19,-12.14,-12.07,-12.00,-11.92,-11.84,-11.77,
+Ase15Model16SegmentZoning Segment  2, -7.80, -6.90, -6.00, -5.10, -4.22, -3.37, -2.57, -1.81, -1.13, -0.52,  0.00,  0.42,  0.75,  0.99,  1.16,  1.26,  1.30,  1.28,  1.22,  1.12,  0.99,  0.83,  0.63,  0.39,  0.13, -0.15, -0.44, -0.74, -1.05, -1.34, -1.62, -1.89, -2.13, -2.37, -2.59, -2.81, -3.02, -3.23, -3.43, -3.65, -3.86, -4.09, -4.31, -4.53, -4.75, -4.98, -5.20, -5.42, -5.64, -5.86, -6.08, -6.29, -6.51, -6.73, -6.95, -7.16, -7.36, -7.55, -7.72, -7.88, -8.02, -8.14, -8.23, -8.31, -8.37, -8.44, -8.52, -8.61, -8.73, -8.88, -9.06, -9.29, -9.55, -9.85,-10.18,-10.52,-10.87,-11.23,-11.59,-11.95,-12.29,-12.62,-12.94,-13.26,-13.57,-13.87,-14.17,-14.47,-14.77,-15.08,-15.38,
+Ase15Model16SegmentZoning Segment  3, -6.51, -5.72, -4.92, -4.13, -3.36, -2.62, -1.94, -1.32, -0.78, -0.33,  0.00,  0.21,  0.31,  0.30,  0.21,  0.05, -0.18, -0.44, -0.73, -1.04, -1.35, -1.65, -1.96, -2.28, -2.61, -2.95, -3.29, -3.64, -3.99, -4.35, -4.71, -5.08, -5.45, -5.82, -6.18, -6.53, -6.88, -7.21, -7.53, -7.84, -8.13, -8.40, -8.66, -8.90, -9.12, -9.32, -9.51, -9.68, -9.84, -9.98,-10.10,-10.21,-10.30,-10.37,-10.44,-10.49,-10.54,-10.58,-10.63,-10.67,-10.72,-10.76,-10.81,-10.87,-10.92,-10.99,-11.06,-11.14,-11.23,-11.33,-11.45,-11.59,-11.74,-11.91,-12.09,-12.27,-12.44,-12.61,-12.76,-12.90,-13.01,-13.10,-13.16,-13.21,-13.24,-13.26,-13.27,-13.28,-13.28,-13.28,-13.28,
+Ase15Model16SegmentZoning Segment  4, -5.37, -4.70, -4.03, -3.36, -2.72, -2.10, -1.54, -1.03, -0.59, -0.25,  0.00,  0.13,  0.16,  0.10, -0.04, -0.25, -0.51, -0.80, -1.11, -1.44, -1.76, -2.07, -2.39, -2.71, -3.04, -3.36, -3.69, -4.02, -4.34, -4.67, -5.00, -5.32, -5.63, -5.94, -6.24, -6.53, -6.81, -7.09, -7.37, -7.64, -7.91, -8.17, -8.43, -8.69, -8.93, -9.16, -9.38, -9.58, -9.76, -9.92,-10.05,-10.15,-10.23,-10.29,-10.33,-10.35,-10.35,-10.34,-10.30,-10.25,-10.19,-10.10,-10.00, -9.88, -9.75, -9.63, -9.52, -9.43, -9.36, -9.33, -9.33, -9.39, -9.49, -9.62, -9.78, -9.96,-10.15,-10.33,-10.50,-10.66,-10.78,-10.88,-10.95,-11.01,-11.05,-11.07,-11.09,-11.10,-11.10,-11.11,-11.13,
+Ase15Model16SegmentZoning Segment  5, -6.16, -5.40, -4.63, -3.87, -3.13, -2.42, -1.77, -1.19, -0.69, -0.29,  0.00,  0.16,  0.21,  0.15,  0.00, -0.23, -0.52, -0.86, -1.24, -1.65, -2.06, -2.49, -2.95, -3.42, -3.90, -4.39, -4.89, -5.38, -5.86, -6.34, -6.79, -7.22, -7.63, -8.01, -8.38, -8.74, -9.08, -9.41, -9.73,-10.06,-10.38,-10.71,-11.03,-11.35,-11.66,-11.96,-12.24,-12.51,-12.76,-13.00,-13.21,-13.40,-13.58,-13.74,-13.88,-14.00,-14.09,-14.16,-14.20,-14.22,-14.20,-14.14,-14.05,-13.93,-13.80,-13.66,-13.52,-13.40,-13.30,-13.24,-13.23,-13.27,-13.35,-13.48,-13.63,-13.80,-13.98,-14.16,-14.33,-14.48,-14.60,-14.69,-14.76,-14.81,-14.84,-14.86,-14.88,-14.89,-14.89,-14.90,-14.91,
+Ase15Model16SegmentZoning Segment  6, -7.99, -7.01, -6.02, -5.04, -4.09, -3.18, -2.34, -1.58, -0.93, -0.39,  0.00,  0.24,  0.33,  0.29,  0.14, -0.10, -0.41, -0.79, -1.20, -1.63, -2.07, -2.51, -2.96, -3.43, -3.91, -4.40, -4.88, -5.37, -5.85, -6.33, -6.79, -7.24, -7.67, -8.08, -8.47, -8.85, -9.22, -9.59, -9.94,-10.29,-10.64,-10.99,-11.33,-11.66,-11.98,-12.29,-12.58,-12.87,-13.13,-13.38,-13.60,-13.81,-14.01,-14.18,-14.34,-14.48,-14.59,-14.68,-14.75,-14.78,-14.78,-14.75,-14.67,-14.57,-14.45,-14.33,-14.21,-14.12,-14.06,-14.05,-14.09,-14.21,-14.38,-14.59,-14.84,-15.11,-15.37,-15.63,-15.85,-16.04,-16.17,-16.24,-16.26,-16.24,-16.19,-16.11,-16.01,-15.90,-15.78,-15.66,-15.55,
+Ase15Model16SegmentZoning Segment  7, -4.74, -4.13, -3.51, -2.90, -2.30, -1.74, -1.23, -0.79, -0.43, -0.16,  0.00,  0.03, -0.05, -0.23, -0.50, -0.83, -1.21, -1.62, -2.05, -2.49, -2.90, -3.30, -3.69, -4.07, -4.45, -4.82, -5.18, -5.53, -5.88, -6.22, -6.56, -6.87, -7.18, -7.47, -7.74, -8.01, -8.27, -8.52, -8.77, -9.03, -9.28, -9.54, -9.80,-10.05,-10.31,-10.55,-10.79,-11.02,-11.24,-11.45,-11.65,-11.83,-12.00,-12.17,-12.31,-12.45,-12.56,-12.65,-12.71,-12.75,-12.75,-12.72,-12.66,-12.57,-12.46,-12.34,-12.22,-12.11,-12.02,-11.96,-11.93,-11.94,-11.99,-12.06,-12.16,-12.27,-12.38,-12.50,-12.60,-12.69,-12.76,-12.81,-12.84,-12.85,-12.85,-12.84,-12.83,-12.81,-12.78,-12.76,-12.74,
+Ase15Model16SegmentZoning Segment  8, -6.57, -5.78, -4.99, -4.20, -3.44, -2.70, -2.02, -1.39, -0.84, -0.37,  0.00,  0.26,  0.42,  0.48,  0.46,  0.37,  0.22,  0.03, -0.21, -0.47, -0.76, -1.06, -1.38, -1.73, -2.10, -2.48, -2.86, -3.25, -3.64, -4.03, -4.40, -4.76, -5.10, -5.43, -5.75, -6.06, -6.36, -6.66, -6.95, -7.24, -7.53, -7.82, -8.11, -8.39, -8.67, -8.94, -9.20, -9.46, -9.71, -9.95,-10.19,-10.42,-10.65,-10.87,-11.09,-11.29,-11.47,-11.63,-11.77,-11.88,-11.96,-12.01,-12.02,-12.01,-11.98,-11.95,-11.91,-11.88,-11.86,-11.87,-11.90,-11.97,-12.07,-12.20,-12.34,-12.51,-12.68,-12.87,-13.06,-13.25,-13.44,-13.63,-13.83,-14.02,-14.21,-14.41,-14.61,-14.81,-15.01,-15.21,-15.41,
+Ase15Model16SegmentZoning Segment  9, -6.37, -5.58, -4.79, -4.01, -3.25, -2.52, -1.85, -1.25, -0.73, -0.31,  0.00,  0.18,  0.24,  0.19,  0.06, -0.15, -0.42, -0.74, -1.08, -1.44, -1.79, -2.15, -2.51, -2.88, -3.25, -3.63, -4.02, -4.42, -4.82, -5.23, -5.65, -6.07, -6.49, -6.91, -7.33, -7.74, -8.13, -8.52, -8.89, -9.24, -9.56, -9.86,-10.14,-10.40,-10.63,-10.85,-11.06,-11.25,-11.43,-11.61,-11.77,-11.93,-12.09,-12.23,-12.37,-12.50,-12.63,-12.75,-12.86,-12.96,-13.06,-13.15,-13.23,-13.31,-13.38,-13.46,-13.52,-13.59,-13.66,-13.73,-13.79,-13.87,-13.94,-14.01,-14.08,-14.16,-14.23,-14.30,-14.37,-14.44,-14.50,-14.57,-14.62,-14.68,-14.74,-14.79,-14.84,-14.89,-14.95,-15.00,-15.05,
+Ase15Model16SegmentZoning Segment 10, -6.44, -5.64, -4.84, -4.05, -3.27, -2.54, -1.86, -1.25, -0.72, -0.30,  0.00,  0.17,  0.22,  0.15, -0.00, -0.24, -0.52, -0.86, -1.21, -1.58, -1.93, -2.28, -2.63, -2.98, -3.33, -3.68, -4.04, -4.39, -4.75, -5.11, -5.47, -5.83, -6.17, -6.52, -6.85, -7.18, -7.50, -7.82, -8.14, -8.46, -8.77, -9.08, -9.40, -9.70,-10.00,-10.29,-10.56,-10.82,-11.05,-11.26,-11.45,-11.60,-11.74,-11.85,-11.94,-12.00,-12.05,-12.07,-12.08,-12.06,-12.02,-11.96,-11.87,-11.76,-11.64,-11.52,-11.41,-11.31,-11.24,-11.20,-11.20,-11.24,-11.33,-11.45,-11.60,-11.76,-11.94,-12.12,-12.30,-12.47,-12.62,-12.75,-12.87,-12.98,-13.08,-13.17,-13.25,-13.34,-13.42,-13.51,-13.60,
+Ase15Model16SegmentZoning Segment 11, -6.52, -5.71, -4.89, -4.08, -3.29, -2.55, -1.86, -1.24, -0.72, -0.30,  0.00,  0.16,  0.19,  0.11, -0.07, -0.34, -0.67, -1.06, -1.49, -1.95, -2.41, -2.89, -3.40, -3.92, -4.45, -4.99, -5.53, -6.07, -6.61, -7.13, -7.64, -8.12, -8.58, -9.02, -9.44, -9.84,-10.23,-10.60,-10.97,-11.33,-11.68,-12.02,-12.35,-12.67,-12.98,-13.28,-13.56,-13.83,-14.08,-14.31,-14.52,-14.72,-14.91,-15.08,-15.23,-15.36,-15.47,-15.55,-15.60,-15.63,-15.62,-15.57,-15.49,-15.39,-15.26,-15.13,-14.99,-14.86,-14.74,-14.64,-14.58,-14.54,-14.53,-14.55,-14.59,-14.65,-14.73,-14.83,-14.93,-15.05,-15.18,-15.31,-15.46,-15.62,-15.78,-15.96,-16.14,-16.32,-16.51,-16.70,-16.89,
+Ase15Model16SegmentZoning Segment 12, -8.27, -7.25, -6.23, -5.21, -4.23, -3.29, -2.42, -1.63, -0.95, -0.40,  0.00,  0.24,  0.33,  0.28,  0.11, -0.15, -0.48, -0.88, -1.31, -1.76, -2.22, -2.67, -3.13, -3.61, -4.10, -4.59, -5.08, -5.58, -6.07, -6.56, -7.04, -7.51, -7.97, -8.41, -8.84, -9.26, -9.67,-10.06,-10.45,-10.83,-11.20,-11.57,-11.92,-12.27,-12.60,-12.92,-13.23,-13.52,-13.80,-14.06,-14.31,-14.55,-14.78,-15.00,-15.20,-15.38,-15.54,-15.67,-15.78,-15.85,-15.89,-15.89,-15.85,-15.78,-15.69,-15.60,-15.50,-15.43,-15.38,-15.36,-15.40,-15.49,-15.64,-15.82,-16.03,-16.25,-16.47,-16.68,-16.86,-17.01,-17.10,-17.14,-17.14,-17.11,-17.04,-16.95,-16.84,-16.72,-16.59,-16.46,-16.34,
+Ase15Model16SegmentZoning Segment 13, -5.16, -4.51, -3.85, -3.20, -2.56, -1.96, -1.41, -0.93, -0.52, -0.21,  0.00,  0.09,  0.06, -0.07, -0.28, -0.56, -0.89, -1.26, -1.65, -2.06, -2.45, -2.84, -3.23, -3.63, -4.03, -4.42, -4.82, -5.22, -5.62, -6.02, -6.42, -6.81, -7.19, -7.56, -7.93, -8.29, -8.64, -8.98, -9.32, -9.66, -9.99,-10.32,-10.63,-10.94,-11.24,-11.54,-11.82,-12.10,-12.36,-12.62,-12.86,-13.10,-13.34,-13.56,-13.77,-13.97,-14.14,-14.29,-14.40,-14.48,-14.52,-14.51,-14.46,-14.38,-14.28,-14.16,-14.05,-13.94,-13.86,-13.81,-13.80,-13.85,-13.93,-14.06,-14.20,-14.37,-14.55,-14.73,-14.90,-15.05,-15.18,-15.29,-15.38,-15.46,-15.52,-15.58,-15.63,-15.67,-15.71,-15.76,-15.80,
+Ase15Model16SegmentZoning Segment 14, -7.38, -6.48, -5.58, -4.68, -3.80, -2.97, -2.19, -1.49, -0.88, -0.38,  0.00,  0.24,  0.34,  0.33,  0.22,  0.02, -0.23, -0.53, -0.86, -1.20, -1.53, -1.85, -2.18, -2.52, -2.85, -3.20, -3.54, -3.90, -4.25, -4.61, -4.98, -5.35, -5.72, -6.08, -6.44, -6.80, -7.15, -7.50, -7.84, -8.17, -8.50, -8.82, -9.13, -9.43, -9.72,-10.00,-10.27,-10.53,-10.77,-11.01,-11.23,-11.45,-11.65,-11.84,-12.02,-12.19,-12.34,-12.47,-12.59,-12.69,-12.77,-12.82,-12.85,-12.87,-12.87,-12.87,-12.87,-12.87,-12.89,-12.93,-13.00,-13.09,-13.21,-13.35,-13.50,-13.67,-13.85,-14.02,-14.20,-14.37,-14.52,-14.66,-14.80,-14.93,-15.05,-15.17,-15.29,-15.40,-15.51,-15.63,-15.74,
+Ase15Model16SegmentZoning Segment 15, -5.61, -4.92, -4.22, -3.52, -2.85, -2.21, -1.62, -1.09, -0.63, -0.26,  0.00,  0.15,  0.19,  0.13, -0.00, -0.21, -0.48, -0.79, -1.13, -1.50, -1.87, -2.24, -2.63, -3.04, -3.46, -3.88, -4.32, -4.77, -5.22, -5.68, -6.15, -6.62, -7.09, -7.56, -8.02, -8.48, -8.92, -9.36, -9.79,-10.20,-10.59,-10.96,-11.32,-11.65,-11.97,-12.27,-12.55,-12.83,-13.09,-13.34,-13.58,-13.81,-14.04,-14.26,-14.46,-14.65,-14.82,-14.97,-15.09,-15.17,-15.23,-15.24,-15.22,-15.17,-15.09,-15.02,-14.94,-14.87,-14.82,-14.81,-14.83,-14.91,-15.02,-15.17,-15.34,-15.52,-15.71,-15.89,-16.04,-16.18,-16.27,-16.33,-16.35,-16.35,-16.32,-16.28,-16.23,-16.16,-16.10,-16.03,-15.97,
+Ase15Model16SegmentZoning Segment 16, -8.11, -7.12, -6.12, -5.12, -4.15, -3.23, -2.38, -1.61, -0.95, -0.40,  0.00,  0.24,  0.34,  0.31,  0.16, -0.08, -0.40, -0.78, -1.20, -1.65, -2.10, -2.56, -3.04, -3.53, -4.04, -4.55, -5.07, -5.59, -6.10, -6.61, -7.10, -7.58, -8.04, -8.47, -8.89, -9.30, -9.70,-10.09,-10.47,-10.85,-11.23,-11.60,-11.97,-12.34,-12.69,-13.03,-13.36,-13.68,-13.98,-14.26,-14.52,-14.76,-15.00,-15.21,-15.40,-15.58,-15.72,-15.84,-15.93,-15.98,-15.99,-15.96,-15.88,-15.77,-15.65,-15.51,-15.38,-15.27,-15.19,-15.16,-15.18,-15.27,-15.41,-15.60,-15.82,-16.07,-16.32,-16.56,-16.79,-16.99,-17.14,-17.25,-17.32,-17.37,-17.39,-17.38,-17.37,-17.35,-17.32,-17.29,-17.27,
+
+Curves
+==========================================================
+Strain
+Radial
+Maximum
+Ase15Model16SegmentZoning
+Unit [%]
+Time [ ms],  0.00,  5.38, 10.76, 16.14, 21.52, 26.90, 32.28, 37.66, 43.04, 48.42, 53.80, 59.19, 64.57, 69.95, 75.34, 80.72, 86.11, 91.49, 96.88,102.27,107.65,113.03,118.42,123.81,129.19,134.57,139.96,145.34,150.73,156.12,161.50,166.88,172.26,177.64,183.02,188.40,193.78,199.16,204.54,209.92,215.30,220.69,226.07,231.46,236.84,242.22,247.61,252.99,258.38,263.76,269.15,274.53,279.91,285.29,290.67,296.05,301.43,306.81,312.19,317.57,322.95,328.33,333.72,339.11,344.49,349.88,355.26,360.64,366.03,371.42,376.80,382.19,387.57,392.95,398.34,403.73,409.11,414.50,419.88,425.26,430.65,436.03,441.41,446.79,452.17,457.55,462.93,468.31,473.69,479.07,484.45,
+Ase15Model16SegmentZoning Segment  1,  3.01,  2.54,  2.05,  1.57,  1.11,  0.70,  0.35,  0.09, -0.07, -0.11, -0.00,  0.27,  0.70,  1.25,  1.91,  2.65,  3.43,  4.25,  5.06,  5.85,  6.59,  7.28,  7.93,  8.55,  9.14,  9.72, 10.27, 10.81, 11.35, 11.89, 12.43, 12.97, 13.49, 14.01, 14.52, 15.02, 15.53, 16.04, 16.55, 17.07, 17.60, 18.14, 18.69, 19.25, 19.80, 20.35, 20.89, 21.41, 21.91, 22.39, 22.84, 23.26, 23.66, 24.03, 24.38, 24.68, 24.95, 25.18, 25.36, 25.49, 25.56, 25.57, 25.51, 25.40, 25.24, 25.06, 24.87, 24.67, 24.49, 24.33, 24.22, 24.16, 24.15, 24.16, 24.18, 24.18, 24.13, 24.02, 23.82, 23.50, 23.05, 22.45, 21.73, 20.91, 20.00, 19.01, 17.97, 16.90, 15.80, 14.69, 13.60,
+Ase15Model16SegmentZoning Segment  2,  4.26,  3.72,  3.18,  2.65,  2.13,  1.65,  1.20,  0.80,  0.46,  0.19, -0.00, -0.10, -0.12, -0.07,  0.06,  0.25,  0.51,  0.82,  1.18,  1.60,  2.05,  2.56,  3.13,  3.74,  4.38,  5.04,  5.71,  6.37,  7.01,  7.62,  8.19,  8.70,  9.17,  9.59,  9.99, 10.38, 10.77, 11.17, 11.60, 12.07, 12.59, 13.16, 13.77, 14.41, 15.08, 15.77, 16.47, 17.17, 17.86, 18.55, 19.22, 19.87, 20.53, 21.17, 21.79, 22.36, 22.88, 23.34, 23.73, 24.02, 24.22, 24.29, 24.26, 24.14, 23.96, 23.72, 23.46, 23.19, 22.94, 22.72, 22.56, 22.47, 22.42, 22.41, 22.43, 22.48, 22.53, 22.58, 22.62, 22.64, 22.63, 22.59, 22.52, 22.44, 22.35, 22.25, 22.13, 22.02, 21.89, 21.77, 21.66,
+Ase15Model16SegmentZoning Segment  3,  4.31,  3.70,  3.09,  2.47,  1.89,  1.35,  0.87,  0.48,  0.19,  0.03, -0.00,  0.13,  0.42,  0.83,  1.36,  1.96,  2.63,  3.34,  4.06,  4.78,  5.47,  6.13,  6.77,  7.40,  8.02,  8.63,  9.24,  9.86, 10.48, 11.11, 11.75, 12.41, 13.07, 13.73, 14.38, 15.03, 15.66, 16.26, 16.85, 17.40, 17.92, 18.40, 18.85, 19.27, 19.66, 20.01, 20.33, 20.61, 20.86, 21.07, 21.24, 21.37, 21.44, 21.48, 21.50, 21.49, 21.47, 21.46, 21.45, 21.46, 21.50, 21.57, 21.67, 21.78, 21.90, 22.01, 22.10, 22.16, 22.18, 22.14, 22.04, 21.89, 21.68, 21.41, 21.09, 20.70, 20.24, 19.72, 19.12, 18.43, 17.67, 16.82, 15.89, 14.88, 13.82, 12.70, 11.55, 10.37,  9.16,  7.95,  6.75,
+Ase15Model16SegmentZoning Segment  4,  3.39,  2.84,  2.27,  1.70,  1.17,  0.70,  0.31,  0.02, -0.15, -0.16, -0.00,  0.36,  0.89,  1.59,  2.42,  3.35,  4.36,  5.43,  6.53,  7.63,  8.70,  9.76, 10.80, 11.84, 12.87, 13.88, 14.86, 15.83, 16.76, 17.66, 18.52, 19.34, 20.10, 20.82, 21.49, 22.12, 22.72, 23.29, 23.83, 24.35, 24.86, 25.35, 25.82, 26.27, 26.68, 27.06, 27.39, 27.66, 27.87, 28.01, 28.06, 28.04, 27.94, 27.77, 27.55, 27.28, 26.97, 26.63, 26.27, 25.89, 25.51, 25.12, 24.71, 24.29, 23.87, 23.46, 23.07, 22.71, 22.39, 22.11, 21.89, 21.74, 21.66, 21.62, 21.62, 21.62, 21.61, 21.56, 21.47, 21.29, 21.03, 20.66, 20.21, 19.69, 19.10, 18.47, 17.81, 17.11, 16.41, 15.70, 15.00,
+Ase15Model16SegmentZoning Segment  5,  9.25,  8.08,  6.89,  5.73,  4.59,  3.52,  2.54,  1.68,  0.95,  0.38, -0.00, -0.17, -0.16,  0.04,  0.38,  0.87,  1.47,  2.17,  2.94,  3.78,  4.66,  5.60,  6.59,  7.63,  8.70,  9.79, 10.89, 11.98, 13.05, 14.08, 15.05, 15.97, 16.83, 17.63, 18.38, 19.10, 19.77, 20.41, 21.03, 21.62, 22.19, 22.74, 23.26, 23.75, 24.22, 24.66, 25.08, 25.48, 25.87, 26.24, 26.61, 26.97, 27.33, 27.68, 28.01, 28.31, 28.58, 28.80, 28.97, 29.07, 29.11, 29.07, 28.96, 28.78, 28.57, 28.32, 28.05, 27.78, 27.51, 27.26, 27.04, 26.87, 26.72, 26.59, 26.48, 26.39, 26.30, 26.20, 26.10, 25.98, 25.85, 25.69, 25.52, 25.34, 25.15, 24.95, 24.75, 24.55, 24.34, 24.13, 23.92,
+Ase15Model16SegmentZoning Segment  6, 12.20, 10.69,  9.17,  7.65,  6.18,  4.79,  3.50,  2.35,  1.36,  0.57, -0.00, -0.31, -0.39, -0.25,  0.07,  0.53,  1.11,  1.79,  2.52,  3.27,  4.03,  4.78,  5.55,  6.34,  7.14,  7.95,  8.78,  9.61, 10.44, 11.29, 12.13, 12.97, 13.79, 14.61, 15.41, 16.20, 16.97, 17.73, 18.48, 19.21, 19.93, 20.62, 21.30, 21.95, 22.58, 23.19, 23.78, 24.35, 24.90, 25.44, 25.95, 26.46, 26.95, 27.43, 27.88, 28.29, 28.67, 28.99, 29.26, 29.47, 29.60, 29.65, 29.62, 29.52, 29.38, 29.21, 29.04, 28.88, 28.76, 28.68, 28.67, 28.75, 28.90, 29.10, 29.33, 29.57, 29.81, 30.02, 30.19, 30.28, 30.29, 30.22, 30.07, 29.85, 29.59, 29.28, 28.94, 28.58, 28.21, 27.84, 27.48,
+Ase15Model16SegmentZoning Segment  7,  0.50,  0.29,  0.06, -0.16, -0.36, -0.51, -0.61, -0.62, -0.54, -0.34, -0.00,  0.49,  1.14,  1.90,  2.76,  3.69,  4.66,  5.65,  6.62,  7.55,  8.41,  9.21,  9.95, 10.64, 11.30, 11.93, 12.54, 13.13, 13.73, 14.33, 14.94, 15.56, 16.18, 16.80, 17.42, 18.04, 18.66, 19.29, 19.92, 20.55, 21.19, 21.84, 22.49, 23.15, 23.81, 24.45, 25.10, 25.72, 26.34, 26.93, 27.50, 28.06, 28.59, 29.10, 29.58, 30.03, 30.43, 30.79, 31.09, 31.33, 31.50, 31.61, 31.63, 31.60, 31.51, 31.37, 31.20, 31.00, 30.78, 30.55, 30.32, 30.10, 29.89, 29.66, 29.42, 29.14, 28.82, 28.44, 27.99, 27.47, 26.85, 26.14, 25.35, 24.49, 23.57, 22.60, 21.60, 20.56, 19.51, 18.45, 17.40,
+Ase15Model16SegmentZoning Segment  8,  7.18,  6.24,  5.29,  4.35,  3.44,  2.59,  1.82,  1.15,  0.61,  0.22, -0.00, -0.03,  0.13,  0.44,  0.89,  1.46,  2.13,  2.88,  3.67,  4.51,  5.35,  6.21,  7.10,  8.02,  8.95,  9.90, 10.86, 11.83, 12.81, 13.78, 14.75, 15.71, 16.65, 17.57, 18.49, 19.39, 20.28, 21.16, 22.03, 22.90, 23.75, 24.60, 25.43, 26.24, 27.04, 27.82, 28.59, 29.33, 30.06, 30.77, 31.46, 32.13, 32.80, 33.44, 34.04, 34.61, 35.13, 35.59, 35.99, 36.31, 36.55, 36.70, 36.78, 36.78, 36.71, 36.59, 36.42, 36.21, 35.97, 35.70, 35.42, 35.13, 34.81, 34.47, 34.12, 33.76, 33.40, 33.04, 32.69, 32.34, 32.01, 31.69, 31.39, 31.11, 30.84, 30.58, 30.32, 30.07, 29.82, 29.57, 29.32,
+Ase15Model16SegmentZoning Segment  9,  5.96,  5.15,  4.33,  3.52,  2.74,  2.01,  1.36,  0.81,  0.39,  0.11, -0.00,  0.08,  0.35,  0.78,  1.33,  1.98,  2.71,  3.48,  4.27,  5.04,  5.78,  6.46,  7.12,  7.75,  8.37,  8.99,  9.63, 10.29, 10.98, 11.72, 12.51, 13.37, 14.27, 15.21, 16.17, 17.12, 18.06, 18.98, 19.84, 20.65, 21.38, 22.02, 22.59, 23.10, 23.55, 23.95, 24.32, 24.67, 25.00, 25.33, 25.66, 26.00, 26.33, 26.66, 26.99, 27.31, 27.62, 27.92, 28.21, 28.48, 28.74, 28.98, 29.20, 29.40, 29.59, 29.77, 29.95, 30.14, 30.33, 30.54, 30.78, 31.05, 31.36, 31.68, 31.98, 32.24, 32.42, 32.50, 32.45, 32.25, 31.85, 31.27, 30.51, 29.60, 28.57, 27.44, 26.23, 24.96, 23.66, 22.36, 21.06,
+Ase15Model16SegmentZoning Segment 10,  6.70,  5.80,  4.89,  3.99,  3.12,  2.31,  1.58,  0.97,  0.48,  0.15, -0.00,  0.05,  0.29,  0.70,  1.25,  1.92,  2.68,  3.50,  4.37,  5.25,  6.13,  7.00,  7.88,  8.76,  9.65, 10.54, 11.44, 12.34, 13.24, 14.14, 15.04, 15.93, 16.81, 17.68, 18.53, 19.36, 20.17, 20.95, 21.72, 22.46, 23.17, 23.85, 24.51, 25.13, 25.72, 26.27, 26.79, 27.26, 27.70, 28.10, 28.46, 28.77, 29.05, 29.29, 29.49, 29.64, 29.75, 29.79, 29.78, 29.71, 29.57, 29.34, 29.04, 28.68, 28.28, 27.86, 27.44, 27.05, 26.70, 26.41, 26.21, 26.12, 26.13, 26.20, 26.31, 26.43, 26.52, 26.57, 26.54, 26.41, 26.14, 25.73, 25.20, 24.57, 23.86, 23.08, 22.25, 21.38, 20.50, 19.61, 18.73,
+Ase15Model16SegmentZoning Segment 11, 11.85, 10.37,  8.87,  7.39,  5.96,  4.60,  3.35,  2.23,  1.28,  0.53, -0.00, -0.28, -0.33, -0.17,  0.18,  0.69,  1.34,  2.11,  2.97,  3.89,  4.87,  5.90,  7.00,  8.15,  9.34, 10.56, 11.79, 13.02, 14.23, 15.40, 16.53, 17.59, 18.60, 19.56, 20.46, 21.33, 22.17, 22.98, 23.77, 24.54, 25.31, 26.06, 26.80, 27.51, 28.20, 28.87, 29.51, 30.12, 30.71, 31.27, 31.80, 32.30, 32.78, 33.23, 33.65, 34.03, 34.37, 34.67, 34.93, 35.13, 35.27, 35.36, 35.39, 35.37, 35.31, 35.22, 35.11, 35.00, 34.89, 34.80, 34.72, 34.68, 34.66, 34.65, 34.66, 34.66, 34.67, 34.67, 34.65, 34.62, 34.55, 34.46, 34.35, 34.22, 34.08, 33.92, 33.76, 33.58, 33.41, 33.23, 33.06,
+Ase15Model16SegmentZoning Segment 12, 15.07, 13.23, 11.37,  9.53,  7.74,  6.04,  4.46,  3.03,  1.79,  0.76, -0.00, -0.48, -0.70, -0.67, -0.44, -0.03,  0.52,  1.20,  1.96,  2.78,  3.63,  4.52,  5.46,  6.45,  7.46,  8.51,  9.56, 10.62, 11.67, 12.70, 13.70, 14.65, 15.57, 16.44, 17.28, 18.10, 18.89, 19.67, 20.44, 21.21, 21.98, 22.75, 23.51, 24.27, 25.01, 25.73, 26.43, 27.09, 27.72, 28.31, 28.86, 29.37, 29.83, 30.26, 30.65, 31.01, 31.33, 31.62, 31.87, 32.09, 32.28, 32.42, 32.52, 32.57, 32.61, 32.65, 32.70, 32.78, 32.90, 33.08, 33.34, 33.71, 34.16, 34.67, 35.21, 35.73, 36.21, 36.61, 36.89, 37.02, 36.97, 36.73, 36.32, 35.77, 35.10, 34.33, 33.49, 32.60, 31.68, 30.75, 29.84,
+Ase15Model16SegmentZoning Segment 13,  7.08,  6.13,  5.17,  4.22,  3.30,  2.45,  1.68,  1.03,  0.51,  0.16, -0.00,  0.05,  0.31,  0.74,  1.32,  2.01,  2.80,  3.65,  4.53,  5.42,  6.30,  7.15,  8.00,  8.84,  9.68, 10.53, 11.37, 12.20, 13.04, 13.88, 14.71, 15.54, 16.35, 17.15, 17.93, 18.71, 19.48, 20.24, 20.99, 21.74, 22.49, 23.24, 23.98, 24.71, 25.43, 26.13, 26.82, 27.49, 28.14, 28.77, 29.38, 29.96, 30.53, 31.08, 31.59, 32.07, 32.50, 32.87, 33.17, 33.41, 33.56, 33.62, 33.59, 33.48, 33.33, 33.13, 32.92, 32.71, 32.52, 32.36, 32.25, 32.22, 32.23, 32.29, 32.37, 32.45, 32.51, 32.55, 32.53, 32.45, 32.28, 32.03, 31.71, 31.32, 30.88, 30.40, 29.89, 29.36, 28.82, 28.27, 27.73,
+Ase15Model16SegmentZoning Segment 14, 10.53,  9.19,  7.85,  6.51,  5.21,  3.99,  2.87,  1.88,  1.05,  0.42, -0.00, -0.17, -0.10,  0.18,  0.62,  1.20,  1.89,  2.66,  3.47,  4.29,  5.08,  5.86,  6.63,  7.40,  8.17,  8.94,  9.72, 10.50, 11.28, 12.08, 12.88, 13.69, 14.49, 15.29, 16.08, 16.85, 17.61, 18.35, 19.07, 19.77, 20.43, 21.07, 21.67, 22.25, 22.79, 23.31, 23.81, 24.29, 24.75, 25.20, 25.64, 26.06, 26.47, 26.87, 27.24, 27.60, 27.92, 28.21, 28.47, 28.70, 28.88, 29.02, 29.13, 29.20, 29.23, 29.24, 29.21, 29.16, 29.07, 28.96, 28.81, 28.64, 28.44, 28.21, 27.97, 27.72, 27.47, 27.23, 27.01, 26.82, 26.66, 26.54, 26.45, 26.40, 26.36, 26.35, 26.34, 26.35, 26.36, 26.38, 26.39,
+Ase15Model16SegmentZoning Segment 15,  8.49,  7.39,  6.29,  5.19,  4.13,  3.14,  2.23,  1.44,  0.78,  0.30, -0.00, -0.08,  0.04,  0.34,  0.79,  1.36,  2.03,  2.76,  3.54,  4.33,  5.10,  5.86,  6.62,  7.38,  8.15,  8.92,  9.70, 10.48, 11.27, 12.07, 12.87, 13.69, 14.50, 15.31, 16.11, 16.89, 17.66, 18.40, 19.12, 19.80, 20.45, 21.06, 21.63, 22.16, 22.66, 23.13, 23.57, 23.99, 24.39, 24.78, 25.16, 25.52, 25.88, 26.23, 26.55, 26.85, 27.11, 27.33, 27.51, 27.63, 27.69, 27.68, 27.60, 27.47, 27.31, 27.13, 26.94, 26.76, 26.60, 26.48, 26.41, 26.40, 26.45, 26.54, 26.66, 26.78, 26.91, 27.03, 27.12, 27.18, 27.18, 27.13, 27.04, 26.91, 26.75, 26.57, 26.37, 26.16, 25.94, 25.72, 25.51,
+Ase15Model16SegmentZoning Segment 16, 12.85, 11.26,  9.65,  8.06,  6.51,  5.04,  3.69,  2.47,  1.43,  0.60, -0.00, -0.34, -0.43, -0.30,  0.02,  0.51,  1.13,  1.85,  2.66,  3.52,  4.40,  5.32,  6.28,  7.28,  8.31,  9.36, 10.41, 11.45, 12.48, 13.48, 14.44, 15.35, 16.20, 17.01, 17.78, 18.52, 19.23, 19.92, 20.61, 21.28, 21.96, 22.64, 23.32, 23.98, 24.63, 25.26, 25.86, 26.44, 26.99, 27.51, 27.98, 28.42, 28.83, 29.20, 29.54, 29.85, 30.12, 30.36, 30.56, 30.73, 30.87, 30.97, 31.02, 31.04, 31.04, 31.03, 31.01, 31.00, 31.01, 31.04, 31.12, 31.24, 31.40, 31.59, 31.80, 32.01, 32.20, 32.36, 32.49, 32.55, 32.55, 32.47, 32.32, 32.13, 31.89, 31.62, 31.31, 30.99, 30.66, 30.33, 30.00,
+
+
