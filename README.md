@@ -6,7 +6,7 @@ After the first successful running, it can generate a csv file which has pressur
 
 Recent edited 294-297. It compares the time of pressure and volume.Then, it takes the shorter period for interpolation. Shown here:
 
-if max(t_0)>= max(t_1):  //
-     max_t = max(t_1)    //
-if max(t_0)<max(t_1):    //
-     max_t = max(t_0)    //
+if max(t_0)>= max(t_1):  \
+     max_t = max(t_1)    \
+if max(t_0)<max(t_1):    \
+     max_t = max(t_0)    \
