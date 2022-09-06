@@ -5,6 +5,7 @@ The org.py is processing the pressure, volume, and strain value. The example is 
 After the first successful running, it can generate a csv file which has pressure, volume, and time in it. If you would like to make some data changes, you can change inside, and the code will use the data in the csv file to run in second time.  
 
 Recent edited 294-297. It compares the time of pressure and volume.Then, it takes the shorter period for interpolation. Shown here:
+
 if max(t_0)>= max(t_1): 
      max_t = max(t_1)
 if max(t_0)<max(t_1):
