@@ -1,22 +1,17 @@
-import xlsxwriter
 import csv
 import pandas as pd
 import numpy as np
 from matplotlib import pylab as plt
 import os as os
 import scipy.io as sio
-from openpyxl import Workbook
 import scipy.io
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d
 
 ##  test process
-pignumber=3072            #running case
-data_number = 50         #process data numbers for simulation
-P_filename = '3072_RA100bpm_wo_hemodynamics'       #name for pressure file
-txt_filename = '3072_RA100'
+pignumber=393485            #running case
+data_number = 31         #process data numbers for simulation
+P_filename = 'LVpressure'       #name for pressure file
+txt_filename = '393485'
 ms=3
 try:
     print((txt_filename+'.csv') == True)
@@ -291,19 +286,20 @@ except:
     
     t_0 = np.array(x_0[0])
     LVP_0 = np.array(y_0[0])
-        
+
     print('The pressure mat points: t='+ str(len(t_0)) + ' and LVP='+ str(len(LVP_0)))
     print('The volume mat points: t='+ str(len(t_1)) + ' and Volume='+ str(len(volume_array_1)))
     
     ######interpolation
-
-    max_t = max(t_0)
-    print(max_t,max(t_1))
+    if max(t_0)>= max(t_1):                     #the size of pressrue and volume is not equal, we need to match them in same time point
+        max_t = max(t_1)
+    if max(t_0)<max(t_1):
+        max_t = max(t_0)
     #intepolation for pressure and volume
     Pfx = interp1d(t_0, LVP_0, kind = 'linear',fill_value="extrapolate")
     Vfx = interp1d(t_1, volume_array_1, kind = 'linear',fill_value="extrapolate")
     xInterp = np.linspace(0, max_t, data_number)    # process identical data point for pressure, volume, and strain
-    xInterp_1 = np.linspace(0, max(t_0), data_number)      # process identical data point for pressure, volume, and strain
+    xInterp_1 = np.linspace(0, max_t, data_number)      # process identical data point for pressure, volume, and strain
     yInterp = Vfx(xInterp)
     LVP_1 = Pfx(xInterp_1)
     
