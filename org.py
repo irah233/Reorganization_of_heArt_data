@@ -8,7 +8,7 @@ import scipy.io
 from scipy.interpolate import interp1d
 
 ##  test process
-pignumber=393485            #running case
+pignumber=393485           #running case
 data_number = 31         #process data numbers for simulation
 P_filename = 'LVpressure'       #name for pressure file
 txt_filename = '393485'
@@ -291,17 +291,18 @@ except:
     print('The volume mat points: t='+ str(len(t_1)) + ' and Volume='+ str(len(volume_array_1)))
     
     ######interpolation
-    if max(t_0)>= max(t_1):                     #the size of pressrue and volume is not equal, we need to match them in same time point
+    if max(t_0)>= max(t_1):            #the size of pressrue and volume is not equal, we need to match them in same time point
         max_t = max(t_1)
-    if max(t_0)<max(t_1):
+    if max(t_0)<=max(t_1):
         max_t = max(t_0)
     #intepolation for pressure and volume
     Pfx = interp1d(t_0, LVP_0, kind = 'linear',fill_value="extrapolate")
     Vfx = interp1d(t_1, volume_array_1, kind = 'linear',fill_value="extrapolate")
     xInterp = np.linspace(0, max_t, data_number)    # process identical data point for pressure, volume, and strain
-    xInterp_1 = np.linspace(0, max_t, data_number)      # process identical data point for pressure, volume, and strain
+    xInterp_1 = np.linspace(0, max(t_0), data_number)      # process identical data point for pressure, volume, and strain
     yInterp = Vfx(xInterp)
     LVP_1 = Pfx(xInterp_1)
+    t_1 = np.linspace(0,t_1[len(t_1)-1],data_number)
     
     plt.plot(xInterp,yInterp,'o-', markersize=ms)
     plt.title("NEW"+ str(pignumber))
@@ -312,13 +313,12 @@ except:
     t = xInterp
     P = LVP_1
     V = yInterp
-    print(len(t),len(P),len(V))
     n=0
     with open(txt_filename+'.csv','w',newline='') as f:       #CSV file name
         fieldnames = ['t','P','V']
         thewriter = csv.DictWriter(f, fieldnames=fieldnames)
         while n!= int(data_number):
-            thewriter.writerow({'t':t[n],'P':P[n],'V':V[n]})  #check length for each list or numpy
+            thewriter.writerow({'t':t_1[n],'P':P[n],'V':V[n]})  #check length for each list or numpy   -27.985
             n+=1
 
 
