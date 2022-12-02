@@ -1,30 +1,37 @@
-csvf1 = readtable('407037echo/Tmax.csv');
-csvf2 = readtable('407037mri/Tmax.csv');
-swine = 407037;
+csvf1 = readtable('396669echo/Tmax.csv');
+csvf2 = readtable('396669mri/Tmax.csv');
+swine = 396669;
 if swine== 396669
     total_t = 0.66925; 
+    lo = 1.08;
 end
 if swine== 396670
     total_t = 0.4845;
+    lo = 1.08;
 end
 if swine== 399018
     total_t = 0.5383;
+    lo = 1.18;
 end
 if swine== 399019
     total_t = 0.5383;
+    lo = 0.88;
 end
 if swine== 407034
     total_t = 0.5383;
+    lo = 1.08;
 end
 if swine== 407036
     total_t = 0.48445;
+    lo = 1.08;
 end
 if swine== 407037
     total_t = 0.5921;
+    lo = 1.18;
 end
 %Constant values
 lr = 1.85;
-lo = 1.28;
+
 CaoMax = 4.35;
 Cao = 4.35;
 B = 4.75;
@@ -72,20 +79,24 @@ p2=ls_P(31:end);
 end
 figure(1)
 hold on
-plot(t1*total_t/30, p1,'LineWidth',1.5,'DisplayName','Active Tension ECHO')
+plot(t1*total_t/30*1000, p1,'LineWidth',1.5,'DisplayName','Active Tension ECHO')
 hold on
-plot(t2*total_t/30, p2,'LineWidth',1.5,'DisplayName','Active Tension MRI')
+plot(t2*total_t/30*1000, p2,'LineWidth',1.5,'DisplayName','Active Tension MRI')
 actmax(j) = max(sigma_active)/1000.0;
 
 
-grid on
+grid off
 % legend({'k = 0','k = 0.14','k = 0.22','k = 0.265'}, 'FontSize',12)%,'17','18','19')%,'change','pp') %,'0.35,0.05','0.35,0.09','0.35,0.5')
-legend({'Active Tension ECHO','Active Tension MRI'}, 'FontSize',24, 'Fontname','Times New Roman', 'Location','south')
+legend({'ECHO','MRI'}, 'FontSize',24, 'Fontname','Times New Roman', 'Location','north east')
 %title('Isometric tension plot','FontSize',24)
-xlabel('Time (s)','FontSize',24, 'fontWeight','bold', 'Fontname','Times New Roman')
-ylabel('Active Tension (mmHg)','FontSize',24, 'fontWeight','bold', 'Fontname','Times New Roman')
+xlabel('Time (ms)','FontSize',24, 'Fontname','Times New Roman')
+ylabel('Active Tension (mmHg)','FontSize',24, 'Fontname','Times New Roman')
+set(gca,'TickLabelInterpreter','latex')
+set(gca,'FontSize',24)
 hold off
 saveas(gcf, 'activetension_', 'png')
+disp(max(p1))
+disp(max(p2))
 
 function lso = ActiveLength(lamda, lr, lo)
 ls = lamda*lr;

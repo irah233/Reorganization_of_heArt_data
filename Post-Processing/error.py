@@ -14,7 +14,7 @@ font1 = {'weight' : 'normal',
 'fontname' : 'Times New Roman',
 'size' : 24,}
 
-pig_ = 407037   # case number/name
+pig_ = 407036   # case number/name
 path = input('Solve for ECHO or MRI: ')
 if path.lower().strip() == 'echo':
     path = str(pig_)+'echo/'
@@ -119,8 +119,8 @@ x1=np.linalg.norm(x=a[0],ord=2,keepdims=False)
 x2=np.linalg.norm(x=a[1],ord=2,keepdims=False)
 x3=np.linalg.norm(x=b[0],ord=2,keepdims=False)
 x4=np.linalg.norm(x=b[1],ord=2,keepdims=False)
-Perror=x1/x2
-Verror=x3/x4 
+Perror=x1/x2*100
+Verror=x3/x4 *100
 while m!= 65:
     S = np.array(sdata.values[:,m])
     num=m-1
@@ -129,7 +129,7 @@ while m!= 65:
         SS=S-S1
         f =np.linalg.norm(x=SS,ord=2,keepdims=False)
         d =np.linalg.norm(x=S1,ord=2,keepdims=False)
-        g=f/d
+        g=f/d*100
         clst.append(g)
     m+=1
 clst.append(Perror)
@@ -230,14 +230,14 @@ while (m<(len(data_1)/2-1)):
     part.append(m+1); err.append(clst[m])
     m +=1
 filename1.append('Ell Error')
-plt.figure(figsize=(5,4))
+plt.figure(figsize=(7,5))
 plt.bar(part,err,color=color)
-plt.xlabel(r"Aha segment (#)", font1)
-plt.ylabel(r'Ell error (100%)', font1)
+plt.xlabel(r"AHA segment (#)", font1)
+plt.ylabel(r'Ell error (%)', font1)
 x_ticks = np.linspace(0, 16, 5)  # 5 values for x-axis between the largest value to 0;
 plt.xticks(x_ticks)
 plt.xticks(fontsize=24, rotation=0, fontname="Times New Roman")
-y_ticks = np.linspace(0, 1.5, 3)  # 3 values for x-axis between the largest value to 0;
+y_ticks = np.linspace(0, 150, 3)  # 3 values for x-axis between the largest value to 0;
 plt.yticks(y_ticks)
 plt.yticks(fontsize=24, rotation=0, fontname="Times New Roman")
 plt.tight_layout()
@@ -248,14 +248,14 @@ while  (m<(len(data_1)-1)):
     m +=1
 print(err)
 filename1.append('Ecc Error')
-plt.figure(figsize=(5,4))
+plt.figure(figsize=(7,5))
 plt.bar(part,err,color=color)
-plt.xlabel(r"Aha segment (#)", font1)
-plt.ylabel(r'Ecc error (100%)', font1)
+plt.xlabel(r"AHA segment (#)", font1)
+plt.ylabel(r'Ecc error (%)', font1)
 x_ticks = np.linspace(0, 16, 5)  
 plt.xticks(x_ticks)
 plt.xticks(fontsize=24, rotation=0, fontname="Times New Roman")
-y_ticks = np.linspace(0, 0.5, 3)  
+y_ticks = np.linspace(0, 50, 3)  
 plt.yticks(y_ticks)
 plt.yticks(fontsize=24, rotation=0, fontname="Times New Roman")
 plt.tight_layout()
@@ -265,10 +265,10 @@ while (m < len(data_1)+1):
     err.append(clst[m])
     m+=1
 filename1.append('PVLoop Error')
-plt.figure(figsize=(5,4))
+plt.figure(figsize=(7,5))
 plt.bar(part,err,color=color)
-plt.ylabel(r'PVLoop_error (100%)', font1)
-y_ticks = np.linspace(0, 0.5, 3)  
+plt.ylabel(r'Error (%)', font1)
+y_ticks = np.linspace(0, 30, 3)  
 plt.yticks(y_ticks)
 plt.yticks(fontsize=24, rotation=0, fontname="Times New Roman")
 plt.xticks(fontsize=24, rotation=0, fontname="Times New Roman")
@@ -285,10 +285,10 @@ maxT = max(data_2[:,1]*0.007519)
 if  max(data_1[:,1]*0.007519) > max(data_2[:,1]*0.007519):
     maxT = max(data_1[:,1]*0.007519)
 filename1.append('Tmax')
-plt.figure(figsize=(5,4))
+plt.figure(figsize=(7,5))
 plt.plot(data_1[:,0]*total_t/29*1000, data_1[:,1]*0.007519,'-', markersize=5, markeredgewidth=5,label='ECHO' ,color='blue')
 plt.plot(data_1[:,0]*total_t/29*1000, data_2[:,1]*0.007519,'-', markersize=5, markeredgewidth=5,label ='MRI' ,color='darkorange')
-plt.legend(loc='upper right', bbox_to_anchor=(0.85, 1), borderaxespad= -3, frameon=False, ncol=2, fontsize=24)
+plt.legend(loc='lower center', bbox_to_anchor=(0.3, 0),  frameon=False, ncol=1, fontsize=24)# borderaxespad= -3,
 plt.ylabel(r'Tmax (mmHg)', font1)
 plt.xlabel(r'Time (ms)', font1)
 y_ticks = np.linspace(0, maxT, 3)
