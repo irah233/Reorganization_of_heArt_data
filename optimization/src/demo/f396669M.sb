@@ -1,0 +1,24 @@
+#!/bin/bash
+
+#SBATCH --time=12:00:00 # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --nodes=8                   # number of different nodes - could be an exact number or a range of nodes (same as -N)
+#SBATCH --ntasks-per-node=8         # number of tasks - how many tasks (nodes) that you require (same as -n)
+#SBATCH --mem=20GB          # memory required per allocated CPU (or core) - amount of memory (in bytes)
+#SBATCH --output=MRI396669.sb      # you can give your job a name for easier identification (same as -J)
+#SBATCH --error=MRI396669.sb
+
+########## Command Lines to Run ##########
+# change to the current working directory
+ 
+#module purge
+#module load GCC/5.4.0-2.26  ### load necessary modules, e.g.
+#module load GNU/5.4.0-2.26 
+#module load MATLAB/2018a matlabengineforpython/2018a
+#export LD_PRELOAD=/opt/software/MATLAB/2018a/sys/os/glnxa64/libstdc++.so.6.0.22
+cd  ${/mnt/home/caichen3/lab/heArt_optimization/src/demo}
+
+#####srun -n 8 singularity exec /mnt/home/fanlei1/fenics_msucompbiomechlab.img python /mnt/home/fanlei1/closed_fem_flow/cases/HFpEF2/case_LV2_homo_closedloop_baseline_comb11_tv_new1v_mesh3.py
+
+srun -n 8 singularity exec --bind /opt/software/MATLAB:/opt/software/MATLAB /mnt/home/caichen3/lab/fenicsadjt_msucompbiomechlab.img python3 /mnt/home/caichen3/lab/heArt_optimization/src/demo/optimizeMRI396669.py             ### call your executable (similar to mpirun)
+ 
+            ### write resource usage to SLURM output file (powetools command)
